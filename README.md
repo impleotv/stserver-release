@@ -45,10 +45,10 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer** |  v1.0.1 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
+| **StServer** |  v1.0.3 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
 
-*Released on Wed, 17 Nov, 09:35 GMT+2*
+*Released on Wed, 17 Nov, 09:54 GMT+2*
 
 ## License
 
