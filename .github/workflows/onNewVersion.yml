@@ -16,14 +16,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v1
-   
-      - name: Download release asset
-        uses: dsaltares/fetch-gh-release-asset@master
-        with:
-          #version: tags/${{ env.RELEASE }}          
-          file: SetupStPlayer.zip
-          target: SetupStPlayer.zip
-
+ 
       - name: List files in the repository
         run: |
           tree ${{ github.workspace }}
