@@ -24,11 +24,15 @@ jobs:
           token: ${{ secrets.TOKEN }}
           path: ./stserver2
        
-      - name: Copy CHANGELOG.md from stserver2
+      - name: Copy CHANGELOG.md from stserver2 and create install
         run: |
           mkdir ./components
           cp ./stserver2/CHANGELOG.md ./CHANGELOG-SERVER.md 
-          cp ./stserver2/package.json ./components/package-server.json 
+          cp ./stserver2/package.json ./components/package-server.json
+          cd ./stserver2/install
+          tar -czvf stserver-install.tar.gz .
+          cd ../../
+          cp ./stserver2/install/stserver-install.tar.gz  ./
           rm -rf ./stserver2
 
       - name: Checkout frontend
@@ -38,10 +42,10 @@ jobs:
           token: ${{ secrets.TOKEN }}
           path: ./frontend
        
-      - name: Copy CHANGELOG.md from stserver2
+      - name: Copy CHANGELOG.md from frontend
         run: |
           cp ./frontend/CHANGELOG.md ./CHANGELOG-FRONTEND.md 
-          cp ./frontend/package.json ./components/package-frontend.json 
+          cp ./frontend/package.json ./components/package-frontend.json        
           rm -rf ./frontend
       
       - name: Checkout stserver-frontend-comp
@@ -93,6 +97,6 @@ jobs:
       - name: Create release    
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "CHANGELOG-SERVER.md,CHANGELOG-FRONTEND.md,CHANGELOG-FRONTEND-COMP.md"       
+          artifacts: "stserver-install.tar.gz, CHANGELOG-SERVER.md,CHANGELOG-FRONTEND.md,CHANGELOG-FRONTEND-COMP.md"       
           token: ${{ secrets.GITHUB_TOKEN }}
         
