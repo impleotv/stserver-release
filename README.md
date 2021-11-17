@@ -47,12 +47,13 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.1.29 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Wed, 17 Nov, 10:32 GMT+2*
+*Released on Wed, 17 Nov, 10:48 GMT+2*
 
 This server version uses the following components:  
 
 |          | Version             | CHANGELOG                                                          | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
+| **Backend** |  2.1.29 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
 | **Frontend** |  2.1.29 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.1.1 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
