@@ -8,8 +8,14 @@ if (args.length === 0) {
   console.log('Please enter a version number');
 }
 
+const pjsonServer = JSON.parse(fs.readFileSync('./components/package-server.json', 'utf8'));
+const pjsonFrontend = JSON.parse(fs.readFileSync('./components/package-frontend.json', 'utf8'));
+const pjsonFrontendComp = JSON.parse(fs.readFileSync('./components/package-frontend-comp.json', 'utf8'));
+
 let DATA = {
-  version: args[0],
+  version: pjsonServer.version,
+  frontendVersion: pjsonFrontend.version,
+  frontendCompVersion: pjsonFrontendComp.version,
   date: new Date().toLocaleDateString('en-IL', {
     weekday: 'short',
     month: 'short',
