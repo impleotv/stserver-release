@@ -1,0 +1,177 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [2.1.29](https://github.com/impleotv/stserver2/compare/v2.1.28...v2.1.29) (2021-11-16)
+
+
+### Bug Fixes
+
+* Add parameters to access route ([acb6eca](https://github.com/impleotv/stserver2/commit/acb6eca79037fb14eb5499137db2569962232fb9))
+* Modify docs ([b7dee75](https://github.com/impleotv/stserver2/commit/b7dee75bf7927fe274df8fb41ed3d0728c45ac35))
+* Modify docs ([c5ba9f0](https://github.com/impleotv/stserver2/commit/c5ba9f04fc206e2438f868cedcd283def66e3398))
+* Update mongoose ([49002db](https://github.com/impleotv/stserver2/commit/49002db733bfa5cb5e3ee03166006fb253f18117))
+* Update rollup and systeminformation ([529aa09](https://github.com/impleotv/stserver2/commit/529aa095d0bd2328ae3f26d45bb72cd0b8efc03e))
+
+### [2.1.28](https://github.com/impleotv/stserver2/compare/v2.1.27...v2.1.28) (2021-11-11)
+
+
+### Bug Fixes
+
+* Add ipapi geolocation ([b879d93](https://github.com/impleotv/stserver2/commit/b879d93ef6a1b4ea74099176daa5be543cd5b1da))
+* Fix install ([942d205](https://github.com/impleotv/stserver2/commit/942d20546576068d5886cf7c4c9d881464bcdc62))
+* Update github actions ([db23b22](https://github.com/impleotv/stserver2/commit/db23b22971b08701e9a561b562adda9a985d70ed))
+* Update version ([045ad04](https://github.com/impleotv/stserver2/commit/045ad04cffc788955852284cb6ee08e3deac2a60))
+* ver 2.1.28 ([b6dae64](https://github.com/impleotv/stserver2/commit/b6dae64fa636603a24fc6a5bbc23cdf7f4bbb74e))
+
+### [2.1.27](https://github.com/impleotv/stserver2/compare/v2.1.26...v2.1.27) (2021-11-09)
+
+        
+### Bug Fixes
+
+* Fix SensorPlayer toolbar in live HLS mode ([7665ef8](https://github.com/impleotv/stserver2/commit/7665ef8a65b371e1a9e33c929400a61105540aff))
+
+### [2.1.26](https://github.com/impleotv/stserver2/compare/v2.1.25...v2.1.26) (2021-11-08)
+
+
+### Bug Fixes
+
+* Fix geolocation ([d3e8074](https://github.com/impleotv/stserver2/commit/d3e80743763065355a3d7f534b98a83b09f64b78))
+* Fix github action ([b8fa0e7](https://github.com/impleotv/stserver2/commit/b8fa0e7c3abc6708a103b27266c45804706d67ed))
+* Update doc ([f42020a](https://github.com/impleotv/stserver2/commit/f42020aacebccaf95aca494b90279cae651d342c))
+
+### [2.1.25](https://github.com/impleotv/stserver2/compare/v2.1.24...v2.1.25) (2021-11-07)
+
+
+### Bug Fixes
+
+* Add demo expired handling ([777196d](https://github.com/impleotv/stserver2/commit/777196d38ca0aba6787c7505f7118a1bc421e98c))
+* geolocation error handling ([9b15edc](https://github.com/impleotv/stserver2/commit/9b15edc482c6916f21ee048cc37e6b37f8924fa5))
+* Handle concurrent users limit ([d7da55a](https://github.com/impleotv/stserver2/commit/d7da55a3afed5735e50243b4de46c27c979dde57))
+* Modify openapi.json, delete WebRtcStreamer ([615b64c](https://github.com/impleotv/stserver2/commit/615b64c5c8ea609a694706ae2c5b39467a967063))
+* Update stsupervisor version ([023cc2b](https://github.com/impleotv/stserver2/commit/023cc2b66e566bc55b28907f1db23b2d48d471ca))
+
+### [2.1.24](https://github.com/impleotv/stserver2/compare/v2.1.23...v2.1.24) (2021-11-03)
+
+
+### Bug Fixes
+
+* Update dependencies ([4ee6857](https://github.com/impleotv/stserver2/commit/4ee6857ecc59bb87a78eca429215662983c07a57))
+* Update dependencies ([4710071](https://github.com/impleotv/stserver2/commit/47100711196d913bf97bf31ba1dd4c9939c683a2))
+* Update installation ([fda26a1](https://github.com/impleotv/stserver2/commit/fda26a1f8560f25797658bd4d4115a19cd6c90ea))
+
+### [2.1.23](https://github.com/impleotv/stserver2/compare/v2.1.22...v2.1.23) (2021-11-02)
+
+
+### Bug Fixes
+
+* Update stsensors (increase buffer size) ([1a0cb57](https://github.com/impleotv/stserver2/commit/1a0cb574cb945d61a4e53158214064e156040f9c))
+
+### [2.1.22](https://github.com/impleotv/stserver2/compare/v2.1.19...v2.1.22) (2021-11-02)
+
+
+### Bug Fixes
+
+* Ver 2.1.22 ([966e14d](https://github.com/impleotv/stserver2/commit/966e14d3c7d4f6a27cd170325e41f727fcb197bd))
+
+### [2.1.19](https://github.com/impleotv/stserver2/compare/v2.1.18...v2.1.19) (2021-10-25)
+
+### 2.1.18 (2021-10-20)
+- Add automatic versioning (standard-version)
+- Update frontend
+
+----
+### Ver. 2.1.17 (19/10/21)
+- Update frontend
+### Ver. 2.1.16 (10/10/21)
+- Export / import missions with bookmarks
+### Ver. 2.1.15 (07/10/21)
+- Turf union changes
+- Mongoose changes
+- Update dependencies
+
+### Ver. 2.1.13 (26/09/21)
+- Optional live low latency more
+- Update dependencies
+### Ver. 2.1.12 (23/09/21)
+- Some improvements and script build
+### Ver. 2.1.11 (18/09/21)
+- Frontend fixes and improvements
+- Fix (partial) sensor update
+### Ver. 2.1.9 (07/21)
+- WebRtc
+- license
+### Ver. 2.1.8 (05/21)
+- Multiple improvements
+### Ver. 2.1.7 (02/05/21)
+- Multisensor license
+- Add country list endpoint
+- Fix bookmarks removal
+### Ver. 2.1.6 (28/04/21)
+- Frontend update to support old versions
+### Ver. 2.1.5 (25/04/21)
+- Fix live recording (last segment ingest)
+### Ver. 2.1.4
+- Frontend changes and dependencies updates
+- Update bookmark model
+- Socket.io 4.0.1
+### Ver. 2.1.3
+- Frontend changes and dependencies updates
+### Ver. 2.1.2
+- Fixes and new functionality additions
+### Ver. 2.1.1
+- Move Frontend to React 17
+### Ver. 2.1.0
+- Move to socket.io
+
+### Ver. 2.0.18
+- Frontend update
+- stanag4609js update
+
+### Ver. 2.0.17
+- Some minor changes
+
+### Ver. 2.0.16
+- Fix local files upload
+
+### Ver. 2.0.15
+- Add /api to rest interface
+
+### Ver. 2.0.12
+- AOI param in queries
+- Footprint schema change
+
+### Ver. 2.0.11
+- Area calculation fix (for movies without corner points)
+- Fix file extension (capital) for Linux
+
+### Ver. 2.0.10
+- Fix ingest (stsensors)
+- Docs
+
+### Ver. 2.0.9
+- Platforms reporting updated
+
+### Ver. 2.0.8
+- HLS dev
+
+### Ver. 2.0.7
+- docker
+
+### Ver. 2.0.6
+- Sensor resolution detection.
+
+### Ver. 2.0.5
+- Fix empty license / key.
+
+### Ver. 2.0.4
+- Upload, ingest, etc.
+
+### Ver. 2.0.2
+- Geo stuff added
+
+### Ver. 2.0.1
+- dev
+
+### Ver. 1.0.0
+*Initial version*
