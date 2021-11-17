@@ -45,10 +45,17 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer** |  v1.0.3 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
+| **StServer** |  2.1.29 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
+*Released on Wed, 17 Nov, 10:30 GMT+2*
 
-*Released on Wed, 17 Nov, 09:54 GMT+2*
+This server version uses the following components:  
+
+|          | Version             | CHANGELOG                                                          | 
+|:---------|:-------------------:|:------------------------------------------------------------------------|
+| **Frontend** |  2.1.29 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.1.1 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+  
 
 ## License
 
