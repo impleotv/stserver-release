@@ -20,7 +20,7 @@ jobs:
       - name: Checkout stserver
         uses: actions/checkout@v2
         with:
-          repository: https://github.com/impleotv/stserver2
+          repository: impleotv/stserver2
           path: ./stserver2
  
       - name: List files in the repository
