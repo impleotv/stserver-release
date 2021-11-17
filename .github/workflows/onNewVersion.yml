@@ -23,15 +23,39 @@ jobs:
           repository: impleotv/stserver2
           token: ${{ secrets.TOKEN }}
           path: ./stserver2
- 
-      - name: List files in the repository
-        run: |
-          tree ${{ github.workspace }}
-      
+       
       - name: Copy CHANGELOG.md from stserver2
         run: |
+          mkdir ./components
           cp ./stserver2/CHANGELOG.md ./CHANGELOG-SERVER.md 
+          cp ./stserver2/package.json ./components/package-server.json 
           rm -rf ./stserver2
+
+      - name: Checkout frontend
+        uses: actions/checkout@v2
+        with:
+          repository: impleotv/stserver2-frontend
+          token: ${{ secrets.TOKEN }}
+          path: ./frontend
+       
+      - name: Copy CHANGELOG.md from stserver2
+        run: |
+          cp ./frontend/CHANGELOG.md ./CHANGELOG-FRONTEND.md 
+          cp ./frontend/package.json ./components/package-frontend.json 
+          rm -rf ./frontend
+      
+      - name: Checkout stserver-frontend-comp
+        uses: actions/checkout@v2
+        with:
+          repository: impleotv/stserver-frontend-comp
+          token: ${{ secrets.TOKEN }}
+          path: ./stserver-frontend-comp
+       
+      - name: Copy CHANGELOG.md from stserver-frontend-comp
+        run: |
+          cp ./stserver-frontend-comp/CHANGELOG.md ./CHANGELOG-FRONTEND-COMP.md
+          cp ./tserver-frontend-comp/package.json ./components/package-frontend-comp.json  
+          rm -rf ./stserver-frontend-comp
 
       - name: List files in the repository
         run: |
@@ -57,6 +81,10 @@ jobs:
       - name: Generate README file
         run: node index.js ${{env.RELEASE_VERSION }}
 
+      - name: Clean up
+        run: |
+          rm -rf ./components
+
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
@@ -65,6 +93,6 @@ jobs:
       - name: Create release    
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "CHANGELOG.md,CHANGELOG-SERVER.md "       
+          artifacts: "CHANGELOG-SERVER.md,CHANGELOG-FRONTEND.md,CHANGELOG-FRONTEND-COMP.md"       
           token: ${{ secrets.GITHUB_TOKEN }}
         
