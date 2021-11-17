@@ -27,6 +27,7 @@ wget https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz
 ```
 tar -xvf stserver-install.tar.gz
 ```
+
 4. Edit **.env** file, if needed.
 
 ```
