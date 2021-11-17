@@ -27,7 +27,6 @@ jobs:
       - name: List files in the repository
         run: |
           tree ${{ github.workspace }}
-
       
       - name: Copy CHANGELOG.md from stserver2
         run: |
