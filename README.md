@@ -7,7 +7,7 @@
 
 # StServer
 
-**STANAG On Demand Server** delivers On-Demand / Live FMV and geo-spatial metadata to video analysts and field operators in order to help them easily access, analyze, and present mission information.
+**STANAG On Demand Server** delivers On-Demand / Live FMV and geo-spatial metadata to video analysts and field operators in order to help them easily access, analyze, and present mission information.  
 More [info](https://impleotv.com/products/stanagondemand-server/).
 
 ## System Requirements
@@ -19,11 +19,11 @@ OS: Linux.
 **STANAG On Demand Server** is installed as a set of microservices. 
 
 1. Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) on your machine ( or download and install them, then reboot (important!!!).
-2. Download **stserver-install.tar.gz** file that contains **docker-compose.yml** and accompanying configuration files and save them to a local folder (for example, ~/stserver/).
+2. Download latest **stserver-install.tar.gz** file that contains **docker-compose.yml** and accompanying configuration files and save them to a local folder (for example, ~/stserver/).
 ```
 wget https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz
 ```
-or get from **Release**
+or get it from it [Releases](https://github.com/impleotv/stserver-release/releases)
 
 3. Extract files:
 ```
@@ -32,7 +32,7 @@ tar -xvf stserver-install.tar.gz
 
 4. Edit **.env** file, if needed.
 
-5. Start all the services by running **docker-compose**:
+5. Start all services by running **docker-compose**:
 ```
 docker-compose up -d
 ```
@@ -51,7 +51,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.1.29 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Wed, 17 Nov, 10:56 GMT+2*
+*Released on Wed, 17 Nov, 11:09 GMT+2*
 
 ## Components versions
 
@@ -100,3 +100,6 @@ You will receive 2 files - license file and key file. Simply drag and drop them 
 
 
 It is also possible to simply copy the licenses to the docker volume mounted directory 
+
+----  
+*Please don't hesitate to contact us at support@impleotv.com should you have any issue.*
