@@ -29,10 +29,12 @@ jobs:
           mkdir ./components
           cp ./stserver2/CHANGELOG.md ./CHANGELOG-SERVER.md 
           cp ./stserver2/package.json ./components/package-server.json
+          mkdir ./stserver2/installDist
           cd ./stserver2/install
-          tar -czvf stserver-install.tar.gz .
+          tar -czvf ../installDist/stserver-install.tar.gz . 
+          sleep 5               
           cd ../../
-          cp ./stserver2/install/stserver-install.tar.gz  ./
+          cp ./stserver2/installDist/stserver-install.tar.gz  ./
           rm -rf ./stserver2
 
       - name: Checkout frontend
