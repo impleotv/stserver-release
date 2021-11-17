@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: impleotv/stserver2
+          token: ${{ secrets.TOKEN }}
           path: ./stserver2
  
       - name: List files in the repository
