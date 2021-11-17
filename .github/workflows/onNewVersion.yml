@@ -16,6 +16,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v1
+
+      - name: Checkout stserver
+        uses: actions/checkout@v2
+        with:
+          repository: impleotv/stserver2
+          path: ./stserver2
  
       - name: List files in the repository
         run: |
