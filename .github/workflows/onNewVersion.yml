@@ -14,8 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    #  - name: Checkout code
-    #    uses: actions/checkout@v1
+      - name: Checkout code
+        uses: actions/checkout@v1
 
       - name: Checkout stserver
         uses: actions/checkout@v2
@@ -24,6 +24,16 @@ jobs:
           token: ${{ secrets.TOKEN }}
           path: ./stserver2
  
+      - name: List files in the repository
+        run: |
+          tree ${{ github.workspace }}
+
+      
+      - name: Copy CHANGELOG.md from stserver2
+        run: |
+          cp ./stserver2/CHANGELOG.md ./CHANGELOG-SERVER.md 
+          rm -rf ./stserver2
+
       - name: List files in the repository
         run: |
           tree ${{ github.workspace }}
@@ -47,8 +57,15 @@ jobs:
           echo ${{ env.RELEASE_VERSION }}       
       - name: Generate README file
         run: node index.js ${{env.RELEASE_VERSION }}
+
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      -name: Create release    
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "CHANGELOG.md,CHANGELOG-SERVER.md "       
+          token: ${{ secrets.GITHUB_TOKEN }}
         
