@@ -54,7 +54,7 @@ jobs:
       - name: Copy CHANGELOG.md from stserver-frontend-comp
         run: |
           cp ./stserver-frontend-comp/CHANGELOG.md ./CHANGELOG-FRONTEND-COMP.md
-          cp ./tserver-frontend-comp/package.json ./components/package-frontend-comp.json  
+          cp ./stserver-frontend-comp/package.json ./components/package-frontend-comp.json  
           rm -rf ./stserver-frontend-comp
 
       - name: List files in the repository
