@@ -30,23 +30,6 @@ tar -xvf stserver-install.tar.gz
 
 4. Edit **.env** file, if needed.
 
-```
-SERVER_NAME=StServer
-LICENSE_DIR=~/licenses/stserver/
-SERVER_PORT=8080
-SUPERVISOR_PORT=8065
-MONGO_PORT=27016
-MONGO_CONNECTION_STR=mongodb://localhost:27016/dbS2 
-MQTT_BROKER_HOST=tcp://localhost
-USING_REVERSE_PROXY=false
-HOST_VIDEO_DIR=~/videos/
-HOST_ANNOTATIONS_DIR=~/annotations/
-HOST_DOCUMENTS_DIR=~/documents/
-HOST_UPLOAD=~/Movies/
-USE_WEBRTC_VIDEO=true
-USE_LIVE_LOW_LATENCY=true
-```
-
 5. Start all the services by running **docker-compose**:
 ```
 docker-compose up -d
@@ -62,10 +45,10 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer** |  {{version}} | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
+| **StServer** |  master | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
 
-*Released on {{date}}*
+*Released on Wed, 17 Nov, 08:52 GMT+2*
 
 ## License
 
