@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.2...v1.1.3) (2021-11-21)
+
+
+### Bug Fixes
+
+* Add missing key to the items tree ([9de68cf](https://github.com/impleotv/stserver-frontend-comp/commit/9de68cf5225ed0df068ddb9e3f231bce6e1bded4))
+* Modify license options presentation ([ed9d453](https://github.com/impleotv/stserver-frontend-comp/commit/ed9d45391522379fc72d25c20439666b14f32e3a))
+* Update stanag4609helper ([6ad132a](https://github.com/impleotv/stserver-frontend-comp/commit/6ad132a19d4ebb8b06bc450b26bdb6b7e79b911f))
+
+### [1.1.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.1...v1.1.2) (2021-11-20)
+
+
+### Bug Fixes
+
+* Update date-fns ion-sdk-js socket.io-client ([24c41ec](https://github.com/impleotv/stserver-frontend-comp/commit/24c41ecd150be157720cf5daf314c38c6377d6b6))
+
 ### [1.1.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.0...v1.1.1) (2021-11-16)
 
 

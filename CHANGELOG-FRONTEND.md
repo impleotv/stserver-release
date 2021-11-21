@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.30](https://github.com/impleotv/stserver2-frontend/compare/v2.1.29...v2.1.30) (2021-11-21)
+
+
+### Bug Fixes
+
+* Modify license options presentation ([d5c4207](https://github.com/impleotv/stserver2-frontend/commit/d5c4207c08e04dd891c176a16d616958aba1e8de))
+* Replace local UserActivityTable implementation with one from stserver-frontend-comp ([fbf1cce](https://github.com/impleotv/stserver2-frontend/commit/fbf1cce53de64d5c3ae56d69267c436da65195eb))
+* Update socket.io-client ([5024e77](https://github.com/impleotv/stserver2-frontend/commit/5024e77e9c3396ec7702940a10fa3beec17d00fe))
+* Update stanag4609helper ([a2abac8](https://github.com/impleotv/stserver2-frontend/commit/a2abac811c7cac4d222cce9ace3656986c823d10))
+* Update stserver-frontend-comp ([39d6413](https://github.com/impleotv/stserver2-frontend/commit/39d6413dbde02c09caf6bb7a76209013eb2bdb24))
+
 ### [2.1.29](https://github.com/impleotv/stserver2-frontend/compare/v2.1.28...v2.1.29) (2021-11-16)
 
 

@@ -23,7 +23,7 @@ OS: Linux.
 ```
 wget https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz
 ```
-or get it from it [Releases](https://github.com/impleotv/stserver-release/releases)
+or get it from the [Releases](https://github.com/impleotv/stserver-release/releases)
 
 3. Extract files:
 ```
@@ -49,9 +49,9 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer** |  2.1.29 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
+| **StServer** |  2.2.1 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Wed, 17 Nov, 11:09 GMT+2*
+*Released on Sun, 21 Nov, 09:52 GMT+2*
 
 ## Components versions
 
@@ -59,9 +59,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.1.29 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.1.29 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.1.1 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.2.1 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.1.30 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.1.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## License
@@ -83,7 +83,6 @@ Options:
 
 In order to get the license, please install the server and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine. Or contact ImpleoTV support.
 
-
 There are 3 options to install the license:  
 
 - Using GUI frontend to upload the license
@@ -91,7 +90,6 @@ There are 3 options to install the license:
 - Copying license file (.lic) and a key (.txt) file into current working directory **LICENSE_DIR** defined in **.env**
 
 ![Node Info](./images/license.png)
-
 
 ### Uploading license
 You will receive 2 files - license file and key file. Simply drag and drop them into the ***Upload*** dropzone.

@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.1](https://github.com/impleotv/stserver2/compare/v2.2.0...v2.2.1) (2021-11-21)
+
+## [2.2.0](https://github.com/impleotv/stserver2/compare/v2.1.29...v2.2.0) (2021-11-21)
+
+
+### Features
+
+* Add RunTill license support ([8a4efcf](https://github.com/impleotv/stserver2/commit/8a4efcff6dfc8d3490a9efe62c78dda1b456304d))
+
+
+### Bug Fixes
+
+* Fix scheduleJob ([2362b46](https://github.com/impleotv/stserver2/commit/2362b461f2c4745dc2d3e569259a1e3104e9e139))
+* Fix Unauthorized error code in access route ([09442f1](https://github.com/impleotv/stserver2/commit/09442f1859f69655643bd2391f2e0861609edd21))
+* Update @babel/preset-env, socket.io, systeminformation ([13acb22](https://github.com/impleotv/stserver2/commit/13acb22bbd23227175ea1c736ae39d5e835d925d))
+* Update install ([634ee5b](https://github.com/impleotv/stserver2/commit/634ee5b7b5bf5bf1af259bfd794df49a491ecb7d))
+
 ### [2.1.29](https://github.com/impleotv/stserver2/compare/v2.1.28...v2.1.29) (2021-11-16)
 
 
