@@ -2,6 +2,66 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.3...v1.2.4) (2022-03-07)
+
+
+### Bug Fixes
+
+* LiveHls player with reverse proxy ([fb393aa](https://github.com/impleotv/stserver-frontend-comp/commit/fb393aa83d48e0851225bbeae9f5964382129359))
+* Update dependencies ([d04e573](https://github.com/impleotv/stserver-frontend-comp/commit/d04e5734ec805445089815685fd5f5ea0da9a01b))
+
+### [1.2.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.2...v1.2.3) (2022-03-06)
+
+
+### Bug Fixes
+
+* Rename dataTimeOffset to playbackDataDelay ([12f872e](https://github.com/impleotv/stserver-frontend-comp/commit/12f872e107ee830acf43db5aac604e18e162049d))
+
+### [1.2.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.1...v1.2.2) (2022-03-03)
+
+### [1.2.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.0...v1.2.1) (2022-03-02)
+
+## [1.2.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.8...v1.2.0) (2022-03-02)
+
+
+### Features
+
+* Add HlsLLPlayer ([b6b578c](https://github.com/impleotv/stserver-frontend-comp/commit/b6b578c3e8304391f342f9fd613ae3db7766f7d4))
+
+
+### Bug Fixes
+
+* Add highQuality mode to SensorPlayerToolbar ([cdd13b1](https://github.com/impleotv/stserver-frontend-comp/commit/cdd13b189b3ffacb7398e28c3a1e730638def473))
+* HjsLLPlayer ([607f2ec](https://github.com/impleotv/stserver-frontend-comp/commit/607f2ec1efd3baf94f48ba42f3f3491ae32a7b37))
+* Rename highQuality to highQualityDvr ([465214c](https://github.com/impleotv/stserver-frontend-comp/commit/465214cbe344effc42ced83d5f806d8497c1000d))
+* Rename highQuality to highQualityDvr ([baf7d6b](https://github.com/impleotv/stserver-frontend-comp/commit/baf7d6b5546bef2e6e6c4f5b0c2443fdc9d8fdd2))
+
+### [1.1.8](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.7...v1.1.8) (2022-02-15)
+
+
+### Bug Fixes
+
+* Change AddBookmark icon color to red ([d3f6540](https://github.com/impleotv/stserver-frontend-comp/commit/d3f6540b2fb048f5faf2a24b368ab3650b4a76a3))
+* Color related controls changes ([788440c](https://github.com/impleotv/stserver-frontend-comp/commit/788440ca8eab74ee87d265e903efe34fc8d09d5f))
+
+### [1.1.7](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.6...v1.1.7) (2022-02-14)
+
+
+### Bug Fixes
+
+* Display invalid time as N/A ([b60119b](https://github.com/impleotv/stserver-frontend-comp/commit/b60119b718ce65304952640e00522b8188ad7c54))
+* Update axios ([0049d24](https://github.com/impleotv/stserver-frontend-comp/commit/0049d248f0ae9b896f93ccec2f9e898267aa735c))
+* Update storybook to ver 6.4.19 ([15c0416](https://github.com/impleotv/stserver-frontend-comp/commit/15c0416aa9137f559070155e23ebcab49de92100))
+
+### [1.1.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.5...v1.1.6) (2022-02-11)
+
+
+### Bug Fixes
+
+* Update dependencies and storybook ([25ec733](https://github.com/impleotv/stserver-frontend-comp/commit/25ec733deb8714226cdf010b5e834335fa52b86f))
+* Update some dependencies ([af205b6](https://github.com/impleotv/stserver-frontend-comp/commit/af205b6f6b2926b31da323302e121e43fc0d4efd))
+* Update storybook to 6.4.13 ([03e9f70](https://github.com/impleotv/stserver-frontend-comp/commit/03e9f7055feef55e8b5c62513bdb658726d2ef38))
+
 ### [1.1.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.1.4...v1.1.5) (2022-01-09)
 
 

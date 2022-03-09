@@ -2,6 +2,44 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.36](https://github.com/impleotv/stserver2-frontend/compare/v2.1.35...v2.1.36) (2022-03-07)
+
+
+### Bug Fixes
+
+* Update stserver-frontend-comp to support livehls with reverse proxy ([c358b0a](https://github.com/impleotv/stserver2-frontend/commit/c358b0a9e6b9aa2171e888dd7448fddc8b618352))
+
+### [2.1.35](https://github.com/impleotv/stserver2-frontend/compare/v2.1.34...v2.1.35) (2022-03-06)
+
+
+### Bug Fixes
+
+* Configue data delay for sensor player ([69c43eb](https://github.com/impleotv/stserver2-frontend/commit/69c43eb3fa2f007dec70e6f1d4dd9d120e4e5400))
+* Fix VOD player mode ([a11a708](https://github.com/impleotv/stserver2-frontend/commit/a11a7083ff46b26473acd530fe3cc439a071ac47))
+
+### [2.1.34](https://github.com/impleotv/stserver2-frontend/compare/v2.1.33...v2.1.34) (2022-03-03)
+
+
+### Bug Fixes
+
+* Enable Ok button for live mission dialog ([2efcbc1](https://github.com/impleotv/stserver2-frontend/commit/2efcbc123f0c1304e29af9b7aa49070a0540b6d5))
+* Enable Ok button for live mission dialog ([1713990](https://github.com/impleotv/stserver2-frontend/commit/1713990163db47389996d31deaad3e9ab7e52d10))
+* Integrate HLS LL player ([edd840a](https://github.com/impleotv/stserver2-frontend/commit/edd840a3c178ba5be05ccac0f257fdc5c279b944))
+
+### [2.1.33](https://github.com/impleotv/stserver2-frontend/compare/v2.1.31...v2.1.33) (2022-02-14)
+
+
+### Bug Fixes
+
+* Change AddMission icon color to red ([d88c93f](https://github.com/impleotv/stserver2-frontend/commit/d88c93f9ac360f20368a06c803a9cd6157db461d))
+* Check for invalid time in mission table ([fa28b3a](https://github.com/impleotv/stserver2-frontend/commit/fa28b3a26245b202897eada67438e5f6a162c7b4))
+* Disable Ok button in CreateMissionDlg if no files selected ([167aded](https://github.com/impleotv/stserver2-frontend/commit/167aded5635a358f8aee38e0f078f3351d953e01))
+* Limit DropZone accepted mission assets ([d294407](https://github.com/impleotv/stserver2-frontend/commit/d294407a2de49cbe4cdc2df21b4f7b0b3dc99574))
+* standard version error ([38f3ebd](https://github.com/impleotv/stserver2-frontend/commit/38f3ebddc1a15fa5f83ae3d19b66bb80a8c8d425))
+* Update dependencies ([1e33015](https://github.com/impleotv/stserver2-frontend/commit/1e33015aef6e3045c99549747d69dd164e05041f))
+* Update dependencies and stserver-frontend-comp ([ee8f3b7](https://github.com/impleotv/stserver2-frontend/commit/ee8f3b724a0a472c1c17cf27cd7598f33549cb3d))
+* Update stserver-frontend-comp url-parse and axios ([dba48b7](https://github.com/impleotv/stserver2-frontend/commit/dba48b7d3570e36b0c0116a68e4a2bdf67193657))
+
 ### [2.1.31](https://github.com/impleotv/stserver2-frontend/compare/v2.1.30...v2.1.31) (2022-01-09)
 
 

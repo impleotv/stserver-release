@@ -2,6 +2,46 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.7](https://github.com/impleotv/stserver2/compare/v2.2.6...v2.2.7) (2022-03-09)
+
+
+### Bug Fixes
+
+* Update mqtt and stsensors ([12ef109](https://github.com/impleotv/stserver2/commit/12ef109188c4ea97778b72c2a19e8b2f6acb6c24))
+* Update MQTT code and roll back to 4.1.0 client ([c388fd2](https://github.com/impleotv/stserver2/commit/c388fd29312432cb143bf14642a32129d5826819))
+
+### [2.2.6](https://github.com/impleotv/stserver2/compare/v2.2.5...v2.2.6) (2022-03-07)
+
+
+### Bug Fixes
+
+* Update dependencies and frontend ([d50ba62](https://github.com/impleotv/stserver2/commit/d50ba62f3d5a653dc4c8935674b13112cbd7a6bb))
+
+### [2.2.5](https://github.com/impleotv/stserver2/compare/v2.2.4...v2.2.5) (2022-03-06)
+
+
+### Bug Fixes
+
+* Add playback data delay param ([800cea9](https://github.com/impleotv/stserver2/commit/800cea94b336107add7dc7138c99a2c3c9722d58))
+* Modify install env ([e97e1ff](https://github.com/impleotv/stserver2/commit/e97e1ff4f67e7511118fca77102686fc47d17667))
+* Update doc ([87655e1](https://github.com/impleotv/stserver2/commit/87655e1a5dc367de9c31760039b36d6aaf879ac9))
+
+### [2.2.4](https://github.com/impleotv/stserver2/compare/v2.2.3...v2.2.4) (2022-03-03)
+
+
+### Bug Fixes
+
+* Update dependencies ([9757140](https://github.com/impleotv/stserver2/commit/97571404978f788b0789414e99e5fdf13e2a215c))
+
+### [2.2.3](https://github.com/impleotv/stserver2/compare/v2.2.2...v2.2.3) (2022-02-14)
+
+
+### Bug Fixes
+
+* Update dependencies ([7e78012](https://github.com/impleotv/stserver2/commit/7e78012ad07d1b7f19a06b62e2e8822c9a0e299f))
+* Update dependencies ([1145565](https://github.com/impleotv/stserver2/commit/11455650c9d249f4f3018f1bfc4a100543ddf227))
+* Updated axios and winston ([9060ca0](https://github.com/impleotv/stserver2/commit/9060ca07f6ced6282e109441e7e9aa28cd0776d9))
+
 ### [2.2.2](https://github.com/impleotv/stserver2/compare/v2.2.1...v2.2.2) (2022-01-09)
 
 
