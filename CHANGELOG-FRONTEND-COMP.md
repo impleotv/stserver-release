@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.4...v1.2.5) (2022-03-13)
+
+
+### Bug Fixes
+
+* Change mission table Add button color ([c69319c](https://github.com/impleotv/stserver-frontend-comp/commit/c69319c8f804bc8c0dee3e81933a5852382413a9))
+* SgnalLost for LiveHlsPlayer ([dd2fd90](https://github.com/impleotv/stserver-frontend-comp/commit/dd2fd90c621a946c519093d84509c169a83732b9))
+* Update LiveHls Player (renamed from HlsLL) ([c5fff6e](https://github.com/impleotv/stserver-frontend-comp/commit/c5fff6e8b8f7631fd3b94b690eb66b57bd690eae))
+* Update stanag4609helper and other dependencies ([250e3c5](https://github.com/impleotv/stserver-frontend-comp/commit/250e3c561f572bfe50c275744e7b0b22c2375071))
+
 ### [1.2.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.3...v1.2.4) (2022-03-07)
 
 
@@ -26,7 +36,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* Add HlsLLPlayer ([b6b578c](https://github.com/impleotv/stserver-frontend-comp/commit/b6b578c3e8304391f342f9fd613ae3db7766f7d4))
+* Add LiveHlsPlayer ([b6b578c](https://github.com/impleotv/stserver-frontend-comp/commit/b6b578c3e8304391f342f9fd613ae3db7766f7d4))
 
 
 ### Bug Fixes
