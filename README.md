@@ -51,7 +51,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.2.8 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Sun, 13 Mar, 09:22 GMT+2*
+*Released on Sun, 20 Mar, 12:06 GMT+2*
 
 ## Components versions
 
