@@ -16,7 +16,7 @@ OS: Linux x64.
 
 ## Installation (using Docker Compose)
 
-**STANAG On Demand Server** is installed as a set of microservices. 
+**STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/). 
 
 1. Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) on your machine ( or download and install them, then reboot (important!!!).
 2. Download latest **stserver-install.tar.gz** file that contains **docker-compose.yml** and accompanying configuration files and save them to a local folder (for example, ~/stserver/).
@@ -41,6 +41,7 @@ docker-compose up -d
 
 > By default, the server will run on port **8080**. 
 
+Please note, in case of production deployment, you should run a server behind reverse proxy with SSL.
 
 More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
@@ -51,7 +52,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.2.8 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Sun, 20 Mar, 19:28 GMT+2*
+*Released on Mon, 21 Mar, 09:38 GMT+2*
 
 ## Components versions
 
