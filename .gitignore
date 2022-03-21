@@ -2,5 +2,6 @@ node_modules/
 npm-debug.log*
 *.exe
 *.zip
+*.gz
 .ftp-deploy-sync-state.json
 
