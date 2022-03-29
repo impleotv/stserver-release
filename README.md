@@ -52,7 +52,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.2.9 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Tue, 29 Mar, 09:18 GMT+3*
+*Released on Tue, 29 Mar, 09:41 GMT+3*
 
 ## Components versions
 
@@ -101,4 +101,4 @@ You will receive 2 files - license file and key file. Simply drag and drop them 
 It is also possible to simply copy the licenses to the docker volume mounted directory 
 
 ----  
-*Please don't hesitate to contact us at support@impleotv.com should you have any issue.*
+*Please don't hesitate to contact us at support@impleotv.com should you have any question.*
