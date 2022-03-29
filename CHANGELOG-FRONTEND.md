@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.38](https://github.com/impleotv/stserver2-frontend/compare/v2.1.37...v2.1.38) (2022-03-29)
+
+
+### Bug Fixes
+
+* browserslist@latest --update-db ([0bc722e](https://github.com/impleotv/stserver2-frontend/commit/0bc722ec33f7ead8057440a944efa41c7248705b))
+* Fix fullscreen in high quality mode ([f27dd26](https://github.com/impleotv/stserver2-frontend/commit/f27dd260d1ee074becc1ae5f87e7f616e2f89c49))
+
 ### [2.1.37](https://github.com/impleotv/stserver2-frontend/compare/v2.1.36...v2.1.37) (2022-03-13)
 
 
