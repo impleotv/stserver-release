@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.11](https://github.com/impleotv/stserver2/compare/v2.2.10...v2.2.11) (2022-04-07)
+
+
+### Bug Fixes
+
+* Fix bookmark thumbnail error handling ([1a7fad0](https://github.com/impleotv/stserver2/commit/1a7fad02cf342ad3bd5b5824bee189635660bf8e))
+* Update dependencies ([7801675](https://github.com/impleotv/stserver2/commit/7801675107928d5f17ad069aea69aa33e1c3ab81))
+
+### [2.2.10](https://github.com/impleotv/stserver2/compare/v2.2.9...v2.2.10) (2022-04-06)
+
+
+### Bug Fixes
+
+* Update dependencies and and PUT for bookmarks ([cb3d16e](https://github.com/impleotv/stserver2/commit/cb3d16eeacfa1c4b63e8ea346b69c3b0a2db2608))
+
 ### [2.2.9](https://github.com/impleotv/stserver2/compare/v2.2.8...v2.2.9) (2022-03-29)
 
 

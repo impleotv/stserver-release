@@ -2,6 +2,74 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.16](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.15...v1.2.16) (2022-04-07)
+
+
+### Bug Fixes
+
+* Update dependencies ([ac80ad7](https://github.com/impleotv/stserver-frontend-comp/commit/ac80ad75c62e4cd9ab7b44f47c2bc675cd281060))
+
+### [1.2.15](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.14...v1.2.15) (2022-04-06)
+
+
+### Bug Fixes
+
+* Change thumbnailDataUrl to thumbnailUrl ([f3bee97](https://github.com/impleotv/stserver-frontend-comp/commit/f3bee97ec55459ca7cbe0cba3cf2c9d12398729d))
+
+### [1.2.14](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.13...v1.2.14) (2022-04-05)
+
+
+### Bug Fixes
+
+* Change some names in Bookmark componenets ([32a8595](https://github.com/impleotv/stserver-frontend-comp/commit/32a85953a36c369cf3a00015e9bfc0cb47ef1357))
+
+### [1.2.13](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.12...v1.2.13) (2022-04-05)
+
+
+### Bug Fixes
+
+* Set explicit color to BookmarkTimeline icon ([4fc8dee](https://github.com/impleotv/stserver-frontend-comp/commit/4fc8deed21221fc68dddf4965e4cda925b6e19e9))
+
+### [1.2.12](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.11...v1.2.12) (2022-04-05)
+
+
+### Bug Fixes
+
+* Add @degjs/storybook-addon-taffy ([1eabddd](https://github.com/impleotv/stserver-frontend-comp/commit/1eabddd5924a68f95040771c7f658376bc1c00e8))
+* Fix Bookmark selected tags ([f10e0c2](https://github.com/impleotv/stserver-frontend-comp/commit/f10e0c249b39088d388e6b2f3d5d08195bac3369))
+* Fix Canvas grid in BookmarkTimeline ([19b81e6](https://github.com/impleotv/stserver-frontend-comp/commit/19b81e6528ea348fc1301fec7e08717478aee10f))
+* Update Bookmark propTypes ([53dc10e](https://github.com/impleotv/stserver-frontend-comp/commit/53dc10e4589372ef5dcf4669b7fc3eb9429b735e))
+
+### [1.2.11](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.10...v1.2.11) (2022-03-31)
+
+
+### Bug Fixes
+
+* Update BookmarkForm ([3063eb8](https://github.com/impleotv/stserver-frontend-comp/commit/3063eb8bf6ca129944751813a9934aed9302fa6b))
+* Update BookmarkForm ([225f841](https://github.com/impleotv/stserver-frontend-comp/commit/225f841d2355f22caf285204325d0c2dbfb2b6a7))
+* Update dependencies and BookmarkForm ([27148c7](https://github.com/impleotv/stserver-frontend-comp/commit/27148c76f6314eceee679aae4ec83f47ec6a507c))
+
+### [1.2.10](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.9...v1.2.10) (2022-03-29)
+
+
+### Bug Fixes
+
+* Fix crossbar full range ([8c57bb9](https://github.com/impleotv/stserver-frontend-comp/commit/8c57bb977cdc5b91d9a951725a64ec209f9870cb))
+
+### [1.2.9](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.8...v1.2.9) (2022-03-29)
+
+
+### Bug Fixes
+
+* Add crosshair support to bookmarks ([23e68b7](https://github.com/impleotv/stserver-frontend-comp/commit/23e68b73b90c1735f677ffcb2085c4cb80d74983))
+
+### [1.2.8](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.7...v1.2.8) (2022-03-29)
+
+
+### Bug Fixes
+
+* Update dependencies ([a1c8e26](https://github.com/impleotv/stserver-frontend-comp/commit/a1c8e2659c6956c6b6faa027eb91c190ea3cb324))
+
 ### [1.2.7](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.6...v1.2.7) (2022-03-28)
 
 
