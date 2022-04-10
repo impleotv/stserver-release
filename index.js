@@ -36,14 +36,11 @@ function generateReadMe() {
 }
 
 function generateVersionsFile() {
-  fs.readFile(MUSTACHE_MAIN, (err, data) =>  {
-    if (err) throw err;
     const output = {
       latest: pjsonServer.version,
       date: new Date().toISOString()
     }
     fs.writeFileSync('versions.json', output);
-  });
 }
 
 generateReadMe();
