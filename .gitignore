@@ -3,5 +3,6 @@ npm-debug.log*
 *.exe
 *.zip
 *.gz
+versions.json
 .ftp-deploy-sync-state.json
 
