@@ -39,8 +39,8 @@ function generateVersionsFile() {
     const output = {
       latest: pjsonServer.version,
       date: new Date().toISOString()
-    }
-    fs.writeFileSync('versions.json', output);
+    };
+    fs.writeFileSync('versions.json', JSON.stringify(output));
 }
 
 generateReadMe();
