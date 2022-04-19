@@ -28,21 +28,25 @@ let DATA = {
 };
 
 function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN, (err, data) =>  {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
-  });
+  try {
+    fs.readFile(MUSTACHE_MAIN, (err, data) =>  {
+      if (err) throw err;
+      const output = Mustache.render(data.toString(), DATA);
+      fs.writeFileSync('README.md', output);
+    });    
+  } catch (error) {
+    
+  }
 }
 
-function generateVersionsFile() {
-    const output = {
-      latest: pjsonServer.version,
-      date: new Date().toISOString(),
-      releases_link: "https://github.com/impleotv/stserver-release"
-    };
-    fs.writeFileSync('versions.json', JSON.stringify(output));
-}
+// function generateVersionsFile() {
+//     const output = {
+//       latest: pjsonServer.version,
+//       date: new Date().toISOString(),
+//       releases_link: "https://github.com/impleotv/stserver-release"
+//     };
+//     fs.writeFileSync('versions.json', JSON.stringify(output));
+// }
 
 generateReadMe();
-generateVersionsFile();
+// generateVersionsFile();
