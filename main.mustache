@@ -19,25 +19,51 @@ OS: Linux x64.
 **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/). 
 
 1. Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine ( or download and install them, then reboot (important!!!).
-2. Download latest **stserver-install.tar.gz** file that contains **docker-compose.yml** and accompanying configuration files and save them to a local folder (for example, ~/stserver/).
-```
-wget https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz
-```
-or get it from the [Releases](https://github.com/impleotv/stserver-release/releases)
+### Installing StServer with st-launcher
 
-3. Extract files:
-```
-tar -xvf stserver-install.tar.gz
-```
+2\. Download **st-launcher.run** and save it to a local folder (for example, **~/stserver/**).  
 
-4. Edit **.env** file, if needed.
+Here are the [Download links and instructions](https://github.com/impleotv/st-launcher-release)
 
-5. Start all services by running **docker-compose**:
-```
-docker-compose up -d
+
+3\. Make sure **st-launcher.run** is executable 
+
+```bash
+sudo chmod +x st-launcher.run
 ```
 
-***That's it! the server should be running now!***
+4\. Run it
+
+```
+~/stserver$ ./st-launcher.run 
+```
+5\. Enter **install** command
+
+```
+Starting st-launcher. Ver. 1.0.0
+st-launcher started: http://127.0.0.1:8040. Ctrl-C to exit.
+
+Enter command (install/start/stop/update/quit):
+Command: install 
+```
+6\. Wait until installation is complete, and edit [.env](./env-file.md) file, if needed.
+
+7\. Start the server.
+
+```
+Enter command (install/start/stop/update/quit):
+Command: start 
+```
+
+When you run this for the first time, docker will download the required images and start containers.    
+
+> Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time).  
+You may also consider making **st-launcher.run** running after reboot, so **StServer** could be updated via front-end (from the admin page).
+
+***That's it! the server should be running now!***  
+
+You can also [install and run the server manually](./manual_install_with_docker_compose.md), without **st-launcher**.
+
 
 > By default, the server will run on port **8080**. 
 

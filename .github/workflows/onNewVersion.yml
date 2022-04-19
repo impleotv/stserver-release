@@ -67,10 +67,10 @@ jobs:
         run: |
           tree ${{ github.workspace }}
 
-      - name: Setup NodeJs 14.x
+      - name: Setup NodeJs 16.x
         uses: actions/setup-node@v1
         with:
-          node-version: '14.x'
+          node-version: '16.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
