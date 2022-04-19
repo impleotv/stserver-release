@@ -2,6 +2,49 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.23](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.22...v1.2.23) (2022-04-18)
+
+
+### Bug Fixes
+
+* Get version info using github api ([5fe6515](https://github.com/impleotv/stserver-frontend-comp/commit/5fe65155b701ca9018cca8c55d6b18547dd07815))
+* Update dependencies ([8864584](https://github.com/impleotv/stserver-frontend-comp/commit/8864584040061036ab451e2d9321fb25123fa4fe))
+
+### [1.2.22](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.21...v1.2.22) (2022-04-14)
+
+
+### Bug Fixes
+
+* Change update icon color ([09d922a](https://github.com/impleotv/stserver-frontend-comp/commit/09d922a8d1b78d837f98f2cd4eff667e6a9c17ee))
+
+### [1.2.21](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.20...v1.2.21) (2022-04-14)
+
+
+### Bug Fixes
+
+* Update StServerVersion ([82e0ba8](https://github.com/impleotv/stserver-frontend-comp/commit/82e0ba8b0b297f4de8c0b8292131ea38e68cc1ae))
+
+### [1.2.20](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.19...v1.2.20) (2022-04-14)
+
+
+### Bug Fixes
+
+* Update storybook and add Update version button ([faf4391](https://github.com/impleotv/stserver-frontend-comp/commit/faf4391fe07235244be3ef19bb48a1dd9f2aa34b))
+
+### [1.2.19](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.18...v1.2.19) (2022-04-11)
+
+
+### Bug Fixes
+
+* Change Bookmark form ([bfe2783](https://github.com/impleotv/stserver-frontend-comp/commit/bfe2783a513c53ef465b383810cbcb007d3711a8))
+
+### [1.2.18](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.17...v1.2.18) (2022-04-11)
+
+
+### Bug Fixes
+
+* Add timestamp to Bookmark Form ([2fddbbf](https://github.com/impleotv/stserver-frontend-comp/commit/2fddbbf7ef9f9e3dcef1e4acd9176be82b0aabd3))
+
 ### [1.2.17](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.16...v1.2.17) (2022-04-10)
 
 
