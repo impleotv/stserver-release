@@ -18,26 +18,27 @@ OS: Linux x64.
 
 **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/). 
 
-1. Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine ( or download and install them, then reboot (important!!!).
+Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine ( or download and install them, then reboot (important!!!).
+
 ### Installing StServer with st-launcher
 
-2\. Download **st-launcher.run** and save it to a local folder (for example, **~/stserver/**).  
+1\. Download **st-launcher.run** and save it to a local folder (for example, **~/stserver/**).  
 
 Here are the [Download links and instructions](https://github.com/impleotv/st-launcher-release)
 
 
-3\. Make sure **st-launcher.run** is executable 
+2\. Make sure **st-launcher.run** is executable 
 
 ```bash
 sudo chmod +x st-launcher.run
 ```
 
-4\. Run it
+3\. Run it
 
 ```
 ~/stserver$ ./st-launcher.run 
 ```
-5\. Enter **install** command
+4\. Enter **install** command
 
 ```
 Starting st-launcher. Ver. 1.0.0
@@ -46,16 +47,16 @@ st-launcher started: http://127.0.0.1:8040. Ctrl-C to exit.
 Enter command (install/start/stop/update/quit):
 Command: install 
 ```
-6\. Wait until installation is complete, and edit [.env](./env-file.md) file, if needed.
+5\. Wait until installation is complete, and edit [.env](./env-file.md) file, if needed.
 
-7\. Start the server.
+6\. Start the server.
 
 ```
 Enter command (install/start/stop/update/quit):
 Command: start 
 ```
 
-When you run this for the first time, docker will download the required images and start containers.    
+When you run this for the first time, docker will download all the required images and start containers.    
 
 > Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time).  
 You may also consider making **st-launcher.run** running after reboot, so **StServer** could be updated via front-end (from the admin page).
@@ -78,7 +79,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.2.14 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Tue, 19 Apr, 18:15 GMT+3*
+*Released on Tue, 19 Apr, 18:26 GMT+3*
 
 ## Components versions
 
