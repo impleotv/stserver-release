@@ -61,7 +61,7 @@ When you run this for the first time, docker will download all the required imag
 > Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time). 
 
 
-You may also consider making **st-launcher.run** running after reboot, so applications could be updated via REST interface.  
+You may also consider making **st-launcher.run** running after reboot, so the StServer could be updated from via frontend (admin page).  
 Any method that allows execution on reboot will do. For example, you can [use crontab](./doc/crontab-script.md).
 
 ***That's it! the server should be running now!***  
@@ -82,7 +82,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.2.15 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Wed, 20 Apr, 11:38 GMT+3*
+*Released on Wed, 20 Apr, 17:41 GMT+3*
 
 ## Components versions
 
