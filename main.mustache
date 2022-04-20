@@ -58,8 +58,11 @@ Command: start
 
 When you run this for the first time, docker will download all the required images and start containers.    
 
-> Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time).  
-You may also consider making **st-launcher.run** running after reboot, so **StServer** could be updated via front-end (from the admin page).
+> Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time). 
+
+
+You may also consider making **st-launcher.run** running after reboot, so applications could be updated via REST interface.  
+Any method that allows execution on reboot will do. For example, you can [use crontab](./doc/crontab-script.md).
 
 ***That's it! the server should be running now!***  
 
