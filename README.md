@@ -58,8 +58,11 @@ Command: start
 
 When you run this for the first time, docker will download all the required images and start containers.    
 
-> Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time).  
-You may also consider making **st-launcher.run** running after reboot, so **StServer** could be updated via front-end (from the admin page).
+> Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time). 
+
+
+You may also consider making **st-launcher.run** running after reboot, so applications could be updated via REST interface.  
+Any method that allows execution on reboot will do. For example, you can [use crontab](./doc/crontab-script.md).
 
 ***That's it! the server should be running now!***  
 
@@ -77,9 +80,9 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer** |  2.2.14 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
+| **StServer** |  2.2.15 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Tue, 19 Apr, 18:26 GMT+3*
+*Released on Wed, 20 Apr, 11:38 GMT+3*
 
 ## Components versions
 
@@ -87,8 +90,8 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.2.14 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.1.41 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **Backend**      |  2.2.15 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.1.43 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.2.23 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
