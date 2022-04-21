@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.17](https://github.com/impleotv/stserver2/compare/v2.2.16...v2.2.17) (2022-04-21)
+
+
+### Bug Fixes
+
+* Fix version ([cfa43b7](https://github.com/impleotv/stserver2/commit/cfa43b72d0084e6e894ca1ef9b81cba49804798a))
+
 ### [2.2.16](https://github.com/impleotv/stserver2/compare/v2.2.15...v2.2.16) (2022-04-21)
 
 
