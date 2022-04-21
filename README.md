@@ -80,9 +80,9 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer** |  2.2.15 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
+| **StServer** |  2.2.16 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Wed, 20 Apr, 17:41 GMT+3*
+*Released on Thu, 21 Apr, 12:24 GMT+3*
 
 ## Components versions
 
@@ -90,7 +90,7 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.2.15 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Backend**      |  2.2.16 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
 | **Frontend**     |  2.1.43 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.2.23 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
