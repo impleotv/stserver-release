@@ -82,7 +82,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **StServer** |  2.2.19 | [stserver-install.tar.gz](https://impleotv.com/content/stserver2/setup/stserver-install.tar.gz) | 
 
-*Released on Fri, 22 Apr, 12:56 GMT+3*
+*Released on Fri, 22 Apr, 13:21 GMT+3*
 
 ## Components versions
 
