@@ -1,9 +1,10 @@
 {
   "name": "stserver-release",
-  "version": "1.0.0",
+  "version": "2.2.18",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/impleotv/stserver-release#readme",
   "dependencies": {
     "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.2"
   }
 }
