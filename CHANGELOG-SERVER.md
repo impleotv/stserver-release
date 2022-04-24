@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.21](https://github.com/impleotv/stserver2/compare/v2.2.20...v2.2.21) (2022-04-24)
+
+
+### Bug Fixes
+
+* Remove default localhost from bindIp, so it would work in WSL ([b248921](https://github.com/impleotv/stserver2/commit/b24892114a26ebfc997eaa03e7e8a4dd94d2d665))
+
 ### [2.2.20](https://github.com/impleotv/stserver2/compare/v2.2.19...v2.2.20) (2022-04-22)
 
 
