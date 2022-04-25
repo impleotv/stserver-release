@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.22](https://github.com/impleotv/stserver2/compare/v2.2.21...v2.2.22) (2022-04-25)
+
+
+### Bug Fixes
+
+* Add StPlayerClientsOnly type ([7682d16](https://github.com/impleotv/stserver2/commit/7682d162d8b3a4091cffe353ac0d22a1b676968b))
+* Changes for WSL2 ([c3def68](https://github.com/impleotv/stserver2/commit/c3def68ef9b1f4566af22977183586e743b35a6c))
+* Create Install-wsl ([a3217be](https://github.com/impleotv/stserver2/commit/a3217be3e574359c4594b540ec617f07b430a294))
+* Edit github actions ([8395f3e](https://github.com/impleotv/stserver2/commit/8395f3e374988c7b169444eb9cab2f8bd7f9d293))
+
 ### [2.2.21](https://github.com/impleotv/stserver2/compare/v2.2.20...v2.2.21) (2022-04-24)
 
 
