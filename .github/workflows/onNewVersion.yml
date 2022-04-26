@@ -35,7 +35,19 @@ jobs:
           sleep 5               
           cd ../../
           cp ./stserver2/installDist/stserver-install.tar.gz  ./
-          #rm -rf ./stserver2
+# Do the same for wsl                    
+          mkdir ./stserver2/installDistWsl
+          cd ./stserver2/installWsl
+          tar -czvf ../installDistWsl/stserver-install-wsl.tar.gz . 
+          sleep 5               
+          cd ../../
+          cp ./stserver2/installDistWsl/stserver-install-wsl.tar.gz  ./
+       
+
+      - name: List files in the repository and clean up
+        run: |
+          tree -L 2 ${{ github.workspace }}
+          rm -rf ./stserver2
 
       - name: Checkout frontend
         uses: actions/checkout@v2
@@ -99,6 +111,6 @@ jobs:
       - name: Create release    
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "stserver-install.tar.gz, CHANGELOG-SERVER.md,CHANGELOG-FRONTEND.md,CHANGELOG-FRONTEND-COMP.md"       
+          artifacts: "stserver-install.tar.gz, stserver-install-wsl.tar.gz, CHANGELOG-SERVER.md,CHANGELOG-FRONTEND.md,CHANGELOG-FRONTEND-COMP.md"       
           token: ${{ secrets.GITHUB_TOKEN }}
         
