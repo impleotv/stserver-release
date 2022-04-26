@@ -34,15 +34,22 @@ jobs:
           tar -czvf ../installDist/stserver-install.tar.gz . 
           sleep 5               
           cd ../../
-          cp ./stserver2/installDist/stserver-install.tar.gz  ./
-# Do the same for wsl                    
+          cp ./stserver2/installDist/stserver-install.tar.gz  ./          
           mkdir ./stserver2/installDistWsl
           cd ./stserver2/installWsl
           tar -czvf ../installDistWsl/stserver-install-wsl.tar.gz . 
           sleep 5               
           cd ../../
           cp ./stserver2/installDistWsl/stserver-install-wsl.tar.gz  ./
-       
+          
+      - name: Create install for WSL
+        run: |        
+          mkdir ./stserver2/installDistWsl
+          cd ./stserver2/installWsl
+          tar -czvf ../installDistWsl/stserver-install-wsl.tar.gz . 
+          sleep 5               
+          cd ../../
+          cp ./stserver2/installDistWsl/stserver-install-wsl.tar.gz  ./
 
       - name: List files in the repository and clean up
         run: |
