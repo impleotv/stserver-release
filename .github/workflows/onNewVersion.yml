@@ -35,7 +35,7 @@ jobs:
           sleep 5               
           cd ../../
           cp ./stserver2/installDist/stserver-install.tar.gz  ./
-          rm -rf ./stserver2
+          #rm -rf ./stserver2
 
       - name: Checkout frontend
         uses: actions/checkout@v2
