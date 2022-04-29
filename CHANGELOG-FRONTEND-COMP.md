@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.25](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.24...v1.2.25) (2022-04-28)
+
+
+### Bug Fixes
+
+* Fix query param geo -> geometry in MissionTable ([63c728f](https://github.com/impleotv/stserver-frontend-comp/commit/63c728f49b7e79ce55c80c3fee8b9e5946ada904))
+
+### [1.2.24](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.23...v1.2.24) (2022-04-28)
+
+
+### Bug Fixes
+
+* Add color to toolbar icons in mission table when filter is set ([ae36e31](https://github.com/impleotv/stserver-frontend-comp/commit/ae36e31e139970bf978d6ee12c10e0e263dad98c))
+
 ### [1.2.23](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.22...v1.2.23) (2022-04-18)
 
 
