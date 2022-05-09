@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.26](https://github.com/impleotv/stserver2/compare/v2.2.25...v2.2.26) (2022-05-09)
+
+
+### Bug Fixes
+
+* Change type StPlayer to StPlayerApp ([eecbfff](https://github.com/impleotv/stserver2/commit/eecbfff8eb9e3ebbd7a47c018970b1d525b66c73))
+* Update dependencies ([a48b032](https://github.com/impleotv/stserver2/commit/a48b032275960f8ebc57ca6e92282d48010791cc))
+
 ### [2.2.25](https://github.com/impleotv/stserver2/compare/v2.2.24...v2.2.25) (2022-05-01)
 
 
