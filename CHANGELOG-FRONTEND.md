@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.50](https://github.com/impleotv/stserver2-frontend/compare/v2.1.49...v2.1.50) (2022-09-11)
+
+
+### Bug Fixes
+
+* Modify npm install ([8b6ee68](https://github.com/impleotv/stserver2-frontend/commit/8b6ee68cc11ec10ff8c61908ddac124532de6060))
+* Update stanag4609helper ([bea66cb](https://github.com/impleotv/stserver2-frontend/commit/bea66cb47f50445f9989330439e230b03da1ff63))
+
+### [2.1.49](https://github.com/impleotv/stserver2-frontend/compare/v2.1.48...v2.1.49) (2022-08-11)
+
+
+### Bug Fixes
+
+* Update dependencies ([4077adc](https://github.com/impleotv/stserver2-frontend/commit/4077adca9390bd72570b1568ef601d9f830b7c22))
+* Update dependencies ([41a66c4](https://github.com/impleotv/stserver2-frontend/commit/41a66c414b43ffaad442d83113953a9393202fca))
+* Update stserver-frontend-comp recharts ([02ac437](https://github.com/impleotv/stserver2-frontend/commit/02ac4372516f8935e5153c6839d7d909befe8217))
+
+### [2.1.48](https://github.com/impleotv/stserver2-frontend/compare/v2.1.47...v2.1.48) (2022-05-09)
+
+
+### Bug Fixes
+
+* Update dependencies ([f6725c5](https://github.com/impleotv/stserver2-frontend/commit/f6725c5e1ad01c03d6f83ed50e2481bdeea33a93))
+
 ### [2.1.47](https://github.com/impleotv/stserver2-frontend/compare/v2.1.46...v2.1.47) (2022-05-01)
 
 ### [2.1.46](https://github.com/impleotv/stserver2-frontend/compare/v2.1.45...v2.1.46) (2022-05-01)

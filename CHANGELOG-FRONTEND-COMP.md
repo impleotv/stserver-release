@@ -2,6 +2,86 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.8](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.7...v1.3.8) (2022-09-11)
+
+
+### Bug Fixes
+
+* Update dependencies ([bbd0db0](https://github.com/impleotv/stserver-frontend-comp/commit/bbd0db0fb0f7e12ef7c5d65c3f283e94c3065d06))
+
+### [1.3.7](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.6...v1.3.7) (2022-08-31)
+
+
+### Bug Fixes
+
+* Add Event Start Time tag ([4ade84b](https://github.com/impleotv/stserver-frontend-comp/commit/4ade84be3354d15dd6844ecba85a1933be2afb8f))
+* KlvConditionsTable improvement ([72f07ed](https://github.com/impleotv/stserver-frontend-comp/commit/72f07ed8eed4d651b4eb3525faa2fef63c5f565e))
+
+### [1.3.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.5...v1.3.6) (2022-08-31)
+
+
+### Bug Fixes
+
+* Some fixes for KlvConditionsTable ([e10469b](https://github.com/impleotv/stserver-frontend-comp/commit/e10469b35a81775e5ea3a29e9b7205a8d0aa7c84))
+
+### [1.3.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.4...v1.3.5) (2022-08-31)
+
+
+### Bug Fixes
+
+* Fit missing value for string operations in KlvConditionsTable ([054c6eb](https://github.com/impleotv/stserver-frontend-comp/commit/054c6eba1f96888abd05a6681a5d691745e6ad2b))
+
+### [1.3.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.3...v1.3.4) (2022-08-31)
+
+
+### Bug Fixes
+
+* Allow deviation editing only for op === 'eq' || op === 'neq' ([113dfef](https://github.com/impleotv/stserver-frontend-comp/commit/113dfefb8c9d55f70ca1f26724d92fd6342c1f36))
+* Improve KlvConditionsTable ([ca0b6d9](https://github.com/impleotv/stserver-frontend-comp/commit/ca0b6d9ffe570d10e9b086c929dd84a07a386719))
+
+### [1.3.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.2...v1.3.3) (2022-08-31)
+
+
+### Bug Fixes
+
+* Implement Deviation field ([105523e](https://github.com/impleotv/stserver-frontend-comp/commit/105523e57d79c394223e620da4513617434f3367))
+
+### [1.3.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.1...v1.3.2) (2022-08-30)
+
+
+### Bug Fixes
+
+* Change handling update data ([31e9693](https://github.com/impleotv/stserver-frontend-comp/commit/31e9693c212315731c6cd5b5b2cdeac7477bdde0))
+
+### [1.3.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.0...v1.3.1) (2022-08-24)
+
+
+### Bug Fixes
+
+* Export KlvConditionsTable ([3c500dc](https://github.com/impleotv/stserver-frontend-comp/commit/3c500dc7a7ff6214201ec12159d740d8e3ad8786))
+
+## [1.3.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.31...v1.3.0) (2022-08-24)
+
+
+### Features
+
+* Add KlvConditionsTable ([7b3a8d1](https://github.com/impleotv/stserver-frontend-comp/commit/7b3a8d1b804df614c8854ea251acb01f813243bb))
+
+
+### Bug Fixes
+
+* Update dependencies ([7d3bda1](https://github.com/impleotv/stserver-frontend-comp/commit/7d3bda129e4641a47f3256940c5a078393b422e4))
+
+### [1.2.31](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.30...v1.2.31) (2022-08-11)
+
+### [1.2.30](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.29...v1.2.30) (2022-08-11)
+
+
+### Bug Fixes
+
+* Fix Bookmark default color ([28bad31](https://github.com/impleotv/stserver-frontend-comp/commit/28bad31b6a96b7a32b0cc544d354a2c267d7b017))
+* Update video.js standard-version socket.io-client rollup recharts react-resize-detector  moment konva date-fns @testing-library/jest-dom postcss ([f7125d1](https://github.com/impleotv/stserver-frontend-comp/commit/f7125d140bfdee9d6047dcbed2c17e970601818d))
+
 ### [1.2.29](https://github.com/impleotv/stserver-frontend-comp/compare/v1.2.28...v1.2.29) (2022-05-09)
 
 

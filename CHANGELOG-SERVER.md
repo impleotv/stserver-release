@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.28](https://github.com/impleotv/stserver2/compare/v2.2.27...v2.2.28) (2022-09-11)
+
+
+### Bug Fixes
+
+* Update dependencies ([f0120e7](https://github.com/impleotv/stserver2/commit/f0120e79986a8f4a924f945d51d43e218deb4432))
+* Update dependencies ([6f5d2fd](https://github.com/impleotv/stserver2/commit/6f5d2fdf703ca88a52ea22138180d6f4fb83146c))
+* Update install ([d94b872](https://github.com/impleotv/stserver2/commit/d94b872f0a3fc5aefb366bd0eb826ecd3d4b61d7))
+* Update webrtc streamer version ([3cc3d28](https://github.com/impleotv/stserver2/commit/3cc3d2876047aa15dfd28359e9c4ad67c3f7f456))
+
+### [2.2.27](https://github.com/impleotv/stserver2/compare/v2.2.26...v2.2.27) (2022-08-11)
+
+
+### Bug Fixes
+
+* Move to node 16 in container ([47d22e5](https://github.com/impleotv/stserver2/commit/47d22e53a634cdae15376dcfb9c58328c88937ba))
+* Update dependencies ([fcd4f13](https://github.com/impleotv/stserver2/commit/fcd4f13311f5c61b330e2e5fa71ca2747e0d9ba8))
+* Update dependencies ([7072fd4](https://github.com/impleotv/stserver2/commit/7072fd4e29b92f74485ef86155830bf1978d3f2d))
+* Update dependencies ([5eb9044](https://github.com/impleotv/stserver2/commit/5eb904415d7c70187f4619677849162c517f4ef7))
+* Update install ([68b1745](https://github.com/impleotv/stserver2/commit/68b1745b411b3bea79463b4a539e2de2112d9663))
+
 ### [2.2.26](https://github.com/impleotv/stserver2/compare/v2.2.25...v2.2.26) (2022-05-09)
 
 
