@@ -83,7 +83,7 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 | **StServer (Linux x64)** |  2.2.30 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.2.30/stserver-install.tar.gz)  | 
 | **StServer (VOD for WSL2)** |  2.2.30 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.2.30/stserver-install-wsl.tar.gz)  | 
 
-*Released on Thu, 20 Oct, 13:38 GMT+3*
+*Released on Thu, 20 Oct, 13:48 GMT+3*
 
 ## Components versions
 
