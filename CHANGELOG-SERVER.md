@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file. See [standa
 ### [2.2.30](https://github.com/impleotv/stserver2/compare/v2.2.29...v2.2.30) (2022-10-20)
 
 
+Starting ver2.2.30 Platform name and Sensor name are taken only from the "name" property (the root is no longer needed), so the new configuration files should follow this convention (for older one, the root name will be ignored)
+As a result, it is important to update the following services to the newer revisions:
+- stsupervisor >= 1.3.2
+- stserver-webrtc-streamer >= 1.0.9
+- stserver-stream-recaster >= 1.0.1
+
 ### Bug Fixes
 
 * Update dependencies ([becc59d](https://github.com/impleotv/stserver2/commit/becc59d9cf391143ad7476d68fd8a8f55e97c931))
