@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.51](https://github.com/impleotv/stserver2-frontend/compare/v2.1.50...v2.1.51) (2022-10-19)
+
 ### [2.1.50](https://github.com/impleotv/stserver2-frontend/compare/v2.1.49...v2.1.50) (2022-09-11)
 
 

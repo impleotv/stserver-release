@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.30](https://github.com/impleotv/stserver2/compare/v2.2.29...v2.2.30) (2022-10-20)
+
+
+### Bug Fixes
+
+* Update dependencies ([becc59d](https://github.com/impleotv/stserver2/commit/becc59d9cf391143ad7476d68fd8a8f55e97c931))
+* Update doc ([3505273](https://github.com/impleotv/stserver2/commit/3505273fd1a3c62db2016465510e7d9ad1d5a0a0))
+* Update install ([6e681d9](https://github.com/impleotv/stserver2/commit/6e681d9c0ebc52ba7291209bb3dc5a89e6af6cc0))
+
+### [2.2.29](https://github.com/impleotv/stserver2/compare/v2.2.28...v2.2.29) (2022-10-19)
+
+
+### Bug Fixes
+
+* Fix install ([01860a9](https://github.com/impleotv/stserver2/commit/01860a99be4078ea50aeee72f885b5e3cccafb63))
+* Fix spacial characters ([887b656](https://github.com/impleotv/stserver2/commit/887b65642d4a5cd53a67bd3823d580bb724fd2fc))
+* Remove special characters from the name ([56f9249](https://github.com/impleotv/stserver2/commit/56f9249d1bf7a38c1c2fb301e3fbf475939818c0))
+* Update dependencies ([3f40e3b](https://github.com/impleotv/stserver2/commit/3f40e3b7d7e5402f28d815f0faa9723d5de713b4))
+* Update install ([7c5b98c](https://github.com/impleotv/stserver2/commit/7c5b98ce58e92f1db368741629913fec169c1680))
+
 ### [2.2.28](https://github.com/impleotv/stserver2/compare/v2.2.27...v2.2.28) (2022-09-11)
 
 
