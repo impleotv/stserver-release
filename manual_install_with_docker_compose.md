@@ -21,7 +21,7 @@ tar -xvf stserver-install.tar.gz
 ```
 docker-compose up -d
 ```  
-> **Warning**  
+> **Note**  
 > If you have a newer (V2) docker compose, run
 
 ```
