@@ -21,6 +21,12 @@ tar -xvf stserver-install.tar.gz
 ```
 docker-compose up -d
 ```  
+> Note. If you have a newer docker compose (V2), run
+
+```
+docker compose up -d
+```  
+
 When you run this for the first time, docker will download the required images and start containers.    
 
 ***That's it! the server should be running now!***  
