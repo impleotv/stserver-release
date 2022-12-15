@@ -20,6 +20,8 @@ OS: Linux x64.
 
 Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine ( or download and install them, then reboot (important!!!).
 
+If you have a newer (V2) docker compose, use the [manual method](./manual_install_with_docker_compose.md), without **st-launcher**.
+
 ### Installing StServer with st-launcher
 
 1\. Download **st-launcher.run** and save it to a local folder (for example, **~/stserver/**).  
