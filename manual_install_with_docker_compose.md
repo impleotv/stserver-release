@@ -47,3 +47,10 @@ To stop the services use the following command:
 ```
 docker-compose down
 ```  
+> **Note**  
+> If you have a newer (V2) docker compose, run  
+
+```
+docker compose down
+```  
+
