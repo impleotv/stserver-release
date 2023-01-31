@@ -2,8 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [2.2.30](https://github.com/impleotv/stserver2/compare/v2.2.29...v2.2.30) (2022-10-20)
+### [2.2.31](https://github.com/impleotv/stserver2/compare/v2.2.30...v2.2.31) (2023-01-31)
 
+
+### Bug Fixes
+
+* Modify doc ([6030b0b](https://github.com/impleotv/stserver2/commit/6030b0b04ac156a2deb8af1078ce42ec8b4197f7))
+* Update install ([f3ac048](https://github.com/impleotv/stserver2/commit/f3ac04877627cfd2cefff84185a82df19149a96b))
+
+### [2.2.30](https://github.com/impleotv/stserver2/compare/v2.2.29...v2.2.30) (2022-10-20)
 
 Starting ver2.2.30 Platform name and Sensor name are taken only from the "name" property (the root is no longer needed), so the new configuration files should follow this convention (for older one, the root name will be ignored)
 As a result, it is important to update the following services to the newer revisions:
@@ -23,7 +30,7 @@ As a result, it is important to update the following services to the newer revis
 ### Bug Fixes
 
 * Fix install ([01860a9](https://github.com/impleotv/stserver2/commit/01860a99be4078ea50aeee72f885b5e3cccafb63))
-* Fix spacial characters ([887b656](https://github.com/impleotv/stserver2/commit/887b65642d4a5cd53a67bd3823d580bb724fd2fc))
+* Fix special characters ([887b656](https://github.com/impleotv/stserver2/commit/887b65642d4a5cd53a67bd3823d580bb724fd2fc))
 * Remove special characters from the name ([56f9249](https://github.com/impleotv/stserver2/commit/56f9249d1bf7a38c1c2fb301e3fbf475939818c0))
 * Update dependencies ([3f40e3b](https://github.com/impleotv/stserver2/commit/3f40e3b7d7e5402f28d815f0faa9723d5de713b4))
 * Update install ([7c5b98c](https://github.com/impleotv/stserver2/commit/7c5b98ce58e92f1db368741629913fec169c1680))

@@ -20,9 +20,6 @@ OS: Linux x64.
 
 Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine ( or download and install them, then reboot (important!!!).
 
-> **Warning**  
-> If you have a newer (V2) docker compose, use the [manual method](./manual_install_with_docker_compose.md), without **st-launcher**.
-
 ### Installing StServer with st-launcher
 
 1\. Download **st-launcher.run** and save it to a local folder (for example, **~/stserver/**).  
@@ -83,10 +80,10 @@ More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.2.30 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.2.30/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.2.30 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.2.30/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.2.31 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.2.31/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.2.31 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.2.31/stserver-install-wsl.tar.gz)  | 
 
-*Released on Thu, 20 Oct, 13:48 GMT+3*
+*Released on Tue, 31 Jan, 18:42 GMT+2*
 
 ## Components versions
 
@@ -94,7 +91,7 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.2.30 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Backend**      |  2.2.31 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
 | **Frontend**     |  2.1.51 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.3.8 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
