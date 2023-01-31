@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [2.2.31](https://github.com/impleotv/stserver2/compare/v2.2.30...v2.2.31) (2023-01-31)
 
+- stserver-webrtc-streamer >= 1.0.10
 
 ### Bug Fixes
 
