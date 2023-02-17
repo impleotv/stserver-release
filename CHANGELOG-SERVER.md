@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.2](https://github.com/impleotv/stserver2/compare/v2.3.1...v2.3.2) (2023-02-16)
+
+
+### Bug Fixes
+
+* Update install ([6429d07](https://github.com/impleotv/stserver2/commit/6429d07c2869f7631eb37a9b90f4f7253ff024d8))
+* Update webrtc component ([a404ab9](https://github.com/impleotv/stserver2/commit/a404ab984e637b5907a348db26af0f7f1e57ac78))
+
+### [2.3.1](https://github.com/impleotv/stserver2/compare/v2.3.0...v2.3.1) (2023-02-16)
+
+
+### Bug Fixes
+
+* Update install ([155d000](https://github.com/impleotv/stserver2/commit/155d0001011f03ef05f5ce4370ed23610c4bb544))
+
+## [2.3.0](https://github.com/impleotv/stserver2/compare/v2.2.31...v2.3.0) (2023-02-15)
+
+
+### Features
+
+* Add stanag2webrtc support ([0607b0e](https://github.com/impleotv/stserver2/commit/0607b0e39d62a2c881f567e1ac13546313204526))
+
 ### [2.2.31](https://github.com/impleotv/stserver2/compare/v2.2.30...v2.2.31) (2023-01-31)
 
 - stserver-webrtc-streamer >= 1.0.10

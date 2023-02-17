@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.0...v1.4.3) (2023-02-16)
+
+
+### Bug Fixes
+
+* Change webrtc channel hostmane ([0badbd2](https://github.com/impleotv/stserver-frontend-comp/commit/0badbd2f146e925e515f2715f9f216b8d56abc9c))
+* Fix stanag2webrtc url ([5340eca](https://github.com/impleotv/stserver-frontend-comp/commit/5340ecad4e7c10f821328361a16a43a4504441a2))
+* Fix stanag2webrtc url ([47cb451](https://github.com/impleotv/stserver-frontend-comp/commit/47cb4515ef775f9335f51f191e21ff5af885c9dd))
+
+### [1.4.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.0...v1.4.1) (2023-02-16)
+
+
+### Bug Fixes
+
+* Change webrtc channel hostmane ([0badbd2](https://github.com/impleotv/stserver-frontend-comp/commit/0badbd2f146e925e515f2715f9f216b8d56abc9c))
+
+## [1.4.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.9...v1.4.0) (2023-02-15)
+
+
+### Features
+
+* Add stanag2webrtc player ([32752d8](https://github.com/impleotv/stserver-frontend-comp/commit/32752d87965a0eee0910b2e212c562b14700c34e))
+
+### [1.3.9](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.8...v1.3.9) (2023-02-13)
+
+
+### Bug Fixes
+
+* Update dependencies ([f4b4166](https://github.com/impleotv/stserver-frontend-comp/commit/f4b4166e9c9bfeb6ba5155bf695aa4f81b30c7bf))
+
 ### [1.3.8](https://github.com/impleotv/stserver-frontend-comp/compare/v1.3.7...v1.3.8) (2022-09-11)
 
 
