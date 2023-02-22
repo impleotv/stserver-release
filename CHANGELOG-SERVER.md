@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.3](https://github.com/impleotv/stserver2/compare/v2.3.2...v2.3.3) (2023-02-21)
+
+
+### Bug Fixes
+
+* Update install files ([98011f5](https://github.com/impleotv/stserver2/commit/98011f51b506a05f009fda1e478532734707fc3a))
+* Update webrtc playback ([62f70bb](https://github.com/impleotv/stserver2/commit/62f70bbf1bed5babc0e9dd860a92353d97c93c11))
+
 ### [2.3.2](https://github.com/impleotv/stserver2/compare/v2.3.1...v2.3.2) (2023-02-16)
 
 
