@@ -31,7 +31,7 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 | **StServer (Linux x64)** |  2.3.4 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.4/stserver-install.tar.gz)  | 
 | **StServer (VOD for WSL2)** |  2.3.4 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.4/stserver-install-wsl.tar.gz)  | 
 
-*Released on Thu, 23 Feb, 18:35 GMT+2*
+*Released on Thu, 23 Feb, 18:42 GMT+2*
 
 ## Components versions
 
@@ -44,12 +44,14 @@ Current server version uses the following components:
 | **FrontendComp** |  1.4.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
+## Mission uploader
+
 StServer [mission uploader](https://www.impleotv.com/content/stserver2/help/utilities/stserver-uploader/) utility:  
 
-|                  | Version             | CHANGELOG                                                          | 
-|:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Mission uploader (Windows)**      |   | [stserveruploader.zip](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.zip) | 
-| **Mission uploader (Linux)**        |  | [stserveruploader.gz](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.gz) | 
+|                  |  CHANGELOG                                                          | 
+|:-----------------|:------------------------------------------------------------------------|
+| **Mission uploader (Windows)**      |  [stserveruploader.zip](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.zip) | 
+| **Mission uploader (Linux)**        |  [stserveruploader.gz](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.gz) | 
   
 
 ## License
