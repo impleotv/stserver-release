@@ -16,64 +16,12 @@ OS: Linux x64.
 
 ## Installation (using Docker Compose)
 
-**STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/). 
+The **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/),
+with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a preferred 
+method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we will use docker-compose, 
+while Kubernetes is more suitable for distributed deployment.
 
-Make sure you have [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine ( or download and install them, then reboot (important!!!).
-
-### Installing StServer with st-launcher
-
-1\. Download **st-launcher.run** and save it to a local folder (for example, **~/stserver/**).  
-
-Here are the [Download links and instructions](https://github.com/impleotv/st-launcher-release)
-
-
-2\. Make sure **st-launcher.run** is executable 
-
-```bash
-sudo chmod +x st-launcher.run
-```
-
-3\. Run it
-
-```
-~/stserver$ ./st-launcher.run 
-```
-4\. Enter **install** command
-
-```
-Starting st-launcher. Ver. 1.0.0
-st-launcher started: http://127.0.0.1:8040. Ctrl-C to exit.
-
-Enter command (install/start/stop/update/quit):
-Command: install 
-```
-5\. Wait until installation is complete, and edit [.env](./env-file.md) file, if needed.
-
-6\. Start the server.
-
-```
-Enter command (install/start/stop/update/quit):
-Command: start 
-```
-
-When you run this for the first time, docker will download all the required images and start containers.    
-
-> Note, after reboot, the Server will start automatically, no need to use st-launcher to start it (except for the first time). 
-
-
-You may also consider making **st-launcher.run** running after reboot, so the StServer could be updated from via frontend (admin page).  
-Any method that allows execution on reboot will do. For example, you can [use crontab](./doc/crontab-script.md).
-
-***That's it! the server should be running now!***  
-
-You can also [install and run the server manually](./manual_install_with_docker_compose.md), without **st-launcher**.
-
-
-> By default, the server will run on port **8080**. 
-
-Please note, in case of production deployment, you should run a server behind reverse proxy with SSL.
-
-More info [here](https://stserver.impleotv.com/help/user-guide/installation/)
+Installation instructions can be found [here](https://stserver.impleotv.com/help/user-guide/installation/) or [here](https://www.impleotv.com/content/stserver2/help/user-guide/installation/)
 
 
 ## Direct Download link
@@ -94,6 +42,14 @@ Current server version uses the following components:
 | **Backend**      |  {{version}} | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
 | **Frontend**     |  {{frontendVersion}} | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  {{frontendCompVersion}} | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+  
+
+StServer [mission uploader](https://www.impleotv.com/content/stserver2/help/utilities/stserver-uploader/) utility:  
+
+|                  | Version             | CHANGELOG                                                          | 
+|:-----------------|:-------------------:|:------------------------------------------------------------------------|
+| **Mission uploader (Windows)**      |   | [stserveruploader.zip](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.zip) | 
+| **Mission uploader (Linux)**        |  | [stserveruploader.gz](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.gz) | 
   
 
 ## License
