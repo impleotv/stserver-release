@@ -28,10 +28,10 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.3.4 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.4/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.3.4 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.4/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.3.5 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.5/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.3.5 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.5/stserver-install-wsl.tar.gz)  | 
 
-*Released on Thu, 23 Feb, 18:42 GMT+2*
+*Released on Fri, 24 Feb, 19:32 GMT+2*
 
 ## Components versions
 
@@ -39,9 +39,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.3.4 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.2.3 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.4.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.3.5 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.2.5 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.4.5 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -50,8 +50,8 @@ StServer [mission uploader](https://www.impleotv.com/content/stserver2/help/util
 
 |                  |  CHANGELOG                                                          | 
 |:-----------------|:------------------------------------------------------------------------|
-| **Mission uploader (Windows)**      |  [stserveruploader.zip](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.zip) | 
-| **Mission uploader (Linux)**        |  [stserveruploader.gz](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.gz) | 
+| **Mission uploader (Windows x64)**      |  [stserveruploader.zip](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.zip) | 
+| **Mission uploader (Linux x64)**        |  [stserveruploader.gz](https://impleotv.com/content/stserver2/stserveruploader/stserveruploader.gz) | 
   
 
 ## License

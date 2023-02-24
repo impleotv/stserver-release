@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.5](https://github.com/impleotv/stserver2-frontend/compare/v2.2.4...v2.2.5) (2023-02-24)
+
+
+### Bug Fixes
+
+* Update stserver-frontend-comp ([2958781](https://github.com/impleotv/stserver2-frontend/commit/29587818ff3b11c2b18901158c6d323b2910e28a))
+
+### [2.2.4](https://github.com/impleotv/stserver2-frontend/compare/v2.2.3...v2.2.4) (2023-02-24)
+
+
+### Bug Fixes
+
+* Update stanag2webrtc player ([240f25d](https://github.com/impleotv/stserver2-frontend/commit/240f25d03ba792c942c041f6fc326a10b5d70f3f))
+
 ### [2.2.3](https://github.com/impleotv/stserver2-frontend/compare/v2.2.2...v2.2.3) (2023-02-23)
 
 

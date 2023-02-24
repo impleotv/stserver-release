@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.4...v1.4.5) (2023-02-24)
+
+
+### Bug Fixes
+
+* Downgrade axios to ver 0.27.2, otherwise, the stserver-frontend does not work with the component ([9c57578](https://github.com/impleotv/stserver-frontend-comp/commit/9c57578900efa7a920eeabe2ed98bf80e75cd861))
+
+### [1.4.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.3...v1.4.4) (2023-02-24)
+
+
+### Bug Fixes
+
+* Update reverse proxy implementation ([7b20de2](https://github.com/impleotv/stserver-frontend-comp/commit/7b20de22fe67cee539fd268f4352c7de4d626bb2))
+
 ### [1.4.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.0...v1.4.3) (2023-02-16)
 
 
