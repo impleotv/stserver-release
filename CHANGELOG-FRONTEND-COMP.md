@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.5...v1.4.6) (2023-02-27)
+
+
+### Bug Fixes
+
+* stanag2webrtc reverse proxy ([7663869](https://github.com/impleotv/stserver-frontend-comp/commit/766386957971da3bfe0cbe6ad5fb47d673d518f0))
+
 ### [1.4.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.4...v1.4.5) (2023-02-24)
 
 

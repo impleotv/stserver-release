@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.6](https://github.com/impleotv/stserver2/compare/v2.3.5...v2.3.6) (2023-02-28)
+
+
+### Bug Fixes
+
+* Clean unnesessary things ([387b6d4](https://github.com/impleotv/stserver2/commit/387b6d49fe589e65575bbe6181230aee1ed2c67e))
+* Downgrade axios to 0.27.2 ([e916449](https://github.com/impleotv/stserver2/commit/e916449827cbc790e5df9da655d9740dabb7030c))
+* Fix docker log file location ([f10427c](https://github.com/impleotv/stserver2/commit/f10427cba27bb11f172c53d8e16b40dd895bd6df))
+* Update dependencies ([e7a24a4](https://github.com/impleotv/stserver2/commit/e7a24a4652611026bdfad055f284c7b39447210b))
+* Update manual ([4c0c2cf](https://github.com/impleotv/stserver2/commit/4c0c2cf07acdf646bc4b1647fe8998d6fb3adde8))
+* Update scripts ([921e6e6](https://github.com/impleotv/stserver2/commit/921e6e6fe9c94d42d42eff15058a3f195234b45a))
+
 ### [2.3.5](https://github.com/impleotv/stserver2/compare/v2.3.3...v2.3.5) (2023-02-24)
 
 

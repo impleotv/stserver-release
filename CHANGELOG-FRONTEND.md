@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.7](https://github.com/impleotv/stserver2-frontend/compare/v2.2.6...v2.2.7) (2023-02-28)
+
+
+### Bug Fixes
+
+* Downgrade to axios 0.27.2 ([3f64eb5](https://github.com/impleotv/stserver2-frontend/commit/3f64eb561e68aded29f41483ac49b17d54190561))
+* Show platforms only to admin. Remove reports ([d96ae2e](https://github.com/impleotv/stserver2-frontend/commit/d96ae2e2c46df7da3b6e20689110b6addcf110d1))
+
+### [2.2.6](https://github.com/impleotv/stserver2-frontend/compare/v2.2.5...v2.2.6) (2023-02-27)
+
+
+### Bug Fixes
+
+* Update stserver-frontend-comp ([391da7d](https://github.com/impleotv/stserver2-frontend/commit/391da7dd4a1036f5ca77edddd005f40c3151201a))
+
 ### [2.2.5](https://github.com/impleotv/stserver2-frontend/compare/v2.2.4...v2.2.5) (2023-02-24)
 
 

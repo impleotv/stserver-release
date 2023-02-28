@@ -7,7 +7,11 @@
 
 # StServer
 
-**STANAG On Demand Server** delivers On-Demand / Live FMV and geo-spatial metadata to video analysts and field operators in order to help them easily access, analyze, and present mission information.  
+The **STANAG On Demand Server** is a platform that delivers on-demand and live Full Motion Video (FMV) as well as geospatial metadata to video analysts and field operators. 
+This service helps them easily access, analyze, and present mission-critical information, enabling faster decision-making and improved situational awareness. 
+The server is designed to support NATO's Standardization Agreement (STANAG) requirements, ensuring compatibility with a range of military systems and applications. 
+The server enhances the ability of analysts and operators to effectively monitor and respond to dynamic situations. 
+With the **STANAG On Demand Server**, organizations can benefit from a comprehensive, scalable, and reliable solution for managing video and geospatial data.
 More [info](https://impleotv.com/products/stanagondemand-server/).
 
 ## System Requirements
@@ -28,10 +32,10 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.3.5 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.5/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.3.5 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.5/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.3.6 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.6/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.3.6 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.6/stserver-install-wsl.tar.gz)  | 
 
-*Released on Fri, 24 Feb, 19:32 GMT+2*
+*Released on Tue, 28 Feb, 13:45 GMT+2*
 
 ## Components versions
 
@@ -39,9 +43,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.3.5 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.2.5 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.4.5 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.3.6 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.2.7 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.4.6 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -90,13 +94,9 @@ You will receive 2 files - license file and key file. Simply drag and drop them 
 
 It is also possible to simply copy the licenses to the docker volume mounted directory 
 
+## Known issues for version 2.3.6
 
-## Known issues
-
-- If not restarted after install, first mission upload may fail
-- Query mission doesn't work
-
-
+- If not restarted after install, first mission upload may fail. Delete the mission and upload again.
 
 ----  
 *Please don't hesitate to contact us at support@impleotv.com should you have any question.*
