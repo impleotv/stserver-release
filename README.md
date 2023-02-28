@@ -91,7 +91,7 @@ You will receive 2 files - license file and key file. Simply drag and drop them 
 It is also possible to simply copy the licenses to the docker volume mounted directory 
 
 
-### Known issues
+## Known issues
 
 - If not restarted after install, first mission upload may fail
 - Query mission doesn't work
