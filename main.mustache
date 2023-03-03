@@ -21,7 +21,7 @@ OS: Linux x64.
 ## Installation (using Docker Compose)
 
 The **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/),
-with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a preferred 
+with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a  
 method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we will use docker-compose, 
 while Kubernetes is more suitable for distributed deployment.
 
@@ -91,8 +91,16 @@ You will receive 2 files - license file and key file. Simply drag and drop them 
 
 ![Upload license](./images/licenseUpload.png)
 
+Licenses are stored in the folder specified in .env file and automatically mounted by the server docker container.
+```
+LICENSE_DIR=~/licenses/stserver/
+```
+It is also possible to simply copy the licenses to this directory.
 
-It is also possible to simply copy the licenses to the docker volume mounted directory 
+> **Note:**  
+Make sure that the server has an access rights to read and write to this directory.  
+Also, only keep one copy of the license file and key, the server will use the first one found.
+
 
 ## Known issues for version {{version}}
 
