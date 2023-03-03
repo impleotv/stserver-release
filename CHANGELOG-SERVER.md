@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/impleotv/stserver2/compare/v2.3.6...v2.4.0) (2023-03-02)
+
+
+### Features
+
+* Add video file export ([e46d8fa](https://github.com/impleotv/stserver2/commit/e46d8fac4cf68a637183a9e50e1e18434b1d5662))
+
+
+### Bug Fixes
+
+* Update install ([fbd62f1](https://github.com/impleotv/stserver2/commit/fbd62f1788f3c7dceaf94e174b78cd596bc7a9a1))
+* Update openapi ([6f51155](https://github.com/impleotv/stserver2/commit/6f5115540a12ecd44ac650cfc408abdcab083e4d))
+
 ### [2.3.6](https://github.com/impleotv/stserver2/compare/v2.3.5...v2.3.6) (2023-02-28)
 
 

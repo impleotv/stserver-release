@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.6...v1.5.0) (2023-03-02)
+
+
+### Features
+
+* Add StCutControl ([7e4b578](https://github.com/impleotv/stserver-frontend-comp/commit/7e4b5781a94b5ce2744138c4bcf7773147dd69d2))
+
+
+### Bug Fixes
+
+* Update StCutControl ([81a8ae3](https://github.com/impleotv/stserver-frontend-comp/commit/81a8ae3edf3d6ff80df6f2d93503d15f4552707c))
+
 ### [1.4.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.4.5...v1.4.6) (2023-02-27)
 
 

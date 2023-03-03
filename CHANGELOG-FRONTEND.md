@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/impleotv/stserver2-frontend/compare/v2.2.8...v2.3.0) (2023-03-02)
+
+
+### Features
+
+* Add export video feature ([9e46de1](https://github.com/impleotv/stserver2-frontend/commit/9e46de1f06fae1f0bef0d8b073d797cc4f9089cf))
+
+### [2.2.8](https://github.com/impleotv/stserver2-frontend/compare/v2.2.7...v2.2.8) (2023-03-02)
+
+
+### Bug Fixes
+
+* Fix login route ([b04d380](https://github.com/impleotv/stserver2-frontend/commit/b04d380b931ac0e8d300bfe4229d3a2e3e37ecd3))
+
 ### [2.2.7](https://github.com/impleotv/stserver2-frontend/compare/v2.2.6...v2.2.7) (2023-02-28)
 
 

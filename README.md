@@ -21,7 +21,7 @@ OS: Linux x64.
 ## Installation (using Docker Compose)
 
 The **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/),
-with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a preferred 
+with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a  
 method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we will use docker-compose, 
 while Kubernetes is more suitable for distributed deployment.
 
@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.3.6 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.6/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.3.6 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.3.6/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.4.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.4.0/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.4.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.4.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Tue, 28 Feb, 13:45 GMT+2*
+*Released on Fri, 3 Mar, 08:39 GMT+2*
 
 ## Components versions
 
@@ -43,9 +43,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.3.6 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.2.7 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.4.6 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.4.0 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.3.0 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.5.0 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -91,10 +91,18 @@ You will receive 2 files - license file and key file. Simply drag and drop them 
 
 ![Upload license](./images/licenseUpload.png)
 
+Licenses are stored in the folder specified in .env file and automatically mounted by the server docker container.
+```
+LICENSE_DIR=~/licenses/stserver/
+```
+It is also possible to simply copy the licenses to this directory.
 
-It is also possible to simply copy the licenses to the docker volume mounted directory 
+> **Note:**  
+Make sure that the server has an access rights to read and write to this directory.  
+Also, only keep one copy of the license file and key, the server will use the first one found.
 
-## Known issues for version 2.3.6
+
+## Known issues for version 2.4.0
 
 - If not restarted after install, first mission upload may fail. Delete the mission and upload again.
 
