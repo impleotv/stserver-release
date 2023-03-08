@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.1](https://github.com/impleotv/stserver2-frontend/compare/v2.4.0...v2.4.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* Update jsplayer ([7a759b1](https://github.com/impleotv/stserver2-frontend/commit/7a759b1caa4f008f05fcd65b74fa72f7346ef1f2))
+
+## [2.4.0](https://github.com/impleotv/stserver2-frontend/compare/v2.3.0...v2.4.0) (2023-03-08)
+
+
+### Features
+
+* Add export video feature ([859c1b0](https://github.com/impleotv/stserver2-frontend/commit/859c1b00664a78ed1da79746b0a5d46936711e18))
+
+
+### Bug Fixes
+
+* Show message during video export ([b6a057c](https://github.com/impleotv/stserver2-frontend/commit/b6a057c0d1d9d98606db7797a85dcbc6733c653b))
+* Update stanag2webrtc player ([bd35a71](https://github.com/impleotv/stserver2-frontend/commit/bd35a71383e513283fab84be4b385f2411bda4e8))
+
 ## [2.3.0](https://github.com/impleotv/stserver2-frontend/compare/v2.2.8...v2.3.0) (2023-03-02)
 
 

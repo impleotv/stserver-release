@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.4.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.4.0/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.4.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.4.0/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.4.1 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.4.1/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.4.1 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.4.1/stserver-install-wsl.tar.gz)  | 
 
-*Released on Sun, 5 Mar, 11:45 GMT+2*
+*Released on Wed, 8 Mar, 12:22 GMT+2*
 
 ## Components versions
 
@@ -43,9 +43,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.4.0 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.3.0 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.5.0 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.4.1 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.4.1 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.5.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -102,7 +102,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.4.0
+## Known issues for version 2.4.1
 
 - If not restarted after install, first mission upload may fail. Delete the mission and upload again.
 

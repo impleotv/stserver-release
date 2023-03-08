@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.1](https://github.com/impleotv/stserver2/compare/v2.4.0...v2.4.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* Add microservices-versions.json and update install mustache files ([d15c161](https://github.com/impleotv/stserver2/commit/d15c1614106c6aa06ef7a1d206c49b7d091c8653))
+* Update dependencies ([b95580f](https://github.com/impleotv/stserver2/commit/b95580fe7db4baeb35c44e0a6c36a535090efb99))
+* Update install ([f4580cb](https://github.com/impleotv/stserver2/commit/f4580cb6cb719a0c50bfc93c51bd8d7689709935))
+
 ## [2.4.0](https://github.com/impleotv/stserver2/compare/v2.3.6...v2.4.0) (2023-03-02)
 
 
