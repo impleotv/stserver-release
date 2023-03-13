@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/impleotv/stserver2/compare/v2.5.0...v2.5.1) (2023-03-13)
+
+
+### Bug Fixes
+
+* Fix ngingx volume config ([98d64d2](https://github.com/impleotv/stserver2/commit/98d64d2f396f17d44e4ddde5fd006d1783ac6bad))
+
 ## [2.5.0](https://github.com/impleotv/stserver2/compare/v2.4.1...v2.5.0) (2023-03-13)
 
 
