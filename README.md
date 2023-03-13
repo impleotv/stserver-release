@@ -35,7 +35,7 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 | **StServer (Linux x64)** |  2.5.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.5.0/stserver-install.tar.gz)  | 
 | **StServer (VOD for WSL2)** |  2.5.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.5.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Mon, 13 Mar, 10:05 GMT+2*
+*Released on Mon, 13 Mar, 10:15 GMT+2*
 
 ## Components versions
 
