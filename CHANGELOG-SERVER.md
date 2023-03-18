@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.2](https://github.com/impleotv/stserver2/compare/v2.5.1...v2.5.2) (2023-03-17)
+
+
+### Bug Fixes
+
+* Nginx. Set unlimited size for post requests, for file upload ([401b6c2](https://github.com/impleotv/stserver2/commit/401b6c275a27613473023b8eb9acf42aea768d21))
+* While uploadig the license files, check (and rename) if there already existing license files ([5b9aa0a](https://github.com/impleotv/stserver2/commit/5b9aa0abe2b89c42c222558c038dc11d7ea5274a))
+
 ### [2.5.1](https://github.com/impleotv/stserver2/compare/v2.5.0...v2.5.1) (2023-03-13)
 
 
