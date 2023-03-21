@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.5.2 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.5.2/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.5.2 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.5.2/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.5.3 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.5.3/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.5.3 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.5.3/stserver-install-wsl.tar.gz)  | 
 
-*Released on Sat, 18 Mar, 18:31 GMT+2*
+*Released on Tue, 21 Mar, 13:31 GMT+2*
 
 ## Components versions
 
@@ -43,8 +43,8 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.5.2 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
-| **Frontend**     |  2.4.1 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **Backend**      |  2.5.3 | [CHANGELOG-SERVER.md](./CHANGELOG-FRONTEND.md) | 
+| **Frontend**     |  2.4.2 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.5.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
@@ -102,7 +102,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.5.2
+## Known issues for version 2.5.3
 
 - If not restarted after install, first mission upload may fail. Delete the mission and upload again.
 
