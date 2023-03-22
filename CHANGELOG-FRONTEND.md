@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.4](https://github.com/impleotv/stserver2-frontend/compare/v2.4.3...v2.4.4) (2023-03-22)
+
+
+### Bug Fixes
+
+* Add reverse proxy status icon ([88d7c9c](https://github.com/impleotv/stserver2-frontend/commit/88d7c9cb092fb8ca43e66582c5bfac54374b7850))
+* Fix usergroups selection for user ([de1a7fa](https://github.com/impleotv/stserver2-frontend/commit/de1a7fac57570b358f4bc9b379b5f267f87eef1c))
+
+### [2.4.3](https://github.com/impleotv/stserver2-frontend/compare/v2.4.2...v2.4.3) (2023-03-21)
+
+
+### Bug Fixes
+
+* Downgrade material-table to fix a freeze ([3d4cf8f](https://github.com/impleotv/stserver2-frontend/commit/3d4cf8f894ebbc4a8d12b34f7b5899316864fe07))
+
 ### [2.4.2](https://github.com/impleotv/stserver2-frontend/compare/v2.4.1...v2.4.2) (2023-03-20)
 
 ### [2.4.1](https://github.com/impleotv/stserver2-frontend/compare/v2.4.0...v2.4.1) (2023-03-08)
