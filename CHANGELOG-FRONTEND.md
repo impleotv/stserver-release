@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/impleotv/stserver2-frontend/compare/v2.4.4...v2.5.0) (2023-03-28)
+
+
+### Features
+
+* Add platformInfo table ([e048eb5](https://github.com/impleotv/stserver2-frontend/commit/e048eb54e21826bed881b760da13747fc3742f9c))
+
+
+### Bug Fixes
+
+* Implement usergroup selection for platform ([69bb69b](https://github.com/impleotv/stserver2-frontend/commit/69bb69b34b07050d4b66004f09bfe00d7bb1e1ce))
+
 ### [2.4.4](https://github.com/impleotv/stserver2-frontend/compare/v2.4.3...v2.4.4) (2023-03-22)
 
 

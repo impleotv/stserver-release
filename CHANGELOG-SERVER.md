@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/impleotv/stserver2/compare/v2.5.4...v2.6.0) (2023-03-28)
+
+
+### Features
+
+* Modify platorms route to return usergroups and only according to the user access rights ([8ebc58d](https://github.com/impleotv/stserver2/commit/8ebc58d37ffd134c12ef73e08fde1aaace35864a))
+
+
+### Bug Fixes
+
+* Fix edit usergroup ([1d7f018](https://github.com/impleotv/stserver2/commit/1d7f018c09805cf2e97b68ba3abd2ee287bf65bb))
+* Update install ([12e3ae2](https://github.com/impleotv/stserver2/commit/12e3ae24135132dd8ebe6cbac85e2bd34f9afc0f))
+* Update manual ([db3776a](https://github.com/impleotv/stserver2/commit/db3776a7e19db8bb11094ee940eaf9c7501f207f))
+
 ### [2.5.4](https://github.com/impleotv/stserver2/compare/v2.5.3...v2.5.4) (2023-03-22)
 
 
