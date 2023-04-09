@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://stserver.impleotv.com/help
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.6.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.6.0/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.6.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.6.0/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.7.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.7.0/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.7.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.7.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Tue, 28 Mar, 12:49 GMT+3*
+*Released on Sun, 9 Apr, 14:11 GMT+3*
 
 ## Components versions
 
@@ -43,9 +43,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.6.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
-| **Frontend**     |  2.5.0 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.5.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.7.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Frontend**     |  2.5.3 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.6.2 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -102,7 +102,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.6.0
+## Known issues for version 2.7.0
 
 - If not restarted after install, first mission upload may fail. Delete the mission and upload again.
 

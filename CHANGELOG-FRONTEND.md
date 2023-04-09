@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.3](https://github.com/impleotv/stserver2-frontend/compare/v2.5.2...v2.5.3) (2023-04-09)
+
+
+### Bug Fixes
+
+* Update stserver-frontend-comp and moment-timezone ([71ec92e](https://github.com/impleotv/stserver2-frontend/commit/71ec92ea37fed6524902c761f60ca685769ecf83))
+
+### [2.5.2](https://github.com/impleotv/stserver2-frontend/compare/v2.5.1...v2.5.2) (2023-04-04)
+
+
+### Bug Fixes
+
+* Add access token for images in the mission table ([22d738e](https://github.com/impleotv/stserver2-frontend/commit/22d738eb95bec8b58cae9eaef98fe8354abe9bfd))
+* Add access token to bookmark images ([7eb3d0f](https://github.com/impleotv/stserver2-frontend/commit/7eb3d0fdea8eb2dfd796a63b5bdd4ccf69c0c1a3))
+
+### [2.5.1](https://github.com/impleotv/stserver2-frontend/compare/v2.5.0...v2.5.1) (2023-04-04)
+
+
+### Bug Fixes
+
+* Update dependencies ([49c3c91](https://github.com/impleotv/stserver2-frontend/commit/49c3c91016823d2abddc8a56278e4ee70d50b1b9))
+
 ## [2.5.0](https://github.com/impleotv/stserver2-frontend/compare/v2.4.4...v2.5.0) (2023-03-28)
 
 

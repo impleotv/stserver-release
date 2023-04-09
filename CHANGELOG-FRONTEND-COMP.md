@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.1...v1.6.2) (2023-04-09)
+
+
+### Bug Fixes
+
+* Check area value before presentation ([92b163c](https://github.com/impleotv/stserver-frontend-comp/commit/92b163c4e11f8fbdb8c60757054bec78a279498e))
+* Update video.js ([ada9614](https://github.com/impleotv/stserver-frontend-comp/commit/ada96149f5527dc7d6d8ab1cbedbe0df07492946))
+
+### [1.6.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.0...v1.6.1) (2023-04-04)
+
+
+### Bug Fixes
+
+* Modify custom hook ([d27d07c](https://github.com/impleotv/stserver-frontend-comp/commit/d27d07c704d767bd42f8a9a2964ae8e4942216d3))
+* Update useSensorBookmarks ([bfdda13](https://github.com/impleotv/stserver-frontend-comp/commit/bfdda1379c9a5b1b9bdac35dcf918624cfff2a0b))
+
+## [1.6.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.5.4...v1.6.0) (2023-04-04)
+
+
+### Features
+
+* Add JWT tokens for missions and sensors ([07c1852](https://github.com/impleotv/stserver-frontend-comp/commit/07c1852ec6d528f4acf188f69b6f83cfabf312ea))
+
+### [1.5.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.5.3...v1.5.4) (2023-04-04)
+
+
+### Bug Fixes
+
+* Implement mission table thumbnail with JWT ([f48bd50](https://github.com/impleotv/stserver-frontend-comp/commit/f48bd50273596cdf44a16d19f4f2698aa57f40d2))
+* Set xhr.beforeRequest ([b193649](https://github.com/impleotv/stserver-frontend-comp/commit/b1936495d6a6315e8b8eda6f05d912c0c4e19775))
+* Update dependencies ([ff15266](https://github.com/impleotv/stserver-frontend-comp/commit/ff15266a5b9ec2b63cd812e259b2bc2e859fb783))
+
 ### [1.5.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.5.2...v1.5.3) (2023-03-08)
 
 

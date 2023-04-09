@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/impleotv/stserver2/compare/v2.6.2...v2.7.0) (2023-04-06)
+
+
+### Features
+
+* Add JWT and video server ([99449a4](https://github.com/impleotv/stserver2/commit/99449a4ca8f26ac53d2e2a7e4d99e121a316a0f1))
+
+
+### Bug Fixes
+
+* Update install ([9f67433](https://github.com/impleotv/stserver2/commit/9f67433809bd044c45fb6005f27aa8e922fe497e))
+
+### [2.6.2](https://github.com/impleotv/stserver2/compare/v1.0.0...v2.6.2) (2023-04-06)
+
+
+### Bug Fixes
+
+* Update docs ([cfc7430](https://github.com/impleotv/stserver2/commit/cfc7430f3d78ad5abd69a0d779d1a36503039688))
+
+### [2.6.1](https://github.com/impleotv/stserver2/compare/v2.6.0...v2.6.1) (2023-04-04)
+
+
+### Bug Fixes
+
+* Add access token to missions, sensors and platform info ([0a8688b](https://github.com/impleotv/stserver2/commit/0a8688be389e705be3665d504dd52b784f08df3e))
+* Add login route ([5239866](https://github.com/impleotv/stserver2/commit/52398660ea80d80223795efcf3512cf053b29fe5))
+* Modify bookmarks route ([1c73edf](https://github.com/impleotv/stserver2/commit/1c73edfa452ac103202fc499635304da0e95d2d7))
+* Update dependencies ([2ace942](https://github.com/impleotv/stserver2/commit/2ace942d04ebda11671397bcbc0b31128531b296))
+* Update install ([e4c6cb2](https://github.com/impleotv/stserver2/commit/e4c6cb298f6616fdd02da4cac6b96db33932c257))
+
 ## [2.6.0](https://github.com/impleotv/stserver2/compare/v2.5.4...v2.6.0) (2023-03-28)
 
 
