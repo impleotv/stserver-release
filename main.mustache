@@ -25,7 +25,7 @@ with Linux being the preferred operating system. Although the solution can be de
 method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we will use docker-compose, 
 while Kubernetes is more suitable for distributed deployment.
 
-Installation instructions can be found [here](https://stserver.impleotv.com/help/user-guide/installation/) or [here](https://www.impleotv.com/content/stserver2/help/user-guide/installation/)
+Installation instructions can be found [here](https://www.impleotv.com/content/stserver2/help/user-guide/installation/)
 
 
 ## Direct Download link
