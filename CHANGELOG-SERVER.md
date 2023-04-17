@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.1](https://github.com/impleotv/stserver2/compare/v2.7.0...v2.7.1) (2023-04-17)
+
+
+### Bug Fixes
+
+* Add CORS to video server ([ffb7069](https://github.com/impleotv/stserver2/commit/ffb70698fe9aa123f060ed811b7322dcad94e240))
+* Add missing docs ([a7713a3](https://github.com/impleotv/stserver2/commit/a7713a3cb3ff4fb361547658afbbdc20d989b1f9))
+* Add more logs for upload ([5b4cef2](https://github.com/impleotv/stserver2/commit/5b4cef2b590b3a3d60ec9774f9c7812c2dad2938))
+* Add some logs ([4839268](https://github.com/impleotv/stserver2/commit/4839268d72fc064e26882d97f3ff8f86882e4da7))
+* Add version log to stvideo-server ([4a656bf](https://github.com/impleotv/stserver2/commit/4a656bf7c63dc355b291dea6ca2e6fe795d12275))
+* Fix create sensor ([c664d8b](https://github.com/impleotv/stserver2/commit/c664d8b12d974989f5c8da1f0316a124d2e01d95))
+* Fix log bug ([6a5af4c](https://github.com/impleotv/stserver2/commit/6a5af4c91a1a360858c09c626674ece84113cad6))
+* Fix version upgrade ([a68949c](https://github.com/impleotv/stserver2/commit/a68949c579b300271355955538a7dbd7cb7e592c))
+* Set mongodb to version 4.4.18, so it could run in VM ([7ab62ff](https://github.com/impleotv/stserver2/commit/7ab62ffe48e39169cf7602b6ce86dda10eb8ef2a))
+* Update docs ([e3bcd67](https://github.com/impleotv/stserver2/commit/e3bcd675d24f13083fe2f36f3c9ee2a3488471fe))
+* Update install ([c7d11dc](https://github.com/impleotv/stserver2/commit/c7d11dcd1024d6971474d041440212b5f2412b19))
+* Update mission creation without accessTokenSecret ([70f85db](https://github.com/impleotv/stserver2/commit/70f85dbd00c2d7337b60363b53810e4f66991841))
+* Update rollup terser ([fb2719a](https://github.com/impleotv/stserver2/commit/fb2719abf9d4cc7c2b16c48919602ee794d2cbc0))
+
 ## [2.7.0](https://github.com/impleotv/stserver2/compare/v2.6.2...v2.7.0) (2023-04-06)
 
 

@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.6](https://github.com/impleotv/stserver2-frontend/compare/v2.5.5...v2.5.6) (2023-04-17)
+
+
+### Bug Fixes
+
+* Update stserver-frontend-comp ([34a48fc](https://github.com/impleotv/stserver2-frontend/commit/34a48fc56bb764e2dd8d678dc01c031b4498a598))
+
+### [2.5.5](https://github.com/impleotv/stserver2-frontend/compare/v2.5.4...v2.5.5) (2023-04-16)
+
+
+### Bug Fixes
+
+* Error handling ([130af7d](https://github.com/impleotv/stserver2-frontend/commit/130af7df9e49dc2b6db0abc84f16de70f3d72d0b))
+* Update react-markdown stserver-frontend-comp ([e314560](https://github.com/impleotv/stserver2-frontend/commit/e31456038b156e29d68b2796e7b164cc02767dd8))
+
+### [2.5.4](https://github.com/impleotv/stserver2-frontend/compare/v2.5.3...v2.5.4) (2023-04-10)
+
+
+### Bug Fixes
+
+* Change state update ([f56580c](https://github.com/impleotv/stserver2-frontend/commit/f56580c0b761885c560411684e0da79d99f60b00))
+
 ### [2.5.3](https://github.com/impleotv/stserver2-frontend/compare/v2.5.2...v2.5.3) (2023-04-09)
 
 

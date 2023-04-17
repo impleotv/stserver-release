@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.4...v1.6.5) (2023-04-11)
+
+
+### Bug Fixes
+
+* Update bookmarks ([264d396](https://github.com/impleotv/stserver-frontend-comp/commit/264d396a428f7eb4a1fa5619c705438931824307))
+
+### [1.6.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.3...v1.6.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* Downgrade recharts to 1.8.5 from 2.5.0. It doesn't work with StPlayer ([7d6a835](https://github.com/impleotv/stserver-frontend-comp/commit/7d6a83500d92a6cdb41a93c5929de491f0975dc7))
+
+### [1.6.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.2...v1.6.3) (2023-04-11)
+
+
+### Bug Fixes
+
+* Some fixes for properties, etc ([4cdef63](https://github.com/impleotv/stserver-frontend-comp/commit/4cdef637601105dd01b4f9e825a1a94c39438df9))
+
 ### [1.6.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.1...v1.6.2) (2023-04-09)
 
 
