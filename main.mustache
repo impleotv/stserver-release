@@ -104,6 +104,19 @@ Also, only keep one copy of the license file and key, the server will use the fi
 
 ## Known issues for version {{version}}
 
+- In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
+
+```
+  mongodb:
+    image: mongo:4.4.18
+```   
+to 
+```
+  mongodb:
+    image: mongo
+```    
+You should also do this if you're upgrading the server version and have your DB created with a more recent mongodb version, otherwise it won't work.
+
 - If not restarted after install, first mission upload may fail. Delete the mission and upload again.
 
 ----  
