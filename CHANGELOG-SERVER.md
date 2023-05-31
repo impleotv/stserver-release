@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.3](https://github.com/impleotv/stserver2/compare/v2.7.2...v2.7.3) (2023-05-26)
+
+
+### Bug Fixes
+
+* Update install ([87d0941](https://github.com/impleotv/stserver2/commit/87d094184aa1adb26a60ac1c951f0fb64503aea2))
+
+### [2.7.2](https://github.com/impleotv/stserver2/compare/v2.7.1...v2.7.2) (2023-05-26)
+
+
+### Bug Fixes
+
+* Reload nconf after creation and delete annotaions ([c3c2737](https://github.com/impleotv/stserver2/commit/c3c2737011128e886c3582945a0145f5e6e2ddd6))
+* Update dependencies ([78087a1](https://github.com/impleotv/stserver2/commit/78087a1ac047120494a8442adc5d1c199fb326a3))
+* Update docs ([eb045c1](https://github.com/impleotv/stserver2/commit/eb045c1f9e867bbf355e1a4db92f49f98e5b51fc))
+* Update install ([eadd544](https://github.com/impleotv/stserver2/commit/eadd5448439384d65be54c6475c934722c2271f2))
+* Update nginx config ([2c25e1e](https://github.com/impleotv/stserver2/commit/2c25e1ecb5d7de1b64395ae48d73d21f3d9ccb07))
+
 ### [2.7.1](https://github.com/impleotv/stserver2/compare/v2.7.0...v2.7.1) (2023-04-17)
 
 

@@ -2,6 +2,69 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.7](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.6...v1.7.7) (2023-05-31)
+
+
+### Bug Fixes
+
+* Use server port only ([2fc106f](https://github.com/impleotv/stserver-frontend-comp/commit/2fc106f10d376253c60074b6154c15b7f5609f09))
+
+### [1.7.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.5...v1.7.6) (2023-05-30)
+
+
+### Bug Fixes
+
+* Fix url for stanag2webrtc player ([4b417e2](https://github.com/impleotv/stserver-frontend-comp/commit/4b417e26a0d31cbbb7dd8c1a727c686e17113497))
+
+### [1.7.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.4...v1.7.5) (2023-05-30)
+
+### [1.7.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.3...v1.7.4) (2023-05-30)
+
+
+### Bug Fixes
+
+* Update stanag2webrtc to support reverse proxy ([2f79493](https://github.com/impleotv/stserver-frontend-comp/commit/2f7949366ab1395e6100004cef578c3f6f505aa0))
+
+### [1.7.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.2...v1.7.3) (2023-05-26)
+
+
+### Bug Fixes
+
+* disable error presentation for  stanag2webrtc player ([fc0ab7a](https://github.com/impleotv/stserver-frontend-comp/commit/fc0ab7a2e9826628eaeb0d6c241e8df8d19fe647))
+
+### [1.7.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.1...v1.7.2) (2023-05-26)
+
+
+### Bug Fixes
+
+* Update stanag2webrtc player ([29c3ea6](https://github.com/impleotv/stserver-frontend-comp/commit/29c3ea6512776c99cf55d2c2b483934bfc8d9fdb))
+
+### [1.7.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.0...v1.7.1) (2023-05-26)
+
+
+### Bug Fixes
+
+* Update player ([9074a1e](https://github.com/impleotv/stserver-frontend-comp/commit/9074a1efde589ffbf0dacc9c4644b38ec848e11c))
+
+## [1.7.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.6...v1.7.0) (2023-05-26)
+
+
+### Features
+
+* Use stanag2webrtc player ([05c8c1f](https://github.com/impleotv/stserver-frontend-comp/commit/05c8c1f62d095b49f21ae83b19e509dc3250e655))
+
+
+### Bug Fixes
+
+* Change socket.io url from ws to publicUrl.href ([8666851](https://github.com/impleotv/stserver-frontend-comp/commit/8666851005484424c7366e38b93d6e576b865ad8))
+
+### [1.6.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.5...v1.6.6) (2023-04-17)
+
+
+### Bug Fixes
+
+* update videojs-playlist ([e1de67c](https://github.com/impleotv/stserver-frontend-comp/commit/e1de67c9e4a0394fb7850829679f7309edd24f15))
+
 ### [1.6.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.6.4...v1.6.5) (2023-04-11)
 
 

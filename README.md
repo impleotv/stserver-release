@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.7.1 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.7.1/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.7.1 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.7.1/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.7.3 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.7.3/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.7.3 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.7.3/stserver-install-wsl.tar.gz)  | 
 
-*Released on Mon, 17 Apr, 17:50 GMT+3*
+*Released on Wed, 31 May, 10:45 GMT+3*
 
 ## Components versions
 
@@ -43,9 +43,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.7.1 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
-| **Frontend**     |  2.5.6 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.6.5 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.7.3 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Frontend**     |  2.5.9 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.7.7 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -102,7 +102,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.7.1
+## Known issues for version 2.7.3
 
 - In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
 
