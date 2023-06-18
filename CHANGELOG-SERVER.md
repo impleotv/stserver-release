@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.4](https://github.com/impleotv/stserver2/compare/v2.7.3...v2.7.4) (2023-06-18)
+
+
+### Bug Fixes
+
+* Fix accessToken for PlatformUsergroups update ([6d9eec2](https://github.com/impleotv/stserver2/commit/6d9eec2cec9a82d2323fd442bfbdc955eff31354))
+
 ### [2.7.3](https://github.com/impleotv/stserver2/compare/v2.7.2...v2.7.3) (2023-05-26)
 
 
