@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.1](https://github.com/impleotv/stserver2/compare/v2.8.0...v2.8.1) (2023-07-13)
+
+
+### Bug Fixes
+
+* Update dependencies ([9d385cc](https://github.com/impleotv/stserver2/commit/9d385cc9d6f6756e7bc73a2500361d598fabb0f4))
+* Update dependencies ([1bb8e19](https://github.com/impleotv/stserver2/commit/1bb8e191c12425c65933284b2c6cd4ade91c9cb5))
+* Update install ([250d0db](https://github.com/impleotv/stserver2/commit/250d0db98273d93b6bafab506d33a16221bdb628))
+* Update license verifier to fix unlocked license scenario ([3fc33a0](https://github.com/impleotv/stserver2/commit/3fc33a0639119d754394394f7bf7d9b3fa64a9c5))
+
+## [2.8.0](https://github.com/impleotv/stserver2/compare/v2.7.4...v2.8.0) (2023-06-22)
+
+
+### Features
+
+* Add server restart ([3fb2bc4](https://github.com/impleotv/stserver2/commit/3fb2bc40470be8b1c4363ece18ea2d7fc7fee20f))
+
+
+### Bug Fixes
+
+* Add platformConfigFile upload ([f17f6f6](https://github.com/impleotv/stserver2/commit/f17f6f6e95e9537c2c611d1c78be44017adff0de))
+* Update install ([4b9f152](https://github.com/impleotv/stserver2/commit/4b9f152204d3c6567068b3ae523422bbb7519eb0))
+
 ### [2.7.4](https://github.com/impleotv/stserver2/compare/v2.7.3...v2.7.4) (2023-06-18)
 
 

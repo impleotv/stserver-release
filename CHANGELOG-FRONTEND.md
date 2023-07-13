@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.1](https://github.com/impleotv/stserver2-frontend/compare/v2.6.0...v2.6.1) (2023-07-13)
+
+## [2.6.0](https://github.com/impleotv/stserver2-frontend/compare/v2.5.9...v2.6.0) (2023-06-22)
+
+
+### Features
+
+* Add restart ([b6d1995](https://github.com/impleotv/stserver2-frontend/commit/b6d1995843c5a99a6e0f4028ea1a01ffba213570))
+
 ### [2.5.9](https://github.com/impleotv/stserver2-frontend/compare/v2.5.8...v2.5.9) (2023-05-31)
 
 
