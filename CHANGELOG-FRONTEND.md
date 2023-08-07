@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.2](https://github.com/impleotv/stserver2-frontend/compare/v2.6.1...v2.6.2) (2023-08-07)
+
+
+### Bug Fixes
+
+* Always enable Ok button in Mission Edit mode ([3405247](https://github.com/impleotv/stserver2-frontend/commit/34052470a386c59c81bb42085ab7ae42e5ca9c6e))
+* Fix live popover preview for webrtc ([0bf0eba](https://github.com/impleotv/stserver2-frontend/commit/0bf0ebaada35488270879ff1ead93f723d5165f1))
+* Update dependencies ([cfb4e34](https://github.com/impleotv/stserver2-frontend/commit/cfb4e341157588bfbc6a2a6d4ade36540a876c73))
+* Update stserver-frontend-comp ([efc2212](https://github.com/impleotv/stserver2-frontend/commit/efc2212c1004e150373a3510939a5e7418c12d69))
+
 ### [2.6.1](https://github.com/impleotv/stserver2-frontend/compare/v2.6.0...v2.6.1) (2023-07-13)
 
 ## [2.6.0](https://github.com/impleotv/stserver2-frontend/compare/v2.5.9...v2.6.0) (2023-06-22)
