@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.3](https://github.com/impleotv/stserver2-frontend/compare/v2.6.2...v2.6.3) (2023-09-06)
+
+
+### Bug Fixes
+
+* Load map configuration dynamically ([5ae51f4](https://github.com/impleotv/stserver2-frontend/commit/5ae51f4121bb0c8f959e063dc097ad599a82a3f7))
+* MapLayerControl update ([46dcf8c](https://github.com/impleotv/stserver2-frontend/commit/46dcf8cff114d82c88d84997eb7affb97a952a94))
+* Modify map ([7722b53](https://github.com/impleotv/stserver2-frontend/commit/7722b53473f4d653ca7b4b59976e1a2a9dc60753))
+* Modify user delete implementation. Use query string ([a488758](https://github.com/impleotv/stserver2-frontend/commit/a4887585a5fa545931df9d10cc5111a33e5232fe))
+
 ### [2.6.2](https://github.com/impleotv/stserver2-frontend/compare/v2.6.1...v2.6.2) (2023-08-07)
 
 

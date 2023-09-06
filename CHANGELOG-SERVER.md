@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.3](https://github.com/impleotv/stserver2/compare/v2.8.2...v2.8.3) (2023-09-06)
+
+
+### Bug Fixes
+
+* Add map config query ([a9bfa0c](https://github.com/impleotv/stserver2/commit/a9bfa0cbf54493f305d81247363959df25abc742))
+* Fix delete user ([5b67718](https://github.com/impleotv/stserver2/commit/5b677186071f4a7df92bc5838859fb6552010704))
+* Fix usergroups modification (put) for user ([6aafc6f](https://github.com/impleotv/stserver2/commit/6aafc6fa58d4fa6b697344ae553231a6563009ec))
+* Implement usergroup delete with query params ([3879239](https://github.com/impleotv/stserver2/commit/38792397b02114042849700453ee8cbfcd1e200a))
+* Make optional usergroup fields update ([a260eed](https://github.com/impleotv/stserver2/commit/a260eed7b127b0496daf8d3c6b6fb512f665fbe7))
+* Update dependencies ([c26845a](https://github.com/impleotv/stserver2/commit/c26845ae2fd14839a4ed1f23cbdc9902abdb2d18))
+* Update manual (Docker with the UFW) ([6cb1655](https://github.com/impleotv/stserver2/commit/6cb1655c205bc58fdf812a6a51362e6e53eb0f9a))
+* Update manual (Docker with the UFW) ([068a81d](https://github.com/impleotv/stserver2/commit/068a81d0f81b171d7fb7157b945fd805f1074228))
+
 ### [2.8.2](https://github.com/impleotv/stserver2/compare/v2.8.1...v2.8.2) (2023-08-07)
 
 
