@@ -31,6 +31,7 @@ jobs:
           cp ./stserver2/package.json ./components/package-server.json
           mkdir ./stserver2/installDist
           cd ./stserver2/install
+          mkdir utils-backup
           tar -czvf ../installDist/stserver-install.tar.gz . 
           sleep 5               
           cd ../../
@@ -40,6 +41,7 @@ jobs:
         run: |        
           mkdir ./stserver2/installDistWsl
           cd ./stserver2/install-wsl
+          mkdir utils-backup
           tar -czvf ../installDistWsl/stserver-install-wsl.tar.gz . 
           sleep 5               
           cd ../../
