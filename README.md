@@ -32,8 +32,8 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.9.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.0/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.9.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.0/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.8.3 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.8.3/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.8.3 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.8.3/stserver-install-wsl.tar.gz)  | 
 
 *Released on Sun, 17 Sept, 13:43 GMT+3*
 
@@ -43,7 +43,7 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.9.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Backend**      |  2.8.3 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
 | **Frontend**     |  2.6.3 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.7.9 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
