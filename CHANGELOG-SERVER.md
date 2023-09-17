@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.9.0](https://github.com/impleotv/stserver2/compare/v2.8.3...v2.9.0) (2023-09-16)
+
+
+### Features
+
+* Add backup scripts ([4954d77](https://github.com/impleotv/stserver2/commit/4954d776b28458ce24528c436c6de9e266fc878a))
+
+
+### Bug Fixes
+
+* Add offline setup instructions to the manual ([08c4b1a](https://github.com/impleotv/stserver2/commit/08c4b1a3032fa03e0df3bc5a1a3036c0d653cb55))
+* backup utils ([c50b3cc](https://github.com/impleotv/stserver2/commit/c50b3cc08b2c8bb2172313a67bf694bd847a55d2))
+* Update dependencies ([58a5c03](https://github.com/impleotv/stserver2/commit/58a5c03f9a902f910ff710c0937a3ec58d438a2b))
+* Update install ([0eff527](https://github.com/impleotv/stserver2/commit/0eff5278f33b3f9d86054920a9995f52b528ac35))
+
 ### [2.8.3](https://github.com/impleotv/stserver2/compare/v2.8.2...v2.8.3) (2023-09-06)
 
 
