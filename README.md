@@ -35,7 +35,7 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 | **StServer (Linux x64)** |  2.9.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.0/stserver-install.tar.gz)  | 
 | **StServer (VOD for WSL2)** |  2.9.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Sun, 17 Sept, 16:59 GMT+3*
+*Released on Mon, 18 Sept, 08:42 GMT+3*
 
 ## Components versions
 
@@ -76,7 +76,14 @@ Options:
 
 ### Getting license
 
-In order to get the license, please install the server and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine. Or contact ImpleoTV support.
+To obtain a license, please follow these steps:
+
+- Install the server software on your target machine.  
+- Complete the [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform) and provide the **Node Info** string for the target machine (IMPORTANT!!!).  
+- Alternatively, you can contact ImpleoTV support.  
+
+*Please note that licenses will be issued after the product has been purchased.*
+
 
 There are 3 options to install the license:  
 
