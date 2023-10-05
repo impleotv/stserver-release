@@ -35,7 +35,7 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 | **StServer (Linux x64)** |  2.9.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.0/stserver-install.tar.gz)  | 
 | **StServer (VOD for WSL2)** |  2.9.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Mon, 18 Sept, 08:42 GMT+3*
+*Released on Thu, 5 Oct, 17:56 GMT+3*
 
 ## Components versions
 
@@ -44,8 +44,8 @@ Current server version uses the following components:
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
 | **Backend**      |  2.9.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
-| **Frontend**     |  2.6.3 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.7.9 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Frontend**     |  2.7.1 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.8.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader

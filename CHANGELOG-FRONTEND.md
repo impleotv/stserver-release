@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.1](https://github.com/impleotv/stserver2-frontend/compare/v2.7.0...v2.7.1) (2023-10-05)
+
+
+### Bug Fixes
+
+* Fix backups table update ([40c0711](https://github.com/impleotv/stserver2-frontend/commit/40c071190cb627ee62a4e47edf98a89eb7aebd0a))
+* Improve error handling ([65a9c09](https://github.com/impleotv/stserver2-frontend/commit/65a9c09a484fe666e8ac7ea0263e4e58748514b8))
+
+## [2.7.0](https://github.com/impleotv/stserver2-frontend/compare/v2.6.4...v2.7.0) (2023-10-03)
+
+
+### Features
+
+* Add backup table ([0a9430a](https://github.com/impleotv/stserver2-frontend/commit/0a9430ad48c411cd71aaf6969227980c70b0f9e2))
+
+
+### Bug Fixes
+
+* Add conferenceServerUrl ([ae8a91c](https://github.com/impleotv/stserver2-frontend/commit/ae8a91cf888c6c17db41445769baf86f474f8bae))
+
+### [2.6.4](https://github.com/impleotv/stserver2-frontend/compare/v2.6.3...v2.6.4) (2023-09-27)
+
+
+### Bug Fixes
+
+* Fix userfgoups delete ([5c4036d](https://github.com/impleotv/stserver2-frontend/commit/5c4036d5d38d74977364fa0df836048f754183a8))
+* Update dependencies ([3f57de5](https://github.com/impleotv/stserver2-frontend/commit/3f57de56579e335ea509ebcd78e99ce58ea39770))
+
 ### [2.6.3](https://github.com/impleotv/stserver2-frontend/compare/v2.6.2...v2.6.3) (2023-09-06)
 
 

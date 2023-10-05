@@ -2,6 +2,40 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.2...v1.8.3) (2023-10-05)
+
+
+### Bug Fixes
+
+* Fix backups table update ([4e61746](https://github.com/impleotv/stserver-frontend-comp/commit/4e61746c9f3b0286b42ce02a5fcc7043fe9e3c74))
+
+### [1.8.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.1...v1.8.2) (2023-10-05)
+
+
+### Bug Fixes
+
+* Update Backup Table ([04d0f03](https://github.com/impleotv/stserver-frontend-comp/commit/04d0f03d7c36ef00956dd1d3697a35399ce01035))
+
+### [1.8.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.0...v1.8.1) (2023-10-03)
+
+
+### Bug Fixes
+
+* export BackupsTable ([e534726](https://github.com/impleotv/stserver-frontend-comp/commit/e5347265d2777a19ce5ab5b8a66ac390dd85a86c))
+
+## [1.8.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.9...v1.8.0) (2023-10-03)
+
+
+### Features
+
+* Add backups table ([d704ee0](https://github.com/impleotv/stserver-frontend-comp/commit/d704ee0975ac28325e384e96f4f6486183f6b93a))
+
+
+### Bug Fixes
+
+* Add Backups Table ([e4d3761](https://github.com/impleotv/stserver-frontend-comp/commit/e4d3761efdcec99ddcea0397f4fcc740bf53a175))
+* Update @material-ui/pickers ([b928635](https://github.com/impleotv/stserver-frontend-comp/commit/b92863583cfab2bc5def07126012f6c25909ce30))
+
 ### [1.7.9](https://github.com/impleotv/stserver-frontend-comp/compare/v1.7.8...v1.7.9) (2023-08-07)
 
 
