@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.2](https://github.com/impleotv/stserver2/compare/v2.9.1...v2.9.2) (2023-10-05)
+
+
+### Bug Fixes
+
+* Add REST delete backups ([73aebbe](https://github.com/impleotv/stserver2/commit/73aebbe496b4e5f33bed89dcfc3e9faf43d32738))
+* Improve error handling for vid conf ([949259d](https://github.com/impleotv/stserver2/commit/949259dabaceb703acad3bd2e33ad6924ca24e17))
+* Update dependencies ([2945122](https://github.com/impleotv/stserver2/commit/2945122073628555667f0214423859f1d196b900))
+* Update frontend and dep ([90d4e82](https://github.com/impleotv/stserver2/commit/90d4e82afc7d5c05d846cc8b956b3f8a8bccba5e))
+* Update install ([d671eb9](https://github.com/impleotv/stserver2/commit/d671eb9d49e6b25a0ea7c2df713d0be5f2fc6665))
+* Update manual ([c1dcbec](https://github.com/impleotv/stserver2/commit/c1dcbec1d6ace259a33ad659212cad03d664e536))
+
+### [2.9.1](https://github.com/impleotv/stserver2/compare/v2.9.0...v2.9.1) (2023-10-03)
+
+
+### Bug Fixes
+
+* Improve backup/restore ([32c18b0](https://github.com/impleotv/stserver2/commit/32c18b033e04e27e35a5964c9941b205c349e112))
+* Modify backup utils ([2e2ae12](https://github.com/impleotv/stserver2/commit/2e2ae12155c15f6a8869a13b4fc5c95e470fe20f))
+* Update install ([bbf5b64](https://github.com/impleotv/stserver2/commit/bbf5b64710622894b95bf8b4d70e0037c33da898))
+
 ## [2.9.0](https://github.com/impleotv/stserver2/compare/v2.8.3...v2.9.0) (2023-09-16)
 
 
