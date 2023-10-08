@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.3](https://github.com/impleotv/stserver2/compare/v2.9.2...v2.9.3) (2023-10-08)
+
+
+### Bug Fixes
+
+* Remove ION SFU ([31aa5b1](https://github.com/impleotv/stserver2/commit/31aa5b145c3da43337b59ac668c14cf477953b30))
+* Update install ([f6f86c3](https://github.com/impleotv/stserver2/commit/f6f86c366c7d15e60d1cf8803c7678146157a2b9))
+
 ### [2.9.2](https://github.com/impleotv/stserver2/compare/v2.9.1...v2.9.2) (2023-10-05)
 
 

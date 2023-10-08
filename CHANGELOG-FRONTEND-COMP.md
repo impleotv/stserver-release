@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.3...v1.8.4) (2023-10-08)
+
+
+### Bug Fixes
+
+* Remove ion-sfu ([a85db5c](https://github.com/impleotv/stserver-frontend-comp/commit/a85db5c94880460a0d44268282bd45bdd4684be7))
+* Update dependencies ([8a9ad94](https://github.com/impleotv/stserver-frontend-comp/commit/8a9ad949fe721cbe80a9faac1d59782443865725))
+
 ### [1.8.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.2...v1.8.3) (2023-10-05)
 
 
