@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.4](https://github.com/impleotv/stserver2/compare/v2.9.3...v2.9.4) (2023-10-16)
+
+
+### Bug Fixes
+
+* add backup post ([dcb7114](https://github.com/impleotv/stserver2/commit/dcb7114eed04df5216d1ad1e25dbc42424dfb06e))
+* Delete SFU ([e51870b](https://github.com/impleotv/stserver2/commit/e51870b91dfe3bb29e5afb9f02a9d0502795e112))
+* Fix backup utils ([ef1c837](https://github.com/impleotv/stserver2/commit/ef1c837f26f994b70429489520b695d46a9f1e0a))
+* Fix default backup dirs ([b3a9c8f](https://github.com/impleotv/stserver2/commit/b3a9c8fcbe0e312ce3bd9598faee56ee652c57bb))
+* Update install ([529cb52](https://github.com/impleotv/stserver2/commit/529cb522db9075f6dbf29932072ea0190180b810))
+* Update openapi ([1e401b3](https://github.com/impleotv/stserver2/commit/1e401b3287192c46fbdcc167f509b448dcdb9b18))
+* Update scripts ([124492e](https://github.com/impleotv/stserver2/commit/124492eb8a4c3a40b3c48a6ff3a45c7a551b0523))
+
 ### [2.9.3](https://github.com/impleotv/stserver2/compare/v2.9.2...v2.9.3) (2023-10-08)
 
 

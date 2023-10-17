@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.9.3 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.3/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.9.3 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.3/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.9.4 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.4/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.9.4 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.9.4/stserver-install-wsl.tar.gz)  | 
 
-*Released on Sun, 8 Oct, 11:35 GMT+3*
+*Released on Tue, 17 Oct, 11:10 GMT+3*
 
 ## Components versions
 
@@ -43,7 +43,7 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.9.3 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Backend**      |  2.9.4 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
 | **Frontend**     |  2.7.2 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.8.4 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
@@ -109,7 +109,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.9.3
+## Known issues for version 2.9.4
 
 - In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
 
