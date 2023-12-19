@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.3](https://github.com/impleotv/stserver2-frontend/compare/v2.7.2...v2.7.3) (2023-12-18)
+
+
+### Bug Fixes
+
+* Add groupAdmin to mission control ([409a22c](https://github.com/impleotv/stserver2-frontend/commit/409a22c460c97e4d8e7069478c84649504fef324))
+* Allow groupAdmin control platforms ([e5465f4](https://github.com/impleotv/stserver2-frontend/commit/e5465f4f0ea9c20c5b1f22e622d65ba686f007fd))
+* Show conf button with the left drawer opened ([9c30ea5](https://github.com/impleotv/stserver2-frontend/commit/9c30ea5f509d416cb9cc09fd56c4b9006b40eab3))
+
 ### [2.7.2](https://github.com/impleotv/stserver2-frontend/compare/v2.7.1...v2.7.2) (2023-10-08)
 
 

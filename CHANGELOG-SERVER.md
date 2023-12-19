@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.5](https://github.com/impleotv/stserver2/compare/v2.9.4...v2.9.5) (2023-12-19)
+
+
+### Bug Fixes
+
+* Add ftp deploy-help ([b9bfce0](https://github.com/impleotv/stserver2/commit/b9bfce00860d10ccfc9d12013ede7a058d8ae761))
+* Allow groupAdmin to control live missions ([d659266](https://github.com/impleotv/stserver2/commit/d6592669871c1112cb0d0ea6fc3d5a2ddf34591a))
+* Fix mongo connection string in env ([3aff6d9](https://github.com/impleotv/stserver2/commit/3aff6d99d5f6dbd402998f448db33f93bf155365))
+* Update dependencies ([b052e76](https://github.com/impleotv/stserver2/commit/b052e76b8897dd1e5362ebdd250250403f3ca892))
+* Update install ([c56ccc2](https://github.com/impleotv/stserver2/commit/c56ccc27ebd2bc953ee18c3dc6d20550134412c3))
+
 ### [2.9.4](https://github.com/impleotv/stserver2/compare/v2.9.3...v2.9.4) (2023-10-16)
 
 
