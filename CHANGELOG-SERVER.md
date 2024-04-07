@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.1](https://github.com/impleotv/stserver2/compare/v2.9.6...v2.10.1) (2024-04-07)
+
+
+### Bug Fixes
+
+* Allow registration for non authenticated users ([5c802ec](https://github.com/impleotv/stserver2/commit/5c802ec331c2fbe71e23e7e22cd984c97721a7a9))
+* New licensing ([217b3b6](https://github.com/impleotv/stserver2/commit/217b3b6d29ef0c6f59f897291f6215e242427031))
+* Update install ([e6dc499](https://github.com/impleotv/stserver2/commit/e6dc4992d130457302b028cc584882479cd38f79))
+
+### [2.9.6](https://github.com/impleotv/stserver2/compare/v2.9.5...v2.9.6) (2024-04-04)
+
+
+### Bug Fixes
+
+* Add groupAdmin usergroups support ([ea10ce4](https://github.com/impleotv/stserver2/commit/ea10ce41f8cd2994fe0ba68f0c25fc13c0f03bc2))
+* Update install ([8a7a726](https://github.com/impleotv/stserver2/commit/8a7a72696a8b5d171dc88007fb6d53da9c19073a))
+* ver2.9.5 ([8601e47](https://github.com/impleotv/stserver2/commit/8601e47a98bd3096bf720f14a73df3303a184317))
+
 ### [2.9.5](https://github.com/impleotv/stserver2/compare/v2.9.4...v2.9.5) (2023-12-19)
 
 
