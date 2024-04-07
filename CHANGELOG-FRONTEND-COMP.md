@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.5...v1.9.0) (2024-04-04)
+
+
+### Features
+
+* Add StJwtLicenseInfo ([0668f32](https://github.com/impleotv/stserver-frontend-comp/commit/0668f327d77a8b4a49e28ed3c9aa3cb125df13fa))
+
+### [1.8.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.4...v1.8.5) (2024-03-31)
+
+
+### Bug Fixes
+
+* Update dependencies ([00e9ca9](https://github.com/impleotv/stserver-frontend-comp/commit/00e9ca951d716289205234e316d7b1092b60ded5))
+
 ### [1.8.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.3...v1.8.4) (2023-10-08)
 
 
