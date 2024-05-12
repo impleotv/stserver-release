@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.2](https://github.com/impleotv/stserver2/compare/v2.10.1...v2.10.2) (2024-05-12)
+
+
+### Bug Fixes
+
+* Copy lm.js to dist ([d03dc52](https://github.com/impleotv/stserver2/commit/d03dc520a0824c832b328e5429c39ffb8ada8468))
+* Modify manual ([241a874](https://github.com/impleotv/stserver2/commit/241a87423d00f7c72e3716e70f9727baf37be4b0))
+
 ### [2.10.1](https://github.com/impleotv/stserver2/compare/v2.9.6...v2.10.1) (2024-04-07)
 
 
