@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.9.0...v1.9.1) (2024-05-16)
+
+
+### Bug Fixes
+
+* Update webrtc player ([433b2f0](https://github.com/impleotv/stserver-frontend-comp/commit/433b2f034cef993e9f1c584cc5fc8307cb88f837))
+
 ## [1.9.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.8.5...v1.9.0) (2024-04-04)
 
 

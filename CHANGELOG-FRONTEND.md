@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.1](https://github.com/impleotv/stserver2-frontend/compare/v2.9.1...v2.10.1) (2024-05-16)
+
+
+### Bug Fixes
+
+* New License ([32d8d3b](https://github.com/impleotv/stserver2-frontend/commit/32d8d3befea05f3a1965ff06639987f1918f28c3))
+* Update dependencies, inluding webrtc player ([1543588](https://github.com/impleotv/stserver2-frontend/commit/15435881e95770a397ee9ec7757504ae9e7b9df4))
+
 ### [2.9.1](https://github.com/impleotv/stserver2-frontend/compare/v2.7.2...v2.9.1) (2024-04-04)
 
 
