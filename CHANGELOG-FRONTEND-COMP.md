@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.9.1...v1.9.2) (2024-05-24)
+
+
+### Bug Fixes
+
+* Increase time accuracy in KlvConditionsTable ([a47d672](https://github.com/impleotv/stserver-frontend-comp/commit/a47d672a1e17e4650826f5bcdbfef7b55945c306))
+* Update dependencies ([68f5431](https://github.com/impleotv/stserver-frontend-comp/commit/68f54312413c71e84a071ff57bc5544fa061a118))
+
 ### [1.9.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.9.0...v1.9.1) (2024-05-16)
 
 

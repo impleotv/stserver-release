@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.2](https://github.com/impleotv/stserver2-frontend/compare/v2.10.1...v2.10.2) (2024-08-07)
+
+
+### Bug Fixes
+
+* Add ShowLicense dialog and fix user table ([b9de848](https://github.com/impleotv/stserver2-frontend/commit/b9de848f149832adffbb3bb06ba39b8c508484e3))
+* Downgrade material-table to 1.67.0 ([b954f70](https://github.com/impleotv/stserver2-frontend/commit/b954f70e38b3f5d900c9a33b7ffdfc70600767e3))
+
 ### [2.10.1](https://github.com/impleotv/stserver2-frontend/compare/v2.9.1...v2.10.1) (2024-05-16)
 
 

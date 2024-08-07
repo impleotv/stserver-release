@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.10.4 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.10.4/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.10.4 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.10.4/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.10.5 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.10.5/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.10.5 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.10.5/stserver-install-wsl.tar.gz)  | 
 
-*Released on Sun, 19 May, 18:56 GMT+3*
+*Released on Wed, 7 Aug, 15:20 GMT+3*
 
 ## Components versions
 
@@ -43,9 +43,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.10.4 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
-| **Frontend**     |  2.10.1 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.9.1 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **Backend**      |  2.10.5 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Frontend**     |  2.10.2 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **FrontendComp** |  1.9.2 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
@@ -109,7 +109,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.10.4
+## Known issues for version 2.10.5
 
 - In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
 

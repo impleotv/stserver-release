@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.5](https://github.com/impleotv/stserver2/compare/v2.10.4...v2.10.5) (2024-08-07)
+
+
+### Bug Fixes
+
+* Add get licenseFile route ([8445a9b](https://github.com/impleotv/stserver2/commit/8445a9b691498b2b6e487742a38caedccab12c85))
+* Update dependencies ([ffa11b7](https://github.com/impleotv/stserver2/commit/ffa11b790eedb4d610c208fd7536ac88db0eb8e0))
+
 ### [2.10.4](https://github.com/impleotv/stserver2/compare/v2.10.3...v2.10.4) (2024-05-19)
 
 
