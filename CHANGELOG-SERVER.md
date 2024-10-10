@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.8](https://github.com/impleotv/stserver2/compare/v2.10.7...v2.10.8) (2024-10-10)
+
+
+### Bug Fixes
+
+* Update install ([06cb705](https://github.com/impleotv/stserver2/commit/06cb705ee8255806939513d91e95fae2faf17bc1))
+
+### [2.10.7](https://github.com/impleotv/stserver2/compare/v2.10.6...v2.10.7) (2024-10-03)
+
+
+### Bug Fixes
+
+* Update install ([325c098](https://github.com/impleotv/stserver2/commit/325c0986924e760d2592c729c89769c7aaeb8d8c))
+
+### [2.10.6](https://github.com/impleotv/stserver2/compare/v2.10.5...v2.10.6) (2024-10-03)
+
+
+### Bug Fixes
+
+* ffmpeg update + recorder restart + frontend update ([d4e17ac](https://github.com/impleotv/stserver2/commit/d4e17acde60c0dc4f238e55de04edbd46c2ebdf3))
+
 ### [2.10.5](https://github.com/impleotv/stserver2/compare/v2.10.4...v2.10.5) (2024-08-07)
 
 
