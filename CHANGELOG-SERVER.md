@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.9](https://github.com/impleotv/stserver2/compare/v2.10.8...v2.10.9) (2024-12-26)
+
+
+### Bug Fixes
+
+* Add license validation log ([bdbd8e6](https://github.com/impleotv/stserver2/commit/bdbd8e6acb3ffa89fa3ca2838b8fe27e66187104))
+* Update dependencies and the frontend ([634376c](https://github.com/impleotv/stserver2/commit/634376c5b73bb79f48a4912d10d51b4f3c022395))
+* Update dependencies. Logo per compmany ([10508ab](https://github.com/impleotv/stserver2/commit/10508abee111f757b9d7caa633ebe04006a900bb))
+
 ### [2.10.8](https://github.com/impleotv/stserver2/compare/v2.10.7...v2.10.8) (2024-10-10)
 
 
