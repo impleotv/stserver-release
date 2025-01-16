@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.10](https://github.com/impleotv/stserver2/compare/v2.10.8...v2.10.10) (2025-01-16)
+
+
+### Bug Fixes
+
+* Add license validation log ([bdbd8e6](https://github.com/impleotv/stserver2/commit/bdbd8e6acb3ffa89fa3ca2838b8fe27e66187104))
+* Delete old docker-compose files ([8cf0047](https://github.com/impleotv/stserver2/commit/8cf00473c0172f7bfbfd288984f19e42160a958d))
+* Ensure node instance location and create license dir, if does not exists ([19d633e](https://github.com/impleotv/stserver2/commit/19d633ece95875c1eb58db090225abced17e635d))
+* Fix platform type in live mode ([298be4b](https://github.com/impleotv/stserver2/commit/298be4ba40f848a68e14c1634b71aa627fa7b3eb))
+* Update dependencies ([46c1ace](https://github.com/impleotv/stserver2/commit/46c1ace4387c7a336495ab410fa0771f726a7027))
+* Update dependencies and the frontend ([634376c](https://github.com/impleotv/stserver2/commit/634376c5b73bb79f48a4912d10d51b4f3c022395))
+* Update dependencies. Logo per compmany ([10508ab](https://github.com/impleotv/stserver2/commit/10508abee111f757b9d7caa633ebe04006a900bb))
+* Update install ([b3461d5](https://github.com/impleotv/stserver2/commit/b3461d590404f416e9ff1d35b99a4ac1a60f14b7))
+
 ### [2.10.9](https://github.com/impleotv/stserver2/compare/v2.10.8...v2.10.9) (2024-12-26)
 
 

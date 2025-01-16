@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.6](https://github.com/impleotv/stserver2-frontend/compare/v2.10.5...v2.10.6) (2025-01-16)
+
+
+### Bug Fixes
+
+* Add  --openssl-legacy-provider to build on node 18 ([0902228](https://github.com/impleotv/stserver2-frontend/commit/0902228f3d7aac23edb848252581b7790927347b))
+* Add --openssl-legacy-provider to build with Node 18 ([13bda89](https://github.com/impleotv/stserver2-frontend/commit/13bda89e9495f9667beb3c892c0993d9fab1d49c))
+* Fix platform type presentation in live ([474981a](https://github.com/impleotv/stserver2-frontend/commit/474981a978ec8c9d1c20735549c117a003514d73))
+
 ### [2.10.5](https://github.com/impleotv/stserver2-frontend/compare/v2.10.4...v2.10.5) (2024-12-24)
 
 
