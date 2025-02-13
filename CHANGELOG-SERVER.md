@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.11](https://github.com/impleotv/stserver2/compare/v2.10.10...v2.10.11) (2025-02-13)
+
+
+### Bug Fixes
+
+* Downgrade node to ver 16 ([489580a](https://github.com/impleotv/stserver2/commit/489580a9bd1cccd77562c4780f62a9ce51e86b76))
+* Update dependencies ([09042f7](https://github.com/impleotv/stserver2/commit/09042f70ba0debb4a6e097a3aa216abb111b8f65))
+* Update stserver_webrtc_streamer service to 2.2.0 ([dcc8520](https://github.com/impleotv/stserver2/commit/dcc8520e23d13f04cda7ebf5f4b033a315233b3e))
+
 ### [2.10.10](https://github.com/impleotv/stserver2/compare/v2.10.8...v2.10.10) (2025-01-16)
 
 
