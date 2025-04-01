@@ -2,6 +2,37 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.11.1](https://github.com/impleotv/stserver2-frontend/compare/v2.11.0...v2.11.1) (2025-03-31)
+
+
+### Bug Fixes
+
+* Add custom_conference_server_url ([c712422](https://github.com/impleotv/stserver2-frontend/commit/c7124223e2e02b980a32e508c888eb7e74babf8d))
+
+## [2.11.0](https://github.com/impleotv/stserver2-frontend/compare/v2.10.7...v2.11.0) (2025-03-31)
+
+
+### Features
+
+* Add Snapshots and Documents ([a55c365](https://github.com/impleotv/stserver2-frontend/commit/a55c365d603577b522f718bdf86e124f9cb5cb80))
+
+
+### Bug Fixes
+
+* Add document download ([b29a372](https://github.com/impleotv/stserver2-frontend/commit/b29a3721394c8b330879bbcdd12eec24437f534f))
+* Add document error handling ([d9bf5ee](https://github.com/impleotv/stserver2-frontend/commit/d9bf5ee45d9330916a8c85195aa96aa8849c3167))
+* Add search by username to useractivities table ([8745866](https://github.com/impleotv/stserver2-frontend/commit/87458667a17eff1ac3bb2d3175c24ce2b5b9e572))
+* CreateDocumentDlg ([0686711](https://github.com/impleotv/stserver2-frontend/commit/0686711d1f94519765f708c54b690356084f408b))
+* Fix document thumbnail ([d48ed10](https://github.com/impleotv/stserver2-frontend/commit/d48ed105085776c06995a02ec8304bfdcb7ce1f9))
+
+### [2.10.7](https://github.com/impleotv/stserver2-frontend/compare/v2.10.6...v2.10.7) (2025-03-19)
+
+
+### Bug Fixes
+
+* Allow video export to all users, except guests ([a573562](https://github.com/impleotv/stserver2-frontend/commit/a573562bd7da75ea08222712b94118e8929057b8))
+* Modify SnapshotForm and the dialog. Use formik / yup ([e1a5b01](https://github.com/impleotv/stserver2-frontend/commit/e1a5b01e88d47417fee4dfb587112980c637d9e7))
+
 ### [2.10.6](https://github.com/impleotv/stserver2-frontend/compare/v2.10.5...v2.10.6) (2025-01-16)
 
 

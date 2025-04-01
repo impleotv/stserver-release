@@ -2,6 +2,43 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.2...v1.10.3) (2025-03-26)
+
+
+### Bug Fixes
+
+* Add currentTime ([e6fd7a1](https://github.com/impleotv/stserver-frontend-comp/commit/e6fd7a101b55db422ceb9b235fabcae89bbfc175))
+* Add currentTime ([2589a0c](https://github.com/impleotv/stserver-frontend-comp/commit/2589a0c2d0875c6ce889d82e77d02c0d5008f0e9))
+
+### [1.10.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.1...v1.10.2) (2025-03-19)
+
+
+### Bug Fixes
+
+* Modify players ref. Add mission/platform info ([a927c68](https://github.com/impleotv/stserver-frontend-comp/commit/a927c687c253a6bad724f3de1a4970bf5cece82f))
+* Modify SnapshotForm. Use formik / yup ([9fba473](https://github.com/impleotv/stserver-frontend-comp/commit/9fba4738e1425eee371b8ea934b78de6762d9dea))
+
+### [1.10.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.0...v1.10.1) (2025-03-18)
+
+
+### Bug Fixes
+
+* Add getSnapshot to HLS and webRtc players ([0842106](https://github.com/impleotv/stserver-frontend-comp/commit/08421062fc20d83e3b6303d45484edc6b004d068))
+* Implement snapshot for players ([b786c87](https://github.com/impleotv/stserver-frontend-comp/commit/b786c87e6a23c833834a8c6cb9b34bb551db571a))
+
+## [1.10.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.9.3...v1.10.0) (2025-03-16)
+
+
+### Features
+
+* Update JSPlayer and add getSnapshot ([6e97d9a](https://github.com/impleotv/stserver-frontend-comp/commit/6e97d9af301444e05fcb162b8c39716dad8a2736))
+
+
+### Bug Fixes
+
+* update package.json ([cab0ceb](https://github.com/impleotv/stserver-frontend-comp/commit/cab0ceb161b1b7f63d2c6cdc46e05ef02c102dee))
+* Ver 1.9.3 ([3f92fde](https://github.com/impleotv/stserver-frontend-comp/commit/3f92fdeb1863898a85136c690300b18c741a428e))
+
 ### [1.9.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.9.2...v1.9.3) (2024-10-03)
 
 
