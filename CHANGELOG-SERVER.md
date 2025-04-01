@@ -2,6 +2,43 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.11.2](https://github.com/impleotv/stserver2/compare/v2.11.0...v2.11.2) (2025-04-01)
+
+### Features
+* Add USTOM_CONFERENCE_SERVER_URL ([3ad141c](https://github.com/impleotv/stserver2/commit/3ad141cfcfe445ca03f96d2460e2bc5442b0230d))
+* Modify frontend and the manual ([62f254b](https://github.com/impleotv/stserver2/commit/62f254b300fe9dc898ac3b1678ec22fc100fbf1c))
+
+### Bug Fixes
+* Fix document filtering by time ([72e3829](https://github.com/impleotv/stserver2/commit/72e38299d9745851551c00c2b377b6ba73c3416d))
+* Update install ([5ef70fd](https://github.com/impleotv/stserver2/commit/5ef70fd13ead1f61dc2ade00917404b065b6be41))
+* Fix "Off Earth" frame center and target presentation in the map
+
+## [2.11.0](https://github.com/impleotv/stserver2/compare/v2.10.12...v2.11.0) (2025-03-31)
+
+### Features
+
+* Add snapshots and documents ([7aed6bb](https://github.com/impleotv/stserver2/commit/7aed6bb35b23c5eee7c04cf8c316546a28389173))
+* Allow file export for all users except guest ([b22d959](https://github.com/impleotv/stserver2/commit/b22d959bff8646c3edc4e57933043fee1f0501fe))
+* Snapshot ([6253de7](https://github.com/impleotv/stserver2/commit/6253de7f6bcc59f917ac975d9ccc6074aba22395))
+
+### Bug Fixes
+
+* Add document authorization ([40acfd6](https://github.com/impleotv/stserver2/commit/40acfd67c75054abffd4256ab4777427e8098ac2))
+* Add search by username to user access ([187c57c](https://github.com/impleotv/stserver2/commit/187c57c37bcdac3ddd8a9b9fdc7c1751495bb2ca))
+* Centralize video and document directories ([1abeea5](https://github.com/impleotv/stserver2/commit/1abeea5bad9a7251a43b31a39fb2a8e6a4fd1097))
+* Fix usergroups update ([40c66be](https://github.com/impleotv/stserver2/commit/40c66bee6fcb6f175a70c5ded57e1acaa8877814))
+* Manual ([bab75e7](https://github.com/impleotv/stserver2/commit/bab75e7a6aee9e07298474c8f256506bb33c9cfe))
+* Modify snapshot ([e7a0178](https://github.com/impleotv/stserver2/commit/e7a01781c0f4c3566be06a76d912f51b6c8edb3f))
+* Modify snapshot's platform processing for vod ([7ffac1e](https://github.com/impleotv/stserver2/commit/7ffac1e8ebdeb9c382e618552f133410b069170b))
+
+### [2.10.12](https://github.com/impleotv/stserver2/compare/v2.10.11...v2.10.12) (2025-03-10)
+
+
+### Bug Fixes
+
+* Update dependencies ([9a0d5da](https://github.com/impleotv/stserver2/commit/9a0d5da99468d88f5386ddf5172120d4ce45eb35))
+* Update stserver-webrtc-streamer version ([4bd2912](https://github.com/impleotv/stserver2/commit/4bd29128aad7846f1b6f8fa66776d21dcbd32f47))
+
 ### [2.10.11](https://github.com/impleotv/stserver2/compare/v2.10.10...v2.10.11) (2025-02-13)
 
 

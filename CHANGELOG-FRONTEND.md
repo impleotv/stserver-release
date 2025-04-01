@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.11.2](https://github.com/impleotv/stserver2-frontend/compare/v2.11.1...v2.11.2) (2025-04-01)
+
+
+### Bug Fixes
+
+* Fix the presentation for Off Earth frame center and target location ([2f0ec48](https://github.com/impleotv/stserver2-frontend/commit/2f0ec4890c4f81b9b90cee659946f60cfd10e18f))
+
 ### [2.11.1](https://github.com/impleotv/stserver2-frontend/compare/v2.11.0...v2.11.1) (2025-03-31)
 
 
