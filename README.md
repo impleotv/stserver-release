@@ -7,11 +7,11 @@
 
 # StServer
 
-The **STANAG On-Demand Server** is a platform that delivers both on-demand and live Full Motion Video (FMV), along with geospatial metadata, to video analysts and field operators.
-This service enables users to easily access, analyze, and present mission-critical information, supporting faster decision-making and improved situational awareness.
-The server is designed to meet NATO Standardization Agreement (STANAG) requirements, ensuring compatibility with a wide range of military systems and applications.
-It enhances analysts’ and operators’ ability to effectively monitor and respond to dynamic situations.
-With the **STANAG On-Demand Server**, organizations benefit from a comprehensive, scalable, and reliable solution for managing video and geospatial data.
+The **STANAG On Demand Server** is a platform that delivers on-demand and live Full Motion Video (FMV) as well as geospatial metadata to video analysts and field operators. 
+This service helps them easily access, analyze, and present mission-critical information, enabling faster decision-making and improved situational awareness. 
+The server is designed to support NATO's Standardization Agreement (STANAG) requirements, ensuring compatibility with a range of military systems and applications. 
+The server enhances the ability of analysts and operators to effectively monitor and respond to dynamic situations. 
+With the **STANAG On Demand Server**, organizations can benefit from a comprehensive, scalable, and reliable solution for managing video and geospatial data.
 More [info](https://impleotv.com/products/stanagondemand-server/).
 
 ## System Requirements
@@ -21,8 +21,9 @@ OS: Linux x64.
 ## Installation (using Docker Compose)
 
 The **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/),
-with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we use Docker Compose, while Kubernetes is better suited for distributed deployment.
-
+with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a  
+method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we will use docker-compose, 
+while Kubernetes is more suitable for distributed deployment.
 
 Installation instructions can be found [here](https://www.impleotv.com/content/stserver2/help/user-guide/installation/)
 
@@ -31,10 +32,10 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.12.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.0/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.12.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.0/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.12.1 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.1/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.12.1 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.1/stserver-install-wsl.tar.gz)  | 
 
-*Released on Mon, 21 Apr, 09:33 GMT+3*
+*Released on Mon, 21 Apr, 10:26 GMT+3*
 
 ## Components versions
 
@@ -42,7 +43,7 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.12.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Backend**      |  2.12.1 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
 | **Frontend**     |  2.12.0 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.10.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
@@ -108,9 +109,9 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.12.0
+## Known issues for version 2.12.1
 
-- In version 2.7.1, MongoDB was downgraded to 4.4.18 to allow it to run in the VM. If you're not using a VM and have a more recent version of MongoDB, you can change it accordingly:
+- In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
 
 ```
   mongodb:
@@ -121,9 +122,9 @@ to
   mongodb:
     image: mongo
 ```    
-You should also do this if you're upgrading the server version and your database was created with a more recent version of MongoDB; otherwise, it won't work.
+You should also do this if you're upgrading the server version and have your DB created with a more recent mongodb version, otherwise it won't work.
 
-- If the system isn't restarted after installation, the first mission upload may fail. Delete the mission and try uploading it again.
-- 
+- If not restarted after install, first mission upload may fail. Delete the mission and upload again.
+
 ----  
 *Please don't hesitate to contact us at support@impleotv.com should you have any question.*

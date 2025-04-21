@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.12.1](https://github.com/impleotv/stserver2/compare/v2.12.0...v2.12.1) (2025-04-21)
+
+
+### Bug Fixes
+
+* Replace ~ with /home/alexc ([94a77c7](https://github.com/impleotv/stserver2/commit/94a77c7c67133d3dbcf1ffa88810445118489a64))
+* Update install ([c1ea9c0](https://github.com/impleotv/stserver2/commit/c1ea9c00adb7d12ae78be4b405c76267712979fb))
+* Update manual ([e67c244](https://github.com/impleotv/stserver2/commit/e67c244cb76ac013a15eb52cb3c4aa48d4f318e5))
+
 ## [2.12.0](https://github.com/impleotv/stserver2/compare/v2.11.3...v2.12.0) (2025-04-09)
 
 
