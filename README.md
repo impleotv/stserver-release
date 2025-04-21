@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.11.2 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.11.2/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.11.2 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.11.2/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.12.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.0/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.12.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Tue, 1 Apr, 09:32 GMT+3*
+*Released on Mon, 21 Apr, 09:33 GMT+3*
 
 ## Components versions
 
@@ -43,8 +43,8 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.11.2 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
-| **Frontend**     |  2.11.2 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **Backend**      |  2.12.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Frontend**     |  2.12.0 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.10.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
@@ -109,7 +109,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.11.2
+## Known issues for version 2.12.0
 
 - In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
 

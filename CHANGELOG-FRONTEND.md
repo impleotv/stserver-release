@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.12.0](https://github.com/impleotv/stserver2-frontend/compare/v2.11.2...v2.12.0) (2025-04-09)
+
+
+### Features
+
+* Add AIS ([651238f](https://github.com/impleotv/stserver2-frontend/commit/651238f0530c9b2470305d71b366ec283e616fe4))
+
+
+### Bug Fixes
+
+* UI changes as per EMSA request ([6907193](https://github.com/impleotv/stserver2-frontend/commit/690719359180960c2af983e485730e5fdb46a0e3))
+
 ### [2.11.2](https://github.com/impleotv/stserver2-frontend/compare/v2.11.1...v2.11.2) (2025-04-01)
 
 

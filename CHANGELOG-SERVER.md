@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.12.0](https://github.com/impleotv/stserver2/compare/v2.11.3...v2.12.0) (2025-04-09)
+
+
+### Features
+
+* Add AIS ([b2c013b](https://github.com/impleotv/stserver2/commit/b2c013b3891bfef3bf180e8ac10307016cbb8717))
+
+
+### Bug Fixes
+
+* Modify manual ([af92579](https://github.com/impleotv/stserver2/commit/af925794080a07bed711a30bf1978453a71263cf))
+* Update install ([4382e9f](https://github.com/impleotv/stserver2/commit/4382e9f6cb1535d9ce7e0bd55f98aebb93656a0d))
+
+### [2.11.3](https://github.com/impleotv/stserver2/compare/v2.11.2...v2.11.3) (2025-04-04)
+
+
+### Bug Fixes
+
+* Platform yaml fix ([966b87e](https://github.com/impleotv/stserver2/commit/966b87e1ca5892f1ea96b9f9df629b91cabe4645))
+
 ### [2.11.2](https://github.com/impleotv/stserver2/compare/v2.11.0...v2.11.2) (2025-04-01)
 
 ### Features
