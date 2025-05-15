@@ -76,11 +76,15 @@ Options:
 
 ### Getting license
 
-To obtain a license, please follow these steps:
-
 - Install the server software on your target machine.  
 - Complete the [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform) and provide the **Node Info** string for the target machine (IMPORTANT!!!).  
 - Alternatively, you can contact ImpleoTV support.  
+
+Nodeinfo can be found in the **License** dialog.  
+If the computer is offline or you’re unable to copy and paste the Node Info for any reason, please take a clear photo of the screen showing the QR code and send it to us.
+
+![Node Info](./images/licenseInfo.png)
+
 
 *Please note that licenses will be issued after the product has been purchased.*
 
@@ -91,7 +95,6 @@ There are 3 options to install the license:
 - Passing license info as the arguments (with *--licenseFile* and *--licenseKey*)
 - Copying license file (.lic) and a key (.txt) file into current working directory **LICENSE_DIR** defined in **.env**
 
-![Node Info](./images/license.png)
 
 ### Uploading license
 You will receive 2 files - license file and key file. Simply drag and drop them into the ***Upload*** dropzone.
