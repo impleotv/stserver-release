@@ -32,10 +32,10 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  2.12.1 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.1/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  2.12.1 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.12.1/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  2.14.1 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.14.1/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  2.14.1 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v2.14.1/stserver-install-wsl.tar.gz)  | 
 
-*Released on Mon, 21 Apr, 10:26 GMT+3*
+*Released on Thu, 15 May, 18:38 GMT+3*
 
 ## Components versions
 
@@ -43,8 +43,8 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  2.12.1 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
-| **Frontend**     |  2.12.0 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
+| **Backend**      |  2.14.1 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Frontend**     |  2.14.1 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.10.3 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
@@ -76,15 +76,11 @@ Options:
 
 ### Getting license
 
+To obtain a license, please follow these steps:
+
 - Install the server software on your target machine.  
 - Complete the [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform) and provide the **Node Info** string for the target machine (IMPORTANT!!!).  
 - Alternatively, you can contact ImpleoTV support.  
-
-Nodeinfo can be found in the **License** dialog.  
-If the computer is offline or you’re unable to copy and paste the Node Info for any reason, please take a clear photo of the screen showing the QR code and send it to us.
-
-![Node Info](./images/licenseInfo.png)
-
 
 *Please note that licenses will be issued after the product has been purchased.*
 
@@ -95,6 +91,7 @@ There are 3 options to install the license:
 - Passing license info as the arguments (with *--licenseFile* and *--licenseKey*)
 - Copying license file (.lic) and a key (.txt) file into current working directory **LICENSE_DIR** defined in **.env**
 
+![Node Info](./images/license.png)
 
 ### Uploading license
 You will receive 2 files - license file and key file. Simply drag and drop them into the ***Upload*** dropzone.
@@ -112,7 +109,7 @@ Make sure that the server has an access rights to read and write to this directo
 Also, only keep one copy of the license file and key, the server will use the first one found.
 
 
-## Known issues for version 2.12.1
+## Known issues for version 2.14.1
 
 - In the version 2.7.1 mongodb was downgraded to version 4.4.18 to allow runnning in the VM. If you're not using VM and have a more recent mongodb version, you can change 
 

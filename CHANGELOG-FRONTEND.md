@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.14.1](https://github.com/impleotv/stserver2-frontend/compare/v2.14.0...v2.14.1) (2025-05-08)
+
+
+### Bug Fixes
+
+* Add Sync Map center button ([032013f](https://github.com/impleotv/stserver2-frontend/commit/032013ff0136267699682a0816caffa4043a6b39))
+
+## [2.14.0](https://github.com/impleotv/stserver2-frontend/compare/v2.13.0...v2.14.0) (2025-05-08)
+
+
+### Features
+
+* Add annotations ([89eb293](https://github.com/impleotv/stserver2-frontend/commit/89eb29356264c1068f6f072d6ab8a7beedfb7b2b))
+
+
+### Bug Fixes
+
+* Add annotations mode by the area ([88f2072](https://github.com/impleotv/stserver2-frontend/commit/88f20724cf3cbe1d234b88dde4c338b7eae3234d))
+* Fix annotation edit ([6983494](https://github.com/impleotv/stserver2-frontend/commit/698349463da5c804f46a1f16d1a86f9a40ba70aa))
+
+## [2.13.0](https://github.com/impleotv/stserver2-frontend/compare/v2.12.0...v2.13.0) (2025-04-24)
+
+
+### Features
+
+* Add AIS ([693346b](https://github.com/impleotv/stserver2-frontend/commit/693346b7b2cf4ba63e88018460f7d5497e71b086))
+
+
+### Bug Fixes
+
+* Remove unrelevant (by mode)  buttons from the  MissionPlaybackToolbar ([e64c0e5](https://github.com/impleotv/stserver2-frontend/commit/e64c0e56740615814e8b7048bb51bafddabbe273))
+
 ## [2.12.0](https://github.com/impleotv/stserver2-frontend/compare/v2.11.2...v2.12.0) (2025-04-09)
 
 

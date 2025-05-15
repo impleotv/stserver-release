@@ -2,6 +2,48 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.14.1](https://github.com/impleotv/stserver2/compare/v2.14.0...v2.14.1) (2025-05-08)
+
+
+### Bug Fixes
+
+* Modify manual ([b060161](https://github.com/impleotv/stserver2/commit/b0601611e50ad417b97d21d84a99102e8f2398f1))
+* Update install ([401fd5c](https://github.com/impleotv/stserver2/commit/401fd5c66b494ced6237e2fbdf2800352010353c))
+
+## [2.14.0](https://github.com/impleotv/stserver2/compare/v2.13.0...v2.14.0) (2025-05-08)
+
+
+### Features
+
+* Add annotations ([0038b12](https://github.com/impleotv/stserver2/commit/0038b1213e51de14abfb9d7a51fb369132d824f3))
+* Add annotations ([dadafb8](https://github.com/impleotv/stserver2/commit/dadafb82826f715fc55f78a79338823955787688))
+
+
+### Bug Fixes
+
+* Modify docker ([73b49a8](https://github.com/impleotv/stserver2/commit/73b49a809b972710108f852b5922879f9fc3dac9))
+* Modify queries ([e065e36](https://github.com/impleotv/stserver2/commit/e065e36291fe0fd60fe4d679cf17e647ae1ffc9a))
+* Update install ([824893b](https://github.com/impleotv/stserver2/commit/824893b11854a7bf5bd48686e7a1937530097c53))
+
+## [2.13.0](https://github.com/impleotv/stserver2/compare/v2.12.2...v2.13.0) (2025-04-24)
+
+
+### Features
+
+* Add Ais ([52c507c](https://github.com/impleotv/stserver2/commit/52c507c7983547b7ad45a381add9ca9afa23c5b8))
+
+
+### Bug Fixes
+
+* Update install ([cba1cd3](https://github.com/impleotv/stserver2/commit/cba1cd33804b0f87e96f37a0126afb8ceeb267d7))
+
+### [2.12.2](https://github.com/impleotv/stserver2/compare/v2.12.1...v2.12.2) (2025-04-24)
+
+
+### Bug Fixes
+
+* Update install ([f4d1f05](https://github.com/impleotv/stserver2/commit/f4d1f051ac8e839a29d219c1116122c6c8a1c19f))
+
 ### [2.12.1](https://github.com/impleotv/stserver2/compare/v2.12.0...v2.12.1) (2025-04-21)
 
 
