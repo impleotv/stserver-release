@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.14.2](https://github.com/impleotv/stserver2/compare/v2.14.0...v2.14.2) (2025-05-19)
+
+
+### Bug Fixes
+
+* Modify manual ([b060161](https://github.com/impleotv/stserver2/commit/b0601611e50ad417b97d21d84a99102e8f2398f1))
+* remove env.VIDEO_DIR ([abfcc4a](https://github.com/impleotv/stserver2/commit/abfcc4a6385c28fbc8580983ccc866c1af2ec7b2))
+* Update install ([484e3fa](https://github.com/impleotv/stserver2/commit/484e3fa5e9f558082a068e961033fca03c37c124))
+* Update install ([401fd5c](https://github.com/impleotv/stserver2/commit/401fd5c66b494ced6237e2fbdf2800352010353c))
+
 ### [2.14.1](https://github.com/impleotv/stserver2/compare/v2.14.0...v2.14.1) (2025-05-08)
 
 

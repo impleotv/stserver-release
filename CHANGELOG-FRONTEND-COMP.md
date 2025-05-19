@@ -2,6 +2,56 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.10](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.9...v1.10.10) (2025-05-18)
+
+
+### Bug Fixes
+
+* Add React ([08044b5](https://github.com/impleotv/stserver-frontend-comp/commit/08044b522667d2924e7ab60974335cc9976bd027))
+
+### [1.10.9](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.8...v1.10.9) (2025-05-18)
+
+
+### Bug Fixes
+
+* Memorize tables ([3e7401a](https://github.com/impleotv/stserver-frontend-comp/commit/3e7401a80ce8a794024cea8faeb54b008220049d))
+
+### [1.10.8](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.7...v1.10.8) (2025-05-18)
+
+
+### Bug Fixes
+
+* Retame tooltip ([858568f](https://github.com/impleotv/stserver-frontend-comp/commit/858568f8bb425076af9c1619134b8396c5108b11))
+
+### [1.10.7](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.6...v1.10.7) (2025-05-18)
+
+
+### Bug Fixes
+
+* Rename Low latency to Preview ([aa6d615](https://github.com/impleotv/stserver-frontend-comp/commit/aa6d615cf2eac39b5db4024e8b1ef9f6930569dd))
+
+### [1.10.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.5...v1.10.6) (2025-04-08)
+
+
+### Bug Fixes
+
+* Change font size in the mission table ([a17140f](https://github.com/impleotv/stserver-frontend-comp/commit/a17140f784cc07d1056c4cbdab24a526e07c915d))
+* Update dependencies ([9400cd7](https://github.com/impleotv/stserver-frontend-comp/commit/9400cd71bc34f4e4e56eabc8af5bffe704944a1d))
+
+### [1.10.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.4...v1.10.5) (2025-03-30)
+
+
+### Bug Fixes
+
+* Add Search by user to the User activity table ([40093ae](https://github.com/impleotv/stserver-frontend-comp/commit/40093aec74ef57d81f8dcba6e39ce6b393af14b2))
+
+### [1.10.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.3...v1.10.4) (2025-03-26)
+
+
+### Bug Fixes
+
+* Rmove useImperativeHandle from hls and liveHls players ([e79a65a](https://github.com/impleotv/stserver-frontend-comp/commit/e79a65aeeed6a015a5507d66f25f52945bf0c7c9))
+
 ### [1.10.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.2...v1.10.3) (2025-03-26)
 
 

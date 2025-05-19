@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.14.2](https://github.com/impleotv/stserver2-frontend/compare/v2.14.1...v2.14.2) (2025-05-15)
+
+
+### Bug Fixes
+
+* Add license QR ([3b30551](https://github.com/impleotv/stserver2-frontend/commit/3b30551c629457d912fcb572cd3386e582143d89))
+* Add mission filter for AIS ([7065a69](https://github.com/impleotv/stserver2-frontend/commit/7065a6948b5a0a252fe2ddd9c1455bf2197ec2b6))
+* Fix dropzone ([4dec28d](https://github.com/impleotv/stserver2-frontend/commit/4dec28dc61dcb1f1a00a887d21c5b3bd77ac83fc))
+
 ### [2.14.1](https://github.com/impleotv/stserver2-frontend/compare/v2.14.0...v2.14.1) (2025-05-08)
 
 
