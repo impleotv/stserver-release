@@ -20,7 +20,7 @@ OS: Linux x64.
 
 ## Installation (using Docker Compose)
 
-The **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microsevices_overview/),
+The **STANAG On Demand Server** is installed as a set of [microservices](https://www.impleotv.com/content/stserver2/help/microservices/microservices_overview/),
 with Linux being the preferred operating system. Although the solution can be deployed by directly installing the components, this manual describes a  
 method that uses containerization (with Docker) and service orchestration tools. For local server deployment (single host), we will use docker-compose, 
 while Kubernetes is more suitable for distributed deployment.
@@ -80,34 +80,35 @@ To obtain a license, please follow these steps:
 
 - Install the server software on your target machine.  
 - Complete the [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform) and provide the **Node Info** string for the target machine (IMPORTANT!!!).  
-- Alternatively, you can contact ImpleoTV support.  
+If the computer is offline or you’re unable to copy and paste the Node Info for any reason, please take a clear photo of the screen showing the QR code and send it to us.
 
 *Please note that licenses will be issued after the product has been purchased.*
 
-
-There are 3 options to install the license:  
-
-- Using GUI frontend to upload the license
-- Passing license info as the arguments (with *--licenseFile* and *--licenseKey*)
-- Copying license file (.lic) and a key (.txt) file into current working directory **LICENSE_DIR** defined in **.env**
-
-![Node Info](./images/license.png)
+![Node Info](./images/licenseInfo.png)
 
 ### Uploading license
-You will receive 2 files - license file and key file. Simply drag and drop them into the ***Upload*** dropzone.
+You will receive a license file (with the .lic extension). Drag and drop it into the ***Upload*** dropzone (or select the file).  
 
-![Upload license](./images/licenseUpload.png)
+![Upload license](./images/licenseUpload.png)  
+You can review the allowed options in the **Options** tab.
 
-Licenses are stored in the folder specified in .env file and automatically mounted by the server docker container.
+> *Your license file is a JWT token. You can see it's content by opening the .lic file in any JWT viewer,  
+> for example [JWT.io](https://jwt.io).*
+
+### License file location
+
+Licenses are stored in the folder specified in the .env file and are automatically mounted by the server's Docker container.  
 ```
-LICENSE_DIR=~/licenses/stserver/
+LICENSE_DIR=${HOME}/licenses/stserver/
 ```
-It is also possible to simply copy the licenses to this directory.
+It is also possible to simply copy the license to this directory.
 
 > **Note:**  
 Make sure that the server has an access rights to read and write to this directory.  
-Also, only keep one copy of the license file and key, the server will use the first one found.
+Also, only keep one copy of the license file, the server will use the first one found.
 
+
+---
 
 ## Known issues
 
