@@ -2,6 +2,46 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.0] (2025-08-07)
+
+### BREAKING CHANGE
+
+* Replace webrtc service (stanag2webrtc instead of stserver-webrtc-streamer),
+* Webrtc player (whep)
+* Update platforms.yml format
+
+
+
+### [2.15.1](https://github.com/impleotv/stserver2/compare/v2.15.0...v2.15.1) (2025-08-07)
+
+
+### Bug Fixes
+
+* Replace webrtc service ([9a2130e](https://github.com/impleotv/stserver2/commit/9a2130e8816dba7859e09aa3f770b28fb0adefea))
+* Update dependencies ([b7dfa08](https://github.com/impleotv/stserver2/commit/b7dfa081f512913819d56864cde13c25f73964a2))
+* Update install ([b03f55f](https://github.com/impleotv/stserver2/commit/b03f55f011c7b295008e73e7a63087f8a3eb7575))
+
+## [2.15.0](https://github.com/impleotv/stserver2/compare/v2.14.4...v2.15.0) (2025-06-23)
+
+
+### Features
+
+* Add new WebRtcWhep player (frontend) ([a653e96](https://github.com/impleotv/stserver2/commit/a653e96fbbcc8f0705ffe0ed8caa8fec38049847))
+
+
+### Bug Fixes
+
+* Update install ([686a384](https://github.com/impleotv/stserver2/commit/686a384efd8d2ea851b91ea8c188be3f745d6556))
+
+### [2.14.4](https://github.com/impleotv/stserver2/compare/v2.14.3...v2.14.4) (2025-06-12)
+
+
+### Bug Fixes
+
+* Improve ais support. Modify vesselinfo model ([0777fe1](https://github.com/impleotv/stserver2/commit/0777fe1727bd6e3d2a027e769cc1871848e1a7a0))
+* remove hardcoded time overrides ([20d2b11](https://github.com/impleotv/stserver2/commit/20d2b11a993ce96aea44782811b0935b7855f8b6))
+* Update dependencies ([51ee9ac](https://github.com/impleotv/stserver2/commit/51ee9ac808a97eb6ae6263b800f9815134793a92))
+
 ### [2.14.3](https://github.com/impleotv/stserver2/compare/v2.14.2...v2.14.3) (2025-05-30)
 
 
@@ -148,7 +188,7 @@ All notable changes to this project will be documented in this file. See [standa
 * Fix platform type in live mode ([298be4b](https://github.com/impleotv/stserver2/commit/298be4ba40f848a68e14c1634b71aa627fa7b3eb))
 * Update dependencies ([46c1ace](https://github.com/impleotv/stserver2/commit/46c1ace4387c7a336495ab410fa0771f726a7027))
 * Update dependencies and the frontend ([634376c](https://github.com/impleotv/stserver2/commit/634376c5b73bb79f48a4912d10d51b4f3c022395))
-* Update dependencies. Logo per compmany ([10508ab](https://github.com/impleotv/stserver2/commit/10508abee111f757b9d7caa633ebe04006a900bb))
+* Update dependencies. Logo per company ([10508ab](https://github.com/impleotv/stserver2/commit/10508abee111f757b9d7caa633ebe04006a900bb))
 * Update install ([b3461d5](https://github.com/impleotv/stserver2/commit/b3461d590404f416e9ff1d35b99a4ac1a60f14b7))
 
 ### [2.10.9](https://github.com/impleotv/stserver2/compare/v2.10.8...v2.10.9) (2024-12-26)
@@ -158,7 +198,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 * Add license validation log ([bdbd8e6](https://github.com/impleotv/stserver2/commit/bdbd8e6acb3ffa89fa3ca2838b8fe27e66187104))
 * Update dependencies and the frontend ([634376c](https://github.com/impleotv/stserver2/commit/634376c5b73bb79f48a4912d10d51b4f3c022395))
-* Update dependencies. Logo per compmany ([10508ab](https://github.com/impleotv/stserver2/commit/10508abee111f757b9d7caa633ebe04006a900bb))
+* Update dependencies. Logo per company ([10508ab](https://github.com/impleotv/stserver2/commit/10508abee111f757b9d7caa633ebe04006a900bb))
 
 ### [2.10.8](https://github.com/impleotv/stserver2/compare/v2.10.7...v2.10.8) (2024-10-10)
 

@@ -2,6 +2,94 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.11.10](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.9...v1.11.10) (2025-08-24)
+
+
+### Bug Fixes
+
+* Fix jsplayer resize ([a4e1487](https://github.com/impleotv/stserver-frontend-comp/commit/a4e1487505ac12a06ac253fbc5eaf3bee09736ed))
+* Fix snapshot ([159ff35](https://github.com/impleotv/stserver-frontend-comp/commit/159ff35bb22c38325ac9856c3b523866fcec8277))
+
+### [1.11.9](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.8...v1.11.9) (2025-08-24)
+
+
+### Bug Fixes
+
+* Update webrtc player ([a1fd93f](https://github.com/impleotv/stserver-frontend-comp/commit/a1fd93fdcdbda70ac9f0da23ec092f87dd3115d7))
+
+### [1.11.8](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.7...v1.11.8) (2025-08-24)
+
+
+### Bug Fixes
+
+* Update webrtc player ([885161d](https://github.com/impleotv/stserver-frontend-comp/commit/885161df941419c984e11246b83077b72215aa98))
+
+### [1.11.7](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.6...v1.11.7) (2025-08-23)
+
+
+### Bug Fixes
+
+* Update webrtc player ([d5506e7](https://github.com/impleotv/stserver-frontend-comp/commit/d5506e77b06869e7339c8edcf79b69dc0cbbd0a5))
+
+### [1.11.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.5...v1.11.6) (2025-08-18)
+
+
+### Bug Fixes
+
+* Fix initial height change in whep player ([d84e4d1](https://github.com/impleotv/stserver-frontend-comp/commit/d84e4d138ceafb488ccd6466f3b64a08af02eeff))
+
+### [1.11.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.4...v1.11.5) (2025-08-17)
+
+
+### Bug Fixes
+
+* Update webrtc player ([cdbae19](https://github.com/impleotv/stserver-frontend-comp/commit/cdbae19c694ffb52ebf67e7c274608587a0fe1b7))
+* Update whep player ([c236c6c](https://github.com/impleotv/stserver-frontend-comp/commit/c236c6cecb65aaf01906f6662d0a9c87fbdac2b4))
+
+### [1.11.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.2...v1.11.4) (2025-08-16)
+
+
+### Bug Fixes
+
+* Update webrtc player ([26016ed](https://github.com/impleotv/stserver-frontend-comp/commit/26016eddf5c4a77b6e5db5e52c67d67276226547))
+* Update webrtc player. Add trickle mode ([4f710d0](https://github.com/impleotv/stserver-frontend-comp/commit/4f710d0598e2f61e68a631be162d026936c19cc9))
+* Update webrtc player. Add trickle mode ([7d35a89](https://github.com/impleotv/stserver-frontend-comp/commit/7d35a8962ddfdfe6f5456935eb5a3f59e0989ad2))
+
+### [1.11.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.2...v1.11.3) (2025-08-13)
+
+
+### Bug Fixes
+
+* Update webrtc player. Add trickle mode ([7d35a89](https://github.com/impleotv/stserver-frontend-comp/commit/7d35a8962ddfdfe6f5456935eb5a3f59e0989ad2))
+
+### [1.11.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.1...v1.11.2) (2025-08-07)
+
+
+### Bug Fixes
+
+* Updata stanagPlayer ([680c296](https://github.com/impleotv/stserver-frontend-comp/commit/680c296549ccfdc376a8494ba31f700ad42902ff))
+
+### [1.11.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.0...v1.11.1) (2025-08-07)
+
+
+### Bug Fixes
+
+* Update webrtc player ([d12cc3d](https://github.com/impleotv/stserver-frontend-comp/commit/d12cc3d53f5f5c0bd76db5fd647e394aefa42abe))
+
+## [1.11.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.10...v1.11.0) (2025-08-07)
+
+
+### Features
+
+* Add StanagPlayerWhep ([d1eb579](https://github.com/impleotv/stserver-frontend-comp/commit/d1eb5796b8be5198506c30d92b11a46fdf8a96c4))
+
+
+### Bug Fixes
+
+* Add iceServer ([88aa5e7](https://github.com/impleotv/stserver-frontend-comp/commit/88aa5e720e2da60c3b64b5ea24727420324e0da0))
+* Update dependencies ([1f6076f](https://github.com/impleotv/stserver-frontend-comp/commit/1f6076fb989f5ddf3961948d96d58150934affe7))
+* Update webrtc player ([5d77ebf](https://github.com/impleotv/stserver-frontend-comp/commit/5d77ebf4d953a9a7befefd0c85b1a7c59ba2eef6))
+
 ### [1.10.10](https://github.com/impleotv/stserver-frontend-comp/compare/v1.10.9...v1.10.10) (2025-05-18)
 
 

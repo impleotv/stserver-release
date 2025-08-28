@@ -2,6 +2,63 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.3](https://github.com/impleotv/stserver2-frontend/compare/v3.0.2...v3.0.3) (2025-08-17)
+
+
+### Bug Fixes
+
+* Update player component ([b5113ab](https://github.com/impleotv/stserver2-frontend/commit/b5113ab06302f91b4ff183b4ee383fc344ae8daa))
+
+### [3.0.2](https://github.com/impleotv/stserver2-frontend/compare/v3.0.1...v3.0.2) (2025-08-16)
+
+
+### Bug Fixes
+
+* Fix audit issues ([1a8b366](https://github.com/impleotv/stserver2-frontend/commit/1a8b3665a9fb0bb44584637b2ba23dc1a95ef9c3))
+
+### [3.0.1](https://github.com/impleotv/stserver2-frontend/compare/v3.0.0...v3.0.1) (2025-08-14)
+
+
+### Bug Fixes
+
+* Ais sensor ([211fc5a](https://github.com/impleotv/stserver2-frontend/commit/211fc5a4b42ed0ab9dcb5639bb8db80bebc8e2b8))
+* Remove irrelevant items for AIS from the platform table ([1183d98](https://github.com/impleotv/stserver2-frontend/commit/1183d98638c21bbe86ed6e173df12d74708c5189))
+
+## [3.0.0](https://github.com/impleotv/stserver2-frontend/compare/v2.14.6...v3.0.0) (2025-08-13)
+
+### [2.14.6](https://github.com/impleotv/stserver2-frontend/compare/v2.14.5...v2.14.6) (2025-08-13)
+
+### [2.14.5](https://github.com/impleotv/stserver2-frontend/compare/v2.14.4...v2.14.5) (2025-08-07)
+
+
+### Bug Fixes
+
+* Add to the toolbar the ability to delete Ais targets and vessel info ([9a5054e](https://github.com/impleotv/stserver2-frontend/commit/9a5054eadca6ffac482dc26348d01d6194aaa8ec))
+* avoid popup freeze by simplifying markup ([deb0217](https://github.com/impleotv/stserver2-frontend/commit/deb0217ebb639eb00d96e705a9303d51eedb78b2))
+* Disable document group select ([d3e89a3](https://github.com/impleotv/stserver2-frontend/commit/d3e89a3d54c82514ce3acc1aa3246ba79949d2fb))
+* Fix ais popup freeze ([0850e93](https://github.com/impleotv/stserver2-frontend/commit/0850e93d6c288902a58c94b0682fb0304e5bbc9e))
+* RPASCS-672. the AIS sensor video windows wrongly appears in GUI ([a2a277a](https://github.com/impleotv/stserver2-frontend/commit/a2a277a2c9621e1b400cb5de772e15978f3c8169))
+* RPASCS-675. sorting vessels by timestamp not applicable to the full content of the AIS table ([01c954f](https://github.com/impleotv/stserver2-frontend/commit/01c954fbecfda23dc4123e5cd30a9a8677f72db5))
+* Update dependencies ([c35f947](https://github.com/impleotv/stserver2-frontend/commit/c35f94724df56858edc937080663cee32194ea9e))
+
+### [2.14.4](https://github.com/impleotv/stserver2-frontend/compare/v2.14.3...v2.14.4) (2025-06-13)
+
+
+### Bug Fixes
+
+* Error handling in UavMap ([3880608](https://github.com/impleotv/stserver2-frontend/commit/388060868803673734950e5f54a0419ef3232f5a))
+
+### [2.14.3](https://github.com/impleotv/stserver2-frontend/compare/v2.14.2...v2.14.3) (2025-05-30)
+
+
+### Bug Fixes
+
+* Add liveMode to usergroups ([37c07e5](https://github.com/impleotv/stserver2-frontend/commit/37c07e5aeae8c564fcf8d9fe9f6b196281b5949e))
+* Fix MissionSelect api call ([a62acc1](https://github.com/impleotv/stserver2-frontend/commit/a62acc1d206a337caaf4dda176f7393eb524e00a))
+* Modify user table ([a307bdc](https://github.com/impleotv/stserver2-frontend/commit/a307bdc33b0f2c5d4c4e9ab8210fe5cdfacd6b76))
+* Rename Low latency to Preview ([0f8d172](https://github.com/impleotv/stserver2-frontend/commit/0f8d172117fc77ef2203f3d9ae0d00e154ffc646))
+* Update stserver-frontend-comp ([ed10acb](https://github.com/impleotv/stserver2-frontend/commit/ed10acb1eb56795a577b1bee819cc5180d91cc15))
+
 ### [2.14.2](https://github.com/impleotv/stserver2-frontend/compare/v2.14.1...v2.14.2) (2025-05-15)
 
 
@@ -41,7 +98,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* Remove unrelevant (by mode)  buttons from the  MissionPlaybackToolbar ([e64c0e5](https://github.com/impleotv/stserver2-frontend/commit/e64c0e56740615814e8b7048bb51bafddabbe273))
+* Remove irrelevant (by mode)  buttons from the  MissionPlaybackToolbar ([e64c0e5](https://github.com/impleotv/stserver2-frontend/commit/e64c0e56740615814e8b7048bb51bafddabbe273))
 
 ## [2.12.0](https://github.com/impleotv/stserver2-frontend/compare/v2.11.2...v2.12.0) (2025-04-09)
 
@@ -133,7 +190,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * New License ([32d8d3b](https://github.com/impleotv/stserver2-frontend/commit/32d8d3befea05f3a1965ff06639987f1918f28c3))
-* Update dependencies, inluding webrtc player ([1543588](https://github.com/impleotv/stserver2-frontend/commit/15435881e95770a397ee9ec7757504ae9e7b9df4))
+* Update dependencies, including webrtc player ([1543588](https://github.com/impleotv/stserver2-frontend/commit/15435881e95770a397ee9ec7757504ae9e7b9df4))
 
 ### [2.9.1](https://github.com/impleotv/stserver2-frontend/compare/v2.7.2...v2.9.1) (2024-04-04)
 
@@ -190,7 +247,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* Fix userfgoups delete ([5c4036d](https://github.com/impleotv/stserver2-frontend/commit/5c4036d5d38d74977364fa0df836048f754183a8))
+* Fix usergroups delete ([5c4036d](https://github.com/impleotv/stserver2-frontend/commit/5c4036d5d38d74977364fa0df836048f754183a8))
 * Update dependencies ([3f57de5](https://github.com/impleotv/stserver2-frontend/commit/3f57de56579e335ea509ebcd78e99ce58ea39770))
 
 ### [2.6.3](https://github.com/impleotv/stserver2-frontend/compare/v2.6.2...v2.6.3) (2023-09-06)
