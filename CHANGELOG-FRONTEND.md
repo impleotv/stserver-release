@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.6](https://github.com/impleotv/stserver2-frontend/compare/v3.0.5...v3.0.6) (2025-08-28)
+
+
+### Bug Fixes
+
+* Change fonts sizes in the Platforms table ([ccc3061](https://github.com/impleotv/stserver2-frontend/commit/ccc30615b5426104c6aafba8bb0c66e15df1a049))
+* Implement mouse hover over AIS targets ([b3422b6](https://github.com/impleotv/stserver2-frontend/commit/b3422b6a3c28bdc9ae45b938a3ebe8f8a57a429a))
+
+### [3.0.5](https://github.com/impleotv/stserver2-frontend/compare/v3.0.4...v3.0.5) (2025-08-24)
+
+
+### Bug Fixes
+
+* Fix jsplayer resize ([43f757f](https://github.com/impleotv/stserver2-frontend/commit/43f757fe02fe4e5ccd4287fa49e2aa71604ccb39))
+* Update webrtc player ([eb32b27](https://github.com/impleotv/stserver2-frontend/commit/eb32b2789f066b4bf510b6be1d7ced372d605033))
+
+### [3.0.4](https://github.com/impleotv/stserver2-frontend/compare/v3.0.3...v3.0.4) (2025-08-19)
+
+
+### Bug Fixes
+
+* Fix player / map heights ([9fd9106](https://github.com/impleotv/stserver2-frontend/commit/9fd910602b0b00fe835a90342940377e9cdd0e89))
+* Update webrtc player ([9c194b5](https://github.com/impleotv/stserver2-frontend/commit/9c194b55719556e7b8723c1bda95425b3887c4de))
+
 ### [3.0.3](https://github.com/impleotv/stserver2-frontend/compare/v3.0.2...v3.0.3) (2025-08-17)
 
 
