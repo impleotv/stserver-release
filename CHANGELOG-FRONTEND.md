@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.8](https://github.com/impleotv/stserver2-frontend/compare/v3.0.7...v3.0.8) (2025-09-09)
+
+### [3.0.7](https://github.com/impleotv/stserver2-frontend/compare/v3.0.6...v3.0.7) (2025-09-03)
+
+
+### Bug Fixes
+
+* Fix Ais table header actions - keep them on the same line ([1dc41f1](https://github.com/impleotv/stserver2-frontend/commit/1dc41f1d7b85a5f24479487c9d6d37e5ac9f3c33))
+
 ### [3.0.6](https://github.com/impleotv/stserver2-frontend/compare/v3.0.5...v3.0.6) (2025-08-28)
 
 
