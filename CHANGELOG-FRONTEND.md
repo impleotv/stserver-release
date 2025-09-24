@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.10](https://github.com/impleotv/stserver2-frontend/compare/v3.0.9...v3.0.10) (2025-09-24)
+
+
+### Bug Fixes
+
+* Remove playback window for ais ([df3d28d](https://github.com/impleotv/stserver2-frontend/commit/df3d28db1fd46d7829e0d3d51dd2ef208d81200e))
+
 ### [3.0.9](https://github.com/impleotv/stserver2-frontend/compare/v3.0.8...v3.0.9) (2025-09-23)
 
 ### [3.0.8](https://github.com/impleotv/stserver2-frontend/compare/v3.0.7...v3.0.8) (2025-09-09)
