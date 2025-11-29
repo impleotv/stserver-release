@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.2](https://github.com/impleotv/stserver2/compare/v3.1.1...v3.1.2) (2025-11-29)
+
+### [3.1.1](https://github.com/impleotv/stserver2/compare/v3.1.0...v3.1.1) (2025-11-28)
+
+## [3.1.0](https://github.com/impleotv/stserver2/compare/v3.0.10...v3.1.0) (2025-11-27)
+
+
+### Features
+
+* Add dark theme ([7a83a85](https://github.com/impleotv/stserver2/commit/7a83a857fc2c70081f88a23a1fb41d4863787390))
+
+### [3.0.10](https://github.com/impleotv/stserver2/compare/v3.0.7...v3.0.10) (2025-11-27)
+
+
+### Bug Fixes
+
+* Update install ([9053614](https://github.com/impleotv/stserver2/commit/905361497d0ee76656b78dfc70cb866394aa1c5c))
+
 ### [3.0.9](https://github.com/impleotv/stserver2/compare/v3.0.8...v3.0.9) (2025-11-11)
 
 ### [3.0.8](https://github.com/impleotv/stserver2/compare/v3.0.7...v3.0.8) (2025-11-11)
