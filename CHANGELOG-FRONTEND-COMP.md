@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.6](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.5...v1.12.6) (2025-11-28)
+
+### [1.12.5](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.4...v1.12.5) (2025-11-28)
+
+### [1.12.4](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.3...v1.12.4) (2025-11-28)
+
+### [1.12.3](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.2...v1.12.3) (2025-11-27)
+
+
+### Bug Fixes
+
+* Fix buttons layout ([ef7d42f](https://github.com/impleotv/stserver-frontend-comp/commit/ef7d42f8bc92432fad3316e63d3cbeca22c2c91f))
+
+### [1.12.2](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.1...v1.12.2) (2025-11-27)
+
+
+### Bug Fixes
+
+* Fix dark theme for StMissionTimeline ([df33b0f](https://github.com/impleotv/stserver-frontend-comp/commit/df33b0f5af407180e560fb565fd5b9ec91654a04))
+
+### [1.12.1](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.0...v1.12.1) (2025-11-27)
+
+## [1.12.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.11...v1.12.0) (2025-11-27)
+
+
+### Features
+
+* Add theme support ([35f0995](https://github.com/impleotv/stserver-frontend-comp/commit/35f0995e247afe39b771d59d196b0cb92090e017))
+
 ### [1.11.11](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.10...v1.11.11) (2025-09-24)
 
 ### [1.11.10](https://github.com/impleotv/stserver-frontend-comp/compare/v1.11.9...v1.11.10) (2025-08-24)

@@ -2,6 +2,40 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.2](https://github.com/impleotv/stserver2-frontend/compare/v3.1.1...v3.1.2) (2025-11-28)
+
+### [3.1.1](https://github.com/impleotv/stserver2-frontend/compare/v3.1.0...v3.1.1) (2025-11-28)
+
+
+### Bug Fixes
+
+* Fix horizontal slider ([f5bc18e](https://github.com/impleotv/stserver2-frontend/commit/f5bc18ec7fd1df837004c32a08f0fdc793173662))
+* Fix slider overflow ([3275b2e](https://github.com/impleotv/stserver2-frontend/commit/3275b2e53a3c9aba886501d9fa708aa8d8539dda))
+
+## [3.1.0](https://github.com/impleotv/stserver2-frontend/compare/v3.0.13...v3.1.0) (2025-11-27)
+
+
+### Features
+
+* Add theme support ([ff44e80](https://github.com/impleotv/stserver2-frontend/commit/ff44e80087923a9e839a8460ac9a3dff6d5a0d6a))
+
+### [3.0.13](https://github.com/impleotv/stserver2-frontend/compare/v3.0.12...v3.0.13) (2025-11-12)
+
+
+### Bug Fixes
+
+* Add lost logo ([3c42b88](https://github.com/impleotv/stserver2-frontend/commit/3c42b885add70c3a99bc600be53a4f2ea17a9f74))
+* Fix some frontend warnings ([e65c033](https://github.com/impleotv/stserver2-frontend/commit/e65c0330221a67a269799cecda359082e77a97fc))
+
+### [3.0.12](https://github.com/impleotv/stserver2-frontend/compare/v3.0.11...v3.0.12) (2025-11-12)
+
+
+### Bug Fixes
+
+* Multiple (codex) frontend fixes ([defb5f8](https://github.com/impleotv/stserver2-frontend/commit/defb5f897ec27cd94cbdb29fb55537a2fa7929bf))
+
+### [3.0.11](https://github.com/impleotv/stserver2-frontend/compare/v3.0.10...v3.0.11) (2025-09-24)
+
 ### [3.0.10](https://github.com/impleotv/stserver2-frontend/compare/v3.0.9...v3.0.10) (2025-09-24)
 
 
