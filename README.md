@@ -32,10 +32,18 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  3.1.4 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.1.4/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  3.1.4 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.1.4/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  3.1.5 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.1.5/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  3.1.5 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.1.5/stserver-install-wsl.tar.gz)  | 
 
-*Released on Tue, 9 Dec 2025, 10:07 GMT+2*
+*Released on Thu, 11 Dec 2025, 19:45 GMT+2*
+
+
+Download stserver-install.tar.gz
+```
+wget https://github.com/impleotv/stserver-release/releases/download/v3.1.5/stserver-install.tar.gz
+tar xzf stserver-install.tar.gz 
+``
+
 
 ## Components versions
 
@@ -43,9 +51,9 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  3.1.4 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Backend**      |  3.1.5 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
 | **Frontend**     |  3.1.2 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
-| **FrontendComp** |  1.12.6 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
+| **FrontendComp** |  1.12.7 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   
 
 ## Mission uploader
