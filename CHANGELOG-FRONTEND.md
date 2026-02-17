@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/impleotv/stserver2-frontend/compare/v3.1.6...v3.2.0) (2026-02-17)
+
+
+### Features
+
+* Add bulk annotation deletion ([a2065dd](https://github.com/impleotv/stserver2-frontend/commit/a2065dd3f6ab34aae14a86359946cb064089bac3))
+* Add support for annotation array import ([a44aa1a](https://github.com/impleotv/stserver2-frontend/commit/a44aa1a9c1bf0856d0f535fc94008c12789e1f27))
+
+
+### Bug Fixes
+
+* Export a single annotation instead of an array of annotations if only one exists ([6adcc54](https://github.com/impleotv/stserver2-frontend/commit/6adcc54f853cdb6aa1d4227f69ae2366205b96aa))
+
+### [3.1.6](https://github.com/impleotv/stserver2-frontend/compare/v3.1.0...v3.1.6) (2026-02-08)
+
+
+### Bug Fixes
+
+* Fix horizontal slider ([f5bc18e](https://github.com/impleotv/stserver2-frontend/commit/f5bc18ec7fd1df837004c32a08f0fdc793173662))
+* Fix slider overflow ([3275b2e](https://github.com/impleotv/stserver2-frontend/commit/3275b2e53a3c9aba886501d9fa708aa8d8539dda))
+
 ### [3.1.5](https://github.com/impleotv/stserver2-frontend/compare/v3.1.4...v3.1.5) (2026-02-04)
 
 ### [3.1.4](https://github.com/impleotv/stserver2-frontend/compare/v3.1.3...v3.1.4) (2026-02-04)

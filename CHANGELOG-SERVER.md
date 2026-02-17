@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/impleotv/stserver2/compare/v3.1.7...v3.2.0) (2026-02-17)
+
+
+### Features
+
+* Modify annotations upload interface ([01e5648](https://github.com/impleotv/stserver2/commit/01e56487640682e63be6af2a9b96e55cc8132ae4))
+
+
+### Bug Fixes
+
+* Fix bulk annotation deletion ([5b44d42](https://github.com/impleotv/stserver2/commit/5b44d421e0e5d121e3d4dde9098888948345abc6))
+* Update install ([0d07143](https://github.com/impleotv/stserver2/commit/0d0714347a2e9e6d247d52ab51945fa7f8b8e49d))
+
+### [3.1.7](https://github.com/impleotv/stserver2/compare/v3.1.5...v3.1.7) (2026-02-08)
+
+
+### Bug Fixes
+
+* Update install ([653a62e](https://github.com/impleotv/stserver2/commit/653a62ef5863a80ed711362106781b67d9a4864c))
+
 ### [3.1.6](https://github.com/impleotv/stserver2/compare/v3.1.5...v3.1.6) (2026-02-04)
 
 ### [3.1.5](https://github.com/impleotv/stserver2/compare/v3.1.4...v3.1.5) (2025-12-11)
