@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.3.2](https://github.com/impleotv/stserver2/compare/v3.3.1...v3.3.2) (2026-05-10)
+
+
+### Bug Fixes
+
+* Update install ([caf02c8](https://github.com/impleotv/stserver2/commit/caf02c8b4adf8998edc5fac5ab6d76857dc6501f))
+
+### [3.3.1](https://github.com/impleotv/stserver2/compare/v3.3.0...v3.3.1) (2026-03-30)
+
+
+### Bug Fixes
+
+* Fix geo ingest ([d70eb6d](https://github.com/impleotv/stserver2/commit/d70eb6dd3c5052d5830f42fd49897c532feaa12a))
+* Update install ([f03b684](https://github.com/impleotv/stserver2/commit/f03b684af231c030a7246aed17c0e4be9e166479))
+
+## [3.3.0](https://github.com/impleotv/stserver2/compare/v3.2.0...v3.3.0) (2026-03-29)
+
+
+### Features
+
+* Modify microservices versions ([aab998c](https://github.com/impleotv/stserver2/commit/aab998cbf875290cfc5114c6c2504548dede3f0d))
+
+
+### Bug Fixes
+
+* Mongo sort-limit fix for both AIS targets and AIS base stations. ([c309c91](https://github.com/impleotv/stserver2/commit/c309c91904a6849263926f1291a1831ff8a89cc2))
+* Update install ([4d8de26](https://github.com/impleotv/stserver2/commit/4d8de266fd2dc94681c1bb53ab7c11099d7c20c4))
+
 ## [3.2.0](https://github.com/impleotv/stserver2/compare/v3.1.7...v3.2.0) (2026-02-17)
 
 
