@@ -32,15 +32,15 @@ Installation instructions can be found [here](https://www.impleotv.com/content/s
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StServer (Linux x64)** |  3.3.2 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.3.2/stserver-install.tar.gz)  | 
-| **StServer (VOD for WSL2)** |  3.3.2 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.3.2/stserver-install-wsl.tar.gz)  | 
+| **StServer (Linux x64)** |  3.4.0 | [stserver-install.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.4.0/stserver-install.tar.gz)  | 
+| **StServer (VOD for WSL2)** |  3.4.0 | [stserver-install-wsl.tar.gz](https://github.com/impleotv/stserver-release/releases/download/v3.4.0/stserver-install-wsl.tar.gz)  | 
 
-*Released on Sun, 10 May 2026, 09:59 GMT+3*
+*Released on Tue, 12 May 2026, 08:38 GMT+3*
 
 
 Download stserver-install.tar.gz
 ```
-wget https://github.com/impleotv/stserver-release/releases/download/v3.3.2/stserver-install.tar.gz
+wget https://github.com/impleotv/stserver-release/releases/download/v3.4.0/stserver-install.tar.gz
 tar xzf stserver-install.tar.gz 
 ``
 
@@ -51,7 +51,7 @@ Current server version uses the following components:
 
 |                  | Version             | CHANGELOG                                                          | 
 |:-----------------|:-------------------:|:------------------------------------------------------------------------|
-| **Backend**      |  3.3.2 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
+| **Backend**      |  3.4.0 | [CHANGELOG-SERVER.md](./CHANGELOG-SERVER.md) | 
 | **Frontend**     |  3.2.2 | [CHANGELOG-FRONTEND.md](./CHANGELOG-FRONTEND.md) | 
 | **FrontendComp** |  1.12.10 | [CHANGELOG-FRONTEND-COMP.md](./CHANGELOG-FRONTEND-COMP.md) | 
   

@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.4.0](https://github.com/impleotv/stserver2/compare/v3.3.2...v3.4.0) (2026-05-12)
+
+
+### Features
+
+* Add syslog ([ee0d202](https://github.com/impleotv/stserver2/commit/ee0d202027c28a206f73e3663f865fd280d22702))
+* Add syslog and modify manual ([73bc29d](https://github.com/impleotv/stserver2/commit/73bc29deabc98aa21968efe9f2a9b5d8a60e2a95))
+
+
+### Bug Fixes
+
+* Update install ([96f535d](https://github.com/impleotv/stserver2/commit/96f535d591764d765cc374362fd994e26409d425))
+
 ### [3.3.2](https://github.com/impleotv/stserver2/compare/v3.3.1...v3.3.2) (2026-05-10)
 
 
