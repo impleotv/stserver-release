@@ -2,6 +2,45 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.5.2](https://github.com/impleotv/stserver2/compare/v3.5.1...v3.5.2) (2026-06-16)
+
+
+### Bug Fixes
+
+* Update install ([689aceb](https://github.com/impleotv/stserver2/commit/689aceb6603b21dab792afc13d46e5cbbd746f1f))
+
+### [3.5.1](https://github.com/impleotv/stserver2/compare/v3.5.0...v3.5.1) (2026-06-16)
+
+
+### Bug Fixes
+
+* Update install ([7db59a2](https://github.com/impleotv/stserver2/commit/7db59a2f0a06ca72541935feaa0a29fab33a25a8))
+
+## [3.5.0](https://github.com/impleotv/stserver2/compare/v3.4.2...v3.5.0) (2026-06-15)
+
+
+### Features
+
+* Improve recorder robustness ([7e9d988](https://github.com/impleotv/stserver2/commit/7e9d988fea7ec5e2ec428101a0b85b00a1de0e50))
+
+
+### Bug Fixes
+
+* Fix DVR recorder error and path presentation for Platform ([736bd25](https://github.com/impleotv/stserver2/commit/736bd259212ad5f8568668b583844d0abd061140))
+* Fix DVR status ([3d2dee5](https://github.com/impleotv/stserver2/commit/3d2dee5a172ce9d727ee0d79d5093334725e0e28))
+* Fix queries ([58816a3](https://github.com/impleotv/stserver2/commit/58816a3284599ff1d2d8bae8dd854db2fec77642))
+* Update install ([79122a6](https://github.com/impleotv/stserver2/commit/79122a6607320f331ae7e3b6c19e5f96aef065e1))
+
+### [3.4.2](https://github.com/impleotv/stserver2/compare/v3.4.1...v3.4.2) (2026-06-11)
+
+
+### Bug Fixes
+
+* Recorder error state reporting improvements ([262e49d](https://github.com/impleotv/stserver2/commit/262e49d10593698acb32f63a6994bb15396160e6))
+* Recorder related fixed and improvements ([7844488](https://github.com/impleotv/stserver2/commit/7844488bd31634754f5ba579787ec15d72ef2650))
+* Update install ([456f3d2](https://github.com/impleotv/stserver2/commit/456f3d20c73f8de6cf47bf08200bbcd431ae9b19))
+* Update install ([26a429e](https://github.com/impleotv/stserver2/commit/26a429e26b8542ed1b8e7bf2108cfc572509d1c4))
+
 ### [3.4.1](https://github.com/impleotv/stserver2/compare/v3.4.0...v3.4.1) (2026-05-17)
 
 
