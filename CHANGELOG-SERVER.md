@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.5.3](https://github.com/impleotv/stserver2/compare/v3.5.2...v3.5.3) (2026-06-21)
+
+
+### Bug Fixes
+
+* Make recorder restart only for video ([89db0a6](https://github.com/impleotv/stserver2/commit/89db0a62d2ea44b703a05a70424976a901f1c670))
+
 ### [3.5.2](https://github.com/impleotv/stserver2/compare/v3.5.1...v3.5.2) (2026-06-16)
 
 
