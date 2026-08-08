@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.5.4](https://github.com/impleotv/stserver2/compare/v3.5.3...v3.5.4) (2026-08-08)
+
+
+### Bug Fixes
+
+* Fix recorder process restart. Preserve sensor live state, recording end time, mission access token, and user-group visibility. ([8294788](https://github.com/impleotv/stserver2/commit/829478860fc38cae7398a59ea98f15bc2462db0c))
+
 ### [3.5.3](https://github.com/impleotv/stserver2/compare/v3.5.2...v3.5.3) (2026-06-21)
 
 
