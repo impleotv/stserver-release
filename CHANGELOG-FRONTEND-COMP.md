@@ -2,6 +2,37 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.7](https://github.com/impleotv/stserver-frontend-comp/compare/v3.0.6...v3.0.7) (2026-10-08)
+
+### [3.0.6](https://github.com/impleotv/stserver-frontend-comp/compare/v3.0.5...v3.0.6) (2026-10-08)
+
+### [3.0.5](https://github.com/impleotv/stserver-frontend-comp/compare/v3.0.4...v3.0.5) (2026-10-08)
+
+### [3.0.4](https://github.com/impleotv/stserver-frontend-comp/compare/v3.0.3...v3.0.4) (2026-10-08)
+
+
+### Bug Fixes
+
+* Fix player toolbar ([5fdd54a](https://github.com/impleotv/stserver-frontend-comp/commit/5fdd54a4ee6f5c76cfbfb1c6232ce43866999790))
+
+### [3.0.3](https://github.com/impleotv/stserver-frontend-comp/compare/v3.0.2...v3.0.3) (2026-10-06)
+
+### [3.0.2](https://github.com/impleotv/stserver-frontend-comp/compare/v3.0.1...v3.0.2) (2026-09-30)
+
+### [3.0.1](https://github.com/impleotv/stserver-frontend-comp/compare/v2.1.0...v3.0.1) (2026-09-30)
+
+## [2.1.0](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.10...v2.1.0) (2026-09-29)
+
+
+### Features
+
+* migrate component library to React 18 ([a070d31](https://github.com/impleotv/stserver-frontend-comp/commit/a070d3102380acb31fcbf2bfbf8de6906325565e))
+
+
+### Bug Fixes
+
+* Fix compilation in July 2026 ([8559ca2](https://github.com/impleotv/stserver-frontend-comp/commit/8559ca26d8c9eef5d381aae346bf1977d5ec77a8))
+
 ### [1.12.10](https://github.com/impleotv/stserver-frontend-comp/compare/v1.12.9...v1.12.10) (2026-05-08)
 
 

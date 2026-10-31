@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.4.2](https://github.com/impleotv/stserver2-frontend/compare/v3.4.1...v3.4.2) (2026-10-01)
+
+
+### Bug Fixes
+
+* Style fixes ([061aaf4](https://github.com/impleotv/stserver2-frontend/commit/061aaf4c28c9459d437934a2eb814af1ee55f998))
+
+### [3.4.1](https://github.com/impleotv/stserver2-frontend/compare/v3.4.0...v3.4.1) (2026-09-30)
+
+## [3.4.0](https://github.com/impleotv/stserver2-frontend/compare/v3.3.4...v3.4.0) (2026-09-30)
+
+
+### Features
+
+* Node 22 rewrite ([3ff4c76](https://github.com/impleotv/stserver2-frontend/commit/3ff4c76ee7c30837ffb1b4c07976c99bee48c584))
+
+### [3.3.4](https://github.com/impleotv/stserver2-frontend/compare/v3.3.3...v3.3.4) (2026-09-29)
+
+### [3.3.3](https://github.com/impleotv/stserver2-frontend/compare/v3.3.2...v3.3.3) (2026-09-29)
+
+
+### Features
+
+* migrate app to React 18 ([994664f](https://github.com/impleotv/stserver2-frontend/commit/994664fd5121d74506a20f57ebf4809e7867d993))
+
+### [3.3.2](https://github.com/impleotv/stserver2-frontend/compare/v3.3.1...v3.3.2) (2026-09-29)
+
+### [3.3.1](https://github.com/impleotv/stserver2-frontend/compare/v3.2.5...v3.3.1) (2026-09-29)
+
 ### [3.2.5](https://github.com/impleotv/stserver2-frontend/compare/v3.2.4...v3.2.5) (2026-06-21)
 
 

@@ -2,6 +2,124 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.7.1](https://github.com/impleotv/stserver2/compare/v3.7.0...v3.7.1) (2026-10-08)
+
+
+### Bug Fixes
+
+* Fix license bug ([13561b0](https://github.com/impleotv/stserver2/commit/13561b01d8a2ed33c7d15d5889f462b5c3c5adc7))
+* Startup fix ([d6b278a](https://github.com/impleotv/stserver2/commit/d6b278a415232f03687315486903b1a644f9a093))
+* Update install ([5ff6a76](https://github.com/impleotv/stserver2/commit/5ff6a76c69040fc1a26e8156f8bb11c198c74278))
+
+## [3.7.0](https://github.com/impleotv/stserver2/compare/v3.6.10...v3.7.0) (2026-10-06)
+
+
+### Features
+
+* Add libmisb webassembly ([65960f1](https://github.com/impleotv/stserver2/commit/65960f1e4ef7fdf3d5cda0651e7188473969de91))
+
+
+### Bug Fixes
+
+* Fix Mission ingest updates ([5f25648](https://github.com/impleotv/stserver2/commit/5f25648405a911652cb1b53ef497bab97a71830c))
+* Fix next mission selectoin after deletion ([569510e](https://github.com/impleotv/stserver2/commit/569510e41e1a8aaff26288911a40338e18a011eb))
+* Timeline and other UI fixes ([b28571b](https://github.com/impleotv/stserver2/commit/b28571bca51ced2cfa87fdf7df3ed578ea313d83))
+* Timeline clicks synchronization fix ([1bd0727](https://github.com/impleotv/stserver2/commit/1bd072716f47aa9147e90e12bd6e37ed8befb9f0))
+* Update install ([d488471](https://github.com/impleotv/stserver2/commit/d488471fac3c15481478a91d8b4e155e5eca45ba))
+
+### [3.6.10](https://github.com/impleotv/stserver2/compare/v3.6.9...v3.6.10) (2026-10-03)
+
+* Use libmisb webassembly for klv processing
+
+### Bug Fixes
+
+* Update install ([d2bdb3f](https://github.com/impleotv/stserver2/commit/d2bdb3f54f0e874e25e0ca04cdcbbafec5bfd401))
+
+### [3.6.9](https://github.com/impleotv/stserver2/compare/v3.6.6...v3.6.9) (2026-10-02)
+
+
+### Bug Fixes
+
+* Update install ([e5df176](https://github.com/impleotv/stserver2/commit/e5df176660654aa266b3e2e66064c2e7a2bcc797))
+
+### [3.6.8](https://github.com/impleotv/stserver2/compare/v3.6.6...v3.6.8) (2026-10-02)
+
+
+### Bug Fixes
+
+* Update install ([e5df176](https://github.com/impleotv/stserver2/commit/e5df176660654aa266b3e2e66064c2e7a2bcc797))
+
+### [3.6.7](https://github.com/impleotv/stserver2/compare/v3.6.6...v3.6.7) (2026-10-02)
+
+
+### Bug Fixes
+
+* Update install ([e5df176](https://github.com/impleotv/stserver2/commit/e5df176660654aa266b3e2e66064c2e7a2bcc797))
+
+### [3.6.6](https://github.com/impleotv/stserver2/compare/v3.6.5...v3.6.6) (2026-10-02)
+
+
+### Bug Fixes
+
+* Update install ([aeb873f](https://github.com/impleotv/stserver2/commit/aeb873ffa15fac0b04a7afcc10b81f32bd8bda22))
+
+### [3.6.5](https://github.com/impleotv/stserver2/compare/v3.6.4...v3.6.5) (2026-10-01)
+
+
+### Bug Fixes
+
+* Update install ([16f57af](https://github.com/impleotv/stserver2/commit/16f57af8adb2babd70d8477cd3ab1fedec36639b))
+
+### [3.6.4](https://github.com/impleotv/stserver2/compare/v3.6.3...v3.6.4) (2026-10-01)
+
+
+### Bug Fixes
+
+* Fix timeline, Snapshot and Bookmark dialogs ([df2e40a](https://github.com/impleotv/stserver2/commit/df2e40a29087909f8af0d768704e6685754b6752))
+* Update install ([205656b](https://github.com/impleotv/stserver2/commit/205656b8688bf197d10d8eddbbab201cea4caeb0))
+
+### [3.6.3](https://github.com/impleotv/stserver2/compare/v3.6.2...v3.6.3) (2026-10-01)
+
+* Timeline now uses recording time and not klv time, so streams with the wrong time (or looped) should be properly presented.
+* Ingest uses some batch DB writes and is about x4 times faster
+* AIS map fetch and rendering should be x17 times faster
+* New Flight scheduler / calendar
+* New Platform configuation editor
+* New 3D View
+* New Resource monitor
+* Remove StSupervisor service
+
+### Bug Fixes
+
+* Update install ([95daf63](https://github.com/impleotv/stserver2/commit/95daf6312028a0b20994d39429e7d0e48089ea02))
+
+### [3.6.2](https://github.com/impleotv/stserver2/compare/v3.6.1...v3.6.2) (2026-10-01)
+
+
+### Bug Fixes
+
+* Update install ([65e97c2](https://github.com/impleotv/stserver2/commit/65e97c20d6269ba42f830741e6f0bbfefe1a5e92))
+
+### [3.6.1](https://github.com/impleotv/stserver2/compare/v3.6.0...v3.6.1) (2026-09-30)
+
+
+### Bug Fixes
+
+* Update install ([09fdb15](https://github.com/impleotv/stserver2/commit/09fdb15498d0b09feb4cbf8818b7e33932485eee))
+
+## [3.6.0](https://github.com/impleotv/stserver2/compare/v3.5.4...v3.6.0) (2026-09-29)
+
+
+### Features
+
+* Update to node 22, modify frontend ([9a1e743](https://github.com/impleotv/stserver2/commit/9a1e743a4d0191088d398c564ae8bb04417fc119))
+
+
+### Bug Fixes
+
+* Fix restart ([f415042](https://github.com/impleotv/stserver2/commit/f41504241e8135b0bfb6ad4b01f6478eb1a6a19a))
+* Update install ([638dc9a](https://github.com/impleotv/stserver2/commit/638dc9a0e62cf91f02e86cc998ec78ff9e4539f5))
+
 ### [3.5.4](https://github.com/impleotv/stserver2/compare/v3.5.3...v3.5.4) (2026-08-08)
 
 
