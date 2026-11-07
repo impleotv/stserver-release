@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.7.4](https://github.com/impleotv/stserver2/compare/v3.7.3...v3.7.4) (2026-11-07)
+
+
+### Bug Fixes
+
+* Update install ([55e43ac](https://github.com/impleotv/stserver2/commit/55e43ac1e9cd6b1758bf210081cd00c0d99f6dc5))
+
+### [3.7.3](https://github.com/impleotv/stserver2/compare/v3.7.2...v3.7.3) (2026-11-07)
+
+
+### Bug Fixes
+
+* Update install ([2974740](https://github.com/impleotv/stserver2/commit/2974740779809f751af5ca68dfbba12212ad33cc))
+
+### [3.7.2](https://github.com/impleotv/stserver2/compare/v3.7.1...v3.7.2) (2026-11-04)
+
+
+### Bug Fixes
+
+* Fix hls export ([16771ec](https://github.com/impleotv/stserver2/commit/16771ec35e90f2a1ed209d4cd3a12a098f8d9649))
+
 ### [3.7.1](https://github.com/impleotv/stserver2/compare/v3.7.0...v3.7.1) (2026-10-08)
 
 
